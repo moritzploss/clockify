@@ -32,20 +32,43 @@ router.get('/',
   makeSomeChanges);
 
 
-const getNewTracks = (userTracks) => {
-  const trackDetails = userTracks.map((item) => ({
+const byDuration = (track1, track2) => (
+  (track1.duration < track2.duration) ? -1 : 1
+);
+
+const filterTrackData = (tracks) => (
+  tracks.map((item) => ({
     duration: item.track.duration_ms,
     id: item.track.id,
     name: item.track.name,
-  }));
+  }))
+);
 
-  const targetDuration = 60000 * 30;
-  let duration = 0;
-  let i = 0;
+const getMeanTrackLength = (tracks) => (
+  Math.round(tracks.reduce((acc, curr) => acc + curr.duration, 0) / tracks.length)
+);
+
+const getTrackByDuration = (tracks, duration) => {
+  const closest = tracks.reduce((prev, curr) => {
+    return (Math.abs(curr.duration - duration) < Math.abs(prev.duration - duration) ? curr : prev);
+  });
+  return closest;
+};
+
+const getNewTracks = (userTracks, targetDuration = 60000 * 30) => {
+  const sortedTracks = filterTrackData(userTracks).sort(byDuration);
+  let targetLength = getMeanTrackLength(sortedTracks);
+  const numberOfTracks = Math.round(targetDuration / targetLength);
   const tracksToAdd = [];
-  while (duration < targetDuration) {
-    tracksToAdd.push(`spotify:track:${trackDetails[i].id}`);
-    duration += trackDetails[i].duration;
+
+  let i = 0;
+  let timeLeft = targetDuration;
+  while (i <= numberOfTracks) {
+    targetLength = Math.round(timeLeft / (numberOfTracks - i));
+    const closest = getTrackByDuration(sortedTracks, targetLength);
+    tracksToAdd.push(`spotify:track:${closest.id}`);
+    sortedTracks.splice(sortedTracks.indexOf(closest), 1);
+    timeLeft -= closest.duration;
     i += 1;
   }
   return tracksToAdd;
@@ -64,7 +87,7 @@ router.post('/create', async (req, res, next) => {
       appPlaylist = await spotify.createPlaylist(apiInstance, process.env.PLAYLIST_NAME);
     }
 
-    const userTracks = await spotify.getNUserTracks(apiInstance, 1000);
+    const userTracks = await spotify.getNUserTracks(apiInstance, 500);
     const newTracks = getNewTracks(userTracks);
 
     await spotify.replaceTracksInPlaylist(apiInstance, appPlaylist.id, newTracks);

@@ -55,19 +55,33 @@ var makeSomeChanges = function (req, res, next) { return __awaiter(void 0, void 
 router.get('/login', authentification.loginWithSpotify);
 router.get('/callback', authentification.verifySpotifyState, authentification.saveSpotifyCodeToSession);
 router.get('/', authorization.requireLogin, makeSomeChanges);
-var getNewTracks = function (userTracks) {
-    var trackDetails = userTracks.map(function (item) { return ({
-        duration: item.track.duration_ms,
-        id: item.track.id,
-        name: item.track.name,
-    }); });
-    var targetDuration = 60000 * 30;
-    var duration = 0;
-    var i = 0;
+var byDuration = function (track1, track2) { return ((track1.duration < track2.duration) ? -1 : 1); };
+var filterTrackData = function (tracks) { return (tracks.map(function (item) { return ({
+    duration: item.track.duration_ms,
+    id: item.track.id,
+    name: item.track.name,
+}); })); };
+var getMeanTrackLength = function (tracks) { return (Math.round(tracks.reduce(function (acc, curr) { return acc + curr.duration; }, 0) / tracks.length)); };
+var getTrackByDuration = function (tracks, duration) {
+    var closest = tracks.reduce(function (prev, curr) {
+        return (Math.abs(curr.duration - duration) < Math.abs(prev.duration - duration) ? curr : prev);
+    });
+    return closest;
+};
+var getNewTracks = function (userTracks, targetDuration) {
+    if (targetDuration === void 0) { targetDuration = 60000 * 30; }
+    var sortedTracks = filterTrackData(userTracks).sort(byDuration);
+    var targetLength = getMeanTrackLength(sortedTracks);
+    var numberOfTracks = Math.round(targetDuration / targetLength);
     var tracksToAdd = [];
-    while (duration < targetDuration) {
-        tracksToAdd.push("spotify:track:" + trackDetails[i].id);
-        duration += trackDetails[i].duration;
+    var i = 0;
+    var timeLeft = targetDuration;
+    while (i <= numberOfTracks) {
+        targetLength = Math.round(timeLeft / (numberOfTracks - i));
+        var closest = getTrackByDuration(sortedTracks, targetLength);
+        tracksToAdd.push("spotify:track:" + closest.id);
+        sortedTracks.splice(sortedTracks.indexOf(closest), 1);
+        timeLeft -= closest.duration;
         i += 1;
     }
     return tracksToAdd;
@@ -94,7 +108,7 @@ router.post('/create', function (req, res, next) { return __awaiter(void 0, void
             case 3:
                 appPlaylist = _a.sent();
                 _a.label = 4;
-            case 4: return [4 /*yield*/, spotify.getNUserTracks(apiInstance, 1000)];
+            case 4: return [4 /*yield*/, spotify.getNUserTracks(apiInstance, 500)];
             case 5:
                 userTracks = _a.sent();
                 newTracks = getNewTracks(userTracks);
