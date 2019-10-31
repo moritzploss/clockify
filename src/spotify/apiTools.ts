@@ -67,7 +67,6 @@ const getTargetPlaylist = async (apiInstance) => {
 
 const getPublicLink = (playlistId) => `https://open.spotify.com/playlist/${playlistId}`;
 
-
 const getNUserTracks = async (apiInstance, n: number) => {
   const userTracks = [];
   let i = 0;
