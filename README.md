@@ -22,6 +22,10 @@ Follow the [Spotify Web API](https://developer.spotify.com/documentation/general
 
 Use the information obtained from Spotify to create a `.env` file in the root of this directory, replacing all placeholders in `.env.mock`. Also replace the `SESSION_SECRET` placeholder with a secret string (will be used by `express-session`).
 
+Next, compile the TypeScript files:
+
+    npm run build
+
 Then start the development server:
 
     npm run dev
