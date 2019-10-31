@@ -7,7 +7,6 @@ var cookieParser = require('cookie-parser');
 var bodyParser = require('body-parser');
 var morgan = require('morgan');
 var helmet = require('helmet');
-// eslint-disable-next-line import/no-unresolved
 var router = require('./routes/index');
 var logging = require('./logging/logging');
 var app = express();
@@ -27,6 +26,7 @@ app.use(cookieParser());
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use('/', router);
 app.use(function (req, res) { return res.render('notFound'); });
+// eslint-disable-next-line no-unused-vars
 app.use(function (err, req, res, next) {
     logging.logger.error(err);
     req.session.spotifyCode = undefined;

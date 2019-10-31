@@ -2,11 +2,11 @@ const session = require('express-session');
 const express = require('express');
 const cors = require('cors');
 const cookieParser = require('cookie-parser');
+
 const bodyParser = require('body-parser');
 const morgan = require('morgan');
 const helmet = require('helmet');
 
-// eslint-disable-next-line import/no-unresolved
 const router = require('./routes/index');
 const logging = require('./logging/logging');
 
@@ -34,11 +34,11 @@ app.use('/', router);
 
 app.use((req, res) => res.render('notFound'));
 
+// eslint-disable-next-line no-unused-vars
 app.use((err, req, res, next) => {
   logging.logger.error(err);
   req.session.spotifyCode = undefined;
   res.render('beforeLogin');
 });
-
 
 export default app;

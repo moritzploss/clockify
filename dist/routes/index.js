@@ -1,4 +1,5 @@
 "use strict";
+/* eslint-disable import/no-unresolved */
 Object.defineProperty(exports, "__esModule", { value: true });
 var authentification = require("../controllers/authentification");
 var authorization = require("../controllers/authorization");

@@ -8,6 +8,8 @@
 /.serverless
 /sandbox/*
 
+/logs
+
 # keys and credentials
 keys.json
 set_env_vars.sh

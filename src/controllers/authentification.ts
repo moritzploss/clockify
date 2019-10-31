@@ -10,14 +10,13 @@ import * as spotify from '../spotify/apiTools';
 const randomstring = require('randomstring');
 const querystring = require('querystring');
 
-const logout = (req, res, next) => {
+const logout = (req: Request, res: Response) => {
   req.session.spotifyCode = undefined;
   res.redirect('/');
 };
 
-const getOrSaveAccessToken = async (req, res, next) => {
-  let { accessToken } = req.session;
-  if (!accessToken) {
+const getOrSaveAccessToken = async (req: Request, res: Response, next: NextFunction): Promise<void> => {
+  if (!req.session.accessToken) {
     const { accessToken, error } = await spotify.getAccessToken(req.session.spotifyCode);
     req.session.accessToken = accessToken;
     if (error) return next(error);

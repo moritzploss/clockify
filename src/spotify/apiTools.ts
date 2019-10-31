@@ -74,6 +74,7 @@ const getNUserTracks = async (apiInstance, n: number) => {
   const step = 50;
   while (userTracks.length < n) {
     try {
+      // eslint-disable-next-line no-await-in-loop
       const { body } = await getUserTracks(apiInstance, step, i * step);
       userTracks.push(...body.items);
       i += 1;

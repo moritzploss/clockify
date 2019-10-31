@@ -14,14 +14,14 @@ const getMeanTrackDuration = (tracks) => (
   Math.round(tracks.reduce((acc, curr) => acc + curr.duration, 0) / tracks.length)
 );
 
-const getTrackByDuration = (tracks, duration) => {
+const getTrackByDuration = (tracks, duration: number) => {
   const closest = tracks.reduce((prev, curr) => {
     return (Math.abs(curr.duration - duration) < Math.abs(prev.duration - duration) ? curr : prev);
   });
   return closest;
 };
 
-const getNewTracks = (userTracks, targetDuration) => {
+const getNewTracks = (userTracks, targetDuration: number) => {
   const sortedTracks = filterTrackData(userTracks).sort(byDuration);
   let targetLength = getMeanTrackDuration(sortedTracks);
   const numberOfTracks = Math.round(targetDuration / targetLength);

@@ -40,22 +40,21 @@ var spotifyConfig = require("../spotify/config");
 var spotify = require("../spotify/apiTools");
 var randomstring = require('randomstring');
 var querystring = require('querystring');
-var logout = function (req, res, next) {
+var logout = function (req, res) {
     req.session.spotifyCode = undefined;
     res.redirect('/');
 };
 exports.logout = logout;
 var getOrSaveAccessToken = function (req, res, next) { return __awaiter(void 0, void 0, void 0, function () {
-    var accessToken, _a, accessToken_1, error;
+    var _a, accessToken, error;
     return __generator(this, function (_b) {
         switch (_b.label) {
             case 0:
-                accessToken = req.session.accessToken;
-                if (!!accessToken) return [3 /*break*/, 2];
+                if (!!req.session.accessToken) return [3 /*break*/, 2];
                 return [4 /*yield*/, spotify.getAccessToken(req.session.spotifyCode)];
             case 1:
-                _a = _b.sent(), accessToken_1 = _a.accessToken, error = _a.error;
-                req.session.accessToken = accessToken_1;
+                _a = _b.sent(), accessToken = _a.accessToken, error = _a.error;
+                req.session.accessToken = accessToken;
                 if (error)
                     return [2 /*return*/, next(error)];
                 _b.label = 2;

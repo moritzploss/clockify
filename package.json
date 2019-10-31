@@ -7,7 +7,9 @@
     "lint": "esw -w --clear './src/**.ts'",
     "dev": "DEBUG=hackday:* nodemon ./dist/server.js --exec \"node --require 'dotenv/config'\"",
     "test": "mocha './tests/**.test.js' --exit",
-    "transpile": "tsc -p ."
+    "compile": "tsc -p .",
+    "public": "cp -r ./src/public/ ./dist/public/",
+    "build": "npm run public && npm run compile"
   },
   "dependencies": {
     "body-parser": "^1.19.0",

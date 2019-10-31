@@ -1,0 +1,138 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900&display=swap');
+
+*  {
+  font-family: 'Roboto', sans-serif;
+  background: #eee;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+
+h1 {
+  font-weight:  700;
+  font-size: 56px;
+  margin-bottom: 0px;
+}
+
+nav {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+
+/* hide up/down arrows ("spinners") on input fields marked type="number" */
+.no-spinners {
+  -moz-appearance:textfield;
+}
+
+.no-spinners::-webkit-outer-spin-button,
+.no-spinners::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.wrapper {
+  display: flex;
+  text-align: center;
+  max-width: 600px;
+  align-items: center;
+}
+
+.title {
+  font-size: 30px;
+  font-weight: 300;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.time {
+  margin-bottom: 40px;
+}
+
+.timespan {
+  font-size: 24px;
+  color: #888;
+  margin-right: 25px; 
+  vertical-align: baseline;
+}
+
+.time > input {
+  text-align: center;
+  border-width: 0 0 1px;
+  border-style: solid;
+  border-color: #888;
+  font-size: 36px;
+  width: 70px;
+  padding: 5px 10px;
+}
+
+.login {
+  display: inline-block;
+  text-align: center; 
+  background-color: black;
+  border: none;
+  font-size: 24px;
+  color: white;
+  padding: 10px;
+  text-decoration: none;
+  cursor: pointer;
+  width: 200px;
+}
+
+.link {
+  font-size: 24px;
+  font-weight: 300;
+  color: rgb(87, 181, 96);
+}
+
+.link:hover {
+  color: black;
+}
+
+.login:hover {
+  background-color: rgb(87, 181, 96);
+}
+
+.nav-wrapper {
+  display: block;
+  width: 100%;
+  padding: 20px;
+  margin: 0;
+}
+
+.nav {
+  color: black;
+  text-decoration: none;
+}
+
+.nav + .nav {
+  text-align: right;
+  float: right;
+}
+
+.nav:hover {
+  color: rgb(87, 181, 96);
+}
+
+.small {
+  font-size: 14px;
+  padding: 20px;
+  color: #888;
+}
+
+.bold {
+  font-weight: 700;
+}
+
