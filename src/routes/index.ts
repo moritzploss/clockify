@@ -42,8 +42,10 @@ router.post('/create', async (req, res, next) => {
     const userTracks = await spotify.getNUserTracks(apiInstance, 500);
     const newTracks = tracks.getNewTracks(userTracks, targetDuration);
 
+    const playlistUrl = `https://open.spotify.com/playlist/${targetPlaylist}`;
+
     await spotify.replaceTracksInPlaylist(apiInstance, targetPlaylist, newTracks);
-    return res.json(newTracks);
+    return res.render('created', { playlistUrl });
   } catch (error) {
     return next(error);
   }

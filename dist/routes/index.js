@@ -58,7 +58,7 @@ router.get('/login', authentification.loginWithSpotify);
 router.get('/callback', authentification.verifySpotifyState, authentification.saveSpotifyCodeToSession);
 router.get('/', authorization.requireLogin, showWelcome);
 router.post('/create', function (req, res, next) { return __awaiter(void 0, void 0, void 0, function () {
-    var apiInstance, targetDuration, targetPlaylist, userTracks, newTracks, error_1;
+    var apiInstance, targetDuration, targetPlaylist, userTracks, newTracks, playlistUrl, error_1;
     return __generator(this, function (_a) {
         switch (_a.label) {
             case 0:
@@ -74,10 +74,11 @@ router.post('/create', function (req, res, next) { return __awaiter(void 0, void
             case 3:
                 userTracks = _a.sent();
                 newTracks = tracks.getNewTracks(userTracks, targetDuration);
+                playlistUrl = "https://open.spotify.com/playlist/" + targetPlaylist;
                 return [4 /*yield*/, spotify.replaceTracksInPlaylist(apiInstance, targetPlaylist, newTracks)];
             case 4:
                 _a.sent();
-                return [2 /*return*/, res.json(newTracks)];
+                return [2 /*return*/, res.render('created', { playlistUrl: playlistUrl })];
             case 5:
                 error_1 = _a.sent();
                 return [2 /*return*/, next(error_1)];

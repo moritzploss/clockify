@@ -35,7 +35,7 @@ const getUserTracks = async (apiInstance, limit: number, offset: number) => {
   });
 };
 
-const getTargetPlaylist = async (apiInstance): Promise<string> => {
+const getTargetPlaylist = async (apiInstance) => {
   const userPlaylists = await getUserPlaylists(apiInstance);
   const playlistDetails = userPlaylists.body.items.map(({ id, name }) => ({ name, id }));
   let targetPlaylist = playlistDetails.find((list) => list.name === process.env.PLAYLIST_NAME);
