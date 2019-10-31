@@ -63,7 +63,7 @@ var newApiInstance = function (accessToken) { return __awaiter(void 0, void 0, v
 exports.newApiInstance = newApiInstance;
 var getUser = function (apiInstance) { return __awaiter(void 0, void 0, void 0, function () {
     return __generator(this, function (_a) {
-        logger.info('attempting to get user');
+        logger.info('attempting to get user data');
         return [2 /*return*/, apiInstance.getMe()];
     });
 }); };
@@ -75,7 +75,7 @@ var getUserPlaylists = function (apiInstance) { return __awaiter(void 0, void 0,
             case 0: return [4 /*yield*/, getUser(apiInstance)];
             case 1:
                 body = (_a.sent()).body;
-                logger.info('attempting to getUserPlaylists');
+                logger.info('attempting to get user playlists');
                 return [2 /*return*/, apiInstance.getUserPlaylists(body.id)];
         }
     });
@@ -102,7 +102,7 @@ var createPlaylist = function (apiInstance, listName) { return __awaiter(void 0,
             case 0: return [4 /*yield*/, getUser(apiInstance)];
             case 1:
                 body = (_a.sent()).body;
-                logger.info('attempting to create playlist');
+                logger.info('attempting to create new playlist');
                 return [2 /*return*/, apiInstance.createPlaylist(body.id, listName)];
         }
     });
@@ -119,9 +119,7 @@ var getTargetPlaylist = function (apiInstance) { return __awaiter(void 0, void 0
     var userPlaylists, playlistDetails, targetPlaylist, body;
     return __generator(this, function (_a) {
         switch (_a.label) {
-            case 0:
-                logger.info('attempting to get user playlists');
-                return [4 /*yield*/, getUserPlaylists(apiInstance)];
+            case 0: return [4 /*yield*/, getUserPlaylists(apiInstance)];
             case 1:
                 userPlaylists = _a.sent();
                 playlistDetails = userPlaylists.body.items.map(function (_a) {
@@ -130,7 +128,6 @@ var getTargetPlaylist = function (apiInstance) { return __awaiter(void 0, void 0
                 });
                 targetPlaylist = playlistDetails.find(function (list) { return list.name === process.env.PLAYLIST_NAME; });
                 if (!!targetPlaylist) return [3 /*break*/, 3];
-                logger.info('attempting to create playlist');
                 return [4 /*yield*/, createPlaylist(apiInstance, process.env.PLAYLIST_NAME)];
             case 2:
                 body = (_a.sent()).body;

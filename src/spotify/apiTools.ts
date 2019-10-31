@@ -17,13 +17,13 @@ const newApiInstance = async (accessToken: string) => {
 };
 
 const getUser = async (apiInstance) => {
-  logger.info('attempting to get user');
+  logger.info('attempting to get user data');
   return apiInstance.getMe();
 };
 
 const getUserPlaylists = async (apiInstance) => {
   const { body } = await getUser(apiInstance);
-  logger.info('attempting to getUserPlaylists');
+  logger.info('attempting to get user playlists');
   return apiInstance.getUserPlaylists(body.id);
 };
 
@@ -39,7 +39,7 @@ const replaceTracksInPlaylist = async (apiInstance, playlist: string, tracks: st
 
 const createPlaylist = async (apiInstance, listName: string) => {
   const { body } = await getUser(apiInstance);
-  logger.info('attempting to create playlist');
+  logger.info('attempting to create new playlist');
   return apiInstance.createPlaylist(body.id, listName);
 };
 
@@ -49,13 +49,11 @@ const getUserTracks = async (apiInstance, limit: number, offset: number) => {
 };
 
 const getTargetPlaylist = async (apiInstance) => {
-  logger.info('attempting to get user playlists');
   const userPlaylists = await getUserPlaylists(apiInstance);
   const playlistDetails = userPlaylists.body.items.map(({ id, name }) => ({ name, id }));
   let targetPlaylist = playlistDetails.find((list) => list.name === process.env.PLAYLIST_NAME);
 
   if (!targetPlaylist) {
-    logger.info('attempting to create playlist');
     const { body } = await createPlaylist(apiInstance, process.env.PLAYLIST_NAME);
     targetPlaylist = body;
   }

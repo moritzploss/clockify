@@ -7,18 +7,12 @@ import { NextFunction } from 'connect';
 import * as authentification from '../controllers/authentification';
 import * as authorization from '../controllers/authorization';
 import * as playlist from '../controllers/playlists';
+import * as home from '../controllers/home';
 
 const express = require('express');
 
 const router = express.Router();
 
-const showWelcome = async (req: Request, res: Response, next: NextFunction): Promise<void> => {
-  try {
-    return res.render('afterLogin');
-  } catch (error) {
-    return next(error);
-  }
-};
 
 router.get('/login',
   authentification.loginWithSpotify);
@@ -29,7 +23,7 @@ router.get('/callback',
 
 router.get('/',
   authorization.requireLogin,
-  showWelcome);
+  home.showWelcome);
 
 router.post('/create',
   authentification.getOrSaveAccessToken,
