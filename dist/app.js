@@ -4,6 +4,7 @@ var session = require('express-session');
 var express = require('express');
 var cors = require('cors');
 var cookieParser = require('cookie-parser');
+var bodyParser = require('body-parser');
 // eslint-disable-next-line import/no-unresolved
 var router = require('./routes/index');
 var app = express();
@@ -18,5 +19,6 @@ app.set('view engine', 'pug');
 app.use(express.static([__dirname, 'public'].join('/')));
 app.use(cors());
 app.use(cookieParser());
+app.use(bodyParser.urlencoded({ extended: true }));
 app.use('/', router);
 exports.default = app;

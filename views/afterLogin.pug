@@ -3,5 +3,7 @@ extends layout.pug
 block content
   h1 Hi there!
   form( action="/create" method="post")
-    input(type="text")
+    input(type="text", name="hours")
+    input(type="text", name="minutes")
+    input(type="text", name="seconds")
     input(type="submit", value="submit")

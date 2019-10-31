@@ -69,7 +69,6 @@ var getTrackByDuration = function (tracks, duration) {
     return closest;
 };
 var getNewTracks = function (userTracks, targetDuration) {
-    if (targetDuration === void 0) { targetDuration = 60000 * 30; }
     var sortedTracks = filterTrackData(userTracks).sort(byDuration);
     var targetLength = getMeanTrackLength(sortedTracks);
     var numberOfTracks = Math.round(targetDuration / targetLength);
@@ -86,8 +85,17 @@ var getNewTracks = function (userTracks, targetDuration) {
     }
     return tracksToAdd;
 };
+var hoursToMinutes = function (hours) { return hours * 60; };
+var minutesToSeconds = function (minutes) { return minutes * 60; };
+var userInputToMilliseconds = function (_a) {
+    var hours = _a.hours, minutes = _a.minutes, seconds = _a.seconds;
+    var secsFromSecs = Number(seconds);
+    var secsFromMins = minutesToSeconds(Number(minutes));
+    var secsFromHrs = minutesToSeconds(hoursToMinutes(Number(hours)));
+    return (secsFromSecs + secsFromMins + secsFromHrs) * 1000;
+};
 router.post('/create', function (req, res, next) { return __awaiter(void 0, void 0, void 0, function () {
-    var apiInstance, userPlaylists, listDetails, appPlaylist, userTracks, newTracks, error_1;
+    var apiInstance, targetDuration, userPlaylists, listDetails, appPlaylist, userTracks, newTracks, error_1;
     return __generator(this, function (_a) {
         switch (_a.label) {
             case 0:
@@ -95,6 +103,7 @@ router.post('/create', function (req, res, next) { return __awaiter(void 0, void
                 return [4 /*yield*/, spotify.newApiInstance(req.session.spotifyCode)];
             case 1:
                 apiInstance = _a.sent();
+                targetDuration = userInputToMilliseconds(req.body);
                 return [4 /*yield*/, spotify.getUserPlaylists(apiInstance)];
             case 2:
                 userPlaylists = _a.sent();
@@ -111,7 +120,7 @@ router.post('/create', function (req, res, next) { return __awaiter(void 0, void
             case 4: return [4 /*yield*/, spotify.getNUserTracks(apiInstance, 500)];
             case 5:
                 userTracks = _a.sent();
-                newTracks = getNewTracks(userTracks);
+                newTracks = getNewTracks(userTracks, targetDuration);
                 return [4 /*yield*/, spotify.replaceTracksInPlaylist(apiInstance, appPlaylist.id, newTracks)];
             case 6:
                 _a.sent();

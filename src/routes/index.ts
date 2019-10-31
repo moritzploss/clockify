@@ -55,7 +55,7 @@ const getTrackByDuration = (tracks, duration) => {
   return closest;
 };
 
-const getNewTracks = (userTracks, targetDuration = 60000 * 30) => {
+const getNewTracks = (userTracks, targetDuration) => {
   const sortedTracks = filterTrackData(userTracks).sort(byDuration);
   let targetLength = getMeanTrackLength(sortedTracks);
   const numberOfTracks = Math.round(targetDuration / targetLength);
@@ -74,10 +74,21 @@ const getNewTracks = (userTracks, targetDuration = 60000 * 30) => {
   return tracksToAdd;
 };
 
+const hoursToMinutes = (hours) => hours * 60;
+
+const minutesToSeconds = (minutes) => minutes * 60;
+
+const userInputToMilliseconds = ({ hours, minutes, seconds }) => {
+  const secsFromSecs = Number(seconds);
+  const secsFromMins = minutesToSeconds(Number(minutes));
+  const secsFromHrs = minutesToSeconds(hoursToMinutes(Number(hours)));
+  return (secsFromSecs + secsFromMins + secsFromHrs) * 1000;
+};
 
 router.post('/create', async (req, res, next) => {
   try {
     const apiInstance = await spotify.newApiInstance(req.session.spotifyCode);
+    const targetDuration = userInputToMilliseconds(req.body);
 
     const userPlaylists = await spotify.getUserPlaylists(apiInstance);
     const listDetails = userPlaylists.body.items.map(({ id, name }) => ({ name, id }));
@@ -88,7 +99,7 @@ router.post('/create', async (req, res, next) => {
     }
 
     const userTracks = await spotify.getNUserTracks(apiInstance, 500);
-    const newTracks = getNewTracks(userTracks);
+    const newTracks = getNewTracks(userTracks, targetDuration);
 
     await spotify.replaceTracksInPlaylist(apiInstance, appPlaylist.id, newTracks);
     return res.json(newTracks);
