@@ -1,5 +1,7 @@
 extends layout.pug
 
 block content
-  h1 Done!
-  a(href=playlistUrl, target="_blank") #{playlistUrl}
+  div
+    h1 We made you a playlist!
+    p.title Open the <strong>clockify</strong> playlist on your device or follow this link:
+    a(href=playlistUrl, target="_blank").link #{playlistUrl}
