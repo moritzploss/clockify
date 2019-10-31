@@ -36,24 +36,35 @@ var __generator = (this && this.__generator) || function (thisArg, body) {
     }
 };
 Object.defineProperty(exports, "__esModule", { value: true });
-var authentification = require("../controllers/authentification");
-var authorization = require("../controllers/authorization");
-var playlist = require("../controllers/playlists");
-var express = require('express');
-var router = express.Router();
-var showWelcome = function (req, res, next) { return __awaiter(void 0, void 0, void 0, function () {
+var spotify = require("../spotify/apiTools");
+var tracks = require("../tracks/index");
+var time = require("../time/index");
+var populate = function (req, res, next) { return __awaiter(void 0, void 0, void 0, function () {
+    var apiInstance, targetDuration, targetPlaylist, userTracks, newTracks, error_1;
     return __generator(this, function (_a) {
-        try {
-            return [2 /*return*/, res.render('afterLogin')];
+        switch (_a.label) {
+            case 0:
+                _a.trys.push([0, 5, , 6]);
+                return [4 /*yield*/, spotify.newApiInstance(req.session.spotifyCode)];
+            case 1:
+                apiInstance = _a.sent();
+                targetDuration = time.userInputToMilliseconds(req.body);
+                return [4 /*yield*/, spotify.getTargetPlaylist(apiInstance)];
+            case 2:
+                targetPlaylist = _a.sent();
+                return [4 /*yield*/, spotify.getNUserTracks(apiInstance, 500)];
+            case 3:
+                userTracks = _a.sent();
+                newTracks = tracks.getNewTracks(userTracks, targetDuration);
+                return [4 /*yield*/, spotify.replaceTracksInPlaylist(apiInstance, targetPlaylist, newTracks)];
+            case 4:
+                _a.sent();
+                return [2 /*return*/, res.render('created', { playlistUrl: spotify.getPublicLink(targetPlaylist) })];
+            case 5:
+                error_1 = _a.sent();
+                return [2 /*return*/, next(error_1)];
+            case 6: return [2 /*return*/];
         }
-        catch (error) {
-            return [2 /*return*/, next(error)];
-        }
-        return [2 /*return*/];
     });
 }); };
-router.get('/login', authentification.loginWithSpotify);
-router.get('/callback', authentification.verifySpotifyState, authentification.saveSpotifyCodeToSession);
-router.get('/', authorization.requireLogin, showWelcome);
-router.post('/create', playlist.populate);
-module.exports = router;
+exports.populate = populate;

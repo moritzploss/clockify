@@ -125,6 +125,8 @@ var getTargetPlaylist = function (apiInstance) { return __awaiter(void 0, void 0
     });
 }); };
 exports.getTargetPlaylist = getTargetPlaylist;
+var getPublicLink = function (playlistId) { return "https://open.spotify.com/playlist/" + playlistId; };
+exports.getPublicLink = getPublicLink;
 var getNUserTracks = function (apiInstance, n) { return __awaiter(void 0, void 0, void 0, function () {
     var tracks, i, step, body;
     return __generator(this, function (_a) {

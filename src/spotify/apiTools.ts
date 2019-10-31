@@ -48,6 +48,8 @@ const getTargetPlaylist = async (apiInstance) => {
   return targetPlaylist.id;
 };
 
+const getPublicLink = (playlistId) => `https://open.spotify.com/playlist/${playlistId}`;
+
 
 const getNUserTracks = async (apiInstance, n: number) => {
   const tracks = [];
@@ -71,4 +73,5 @@ export {
   replaceTracksInPlaylist,
   getNUserTracks,
   getTargetPlaylist,
+  getPublicLink,
 };
