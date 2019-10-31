@@ -27,6 +27,17 @@ nav {
   left: 0px;
 }
 
+/* hide up/down arrows ("spinners") on input fields marked type="number" */
+.no-spinners {
+  -moz-appearance:textfield;
+}
+
+.no-spinners::-webkit-outer-spin-button,
+.no-spinners::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
 .wrapper {
   display: flex;
   text-align: center;
@@ -124,3 +135,4 @@ nav {
 .bold {
   font-weight: 700;
 }
+
