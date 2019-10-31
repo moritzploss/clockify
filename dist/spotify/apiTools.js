@@ -57,6 +57,18 @@ var getUser = function (apiInstance) { return __awaiter(void 0, void 0, void 0, 
     return [2 /*return*/, apiInstance.getMe()];
 }); }); };
 exports.getUser = getUser;
+var getUserPlaylists = function (apiInstance) { return __awaiter(void 0, void 0, void 0, function () {
+    var body;
+    return __generator(this, function (_a) {
+        switch (_a.label) {
+            case 0: return [4 /*yield*/, getUser(apiInstance)];
+            case 1:
+                body = (_a.sent()).body;
+                return [2 /*return*/, apiInstance.getUserPlaylists(body.id)];
+        }
+    });
+}); };
+exports.getUserPlaylists = getUserPlaylists;
 var addSongsToPlaylist = function (apiInstance, playlist, songArray) { return __awaiter(void 0, void 0, void 0, function () {
     return __generator(this, function (_a) {
         return [2 /*return*/, (apiInstance.addTracksToPlaylist(playlist, songArray))];
@@ -75,3 +87,12 @@ var createPlaylist = function (apiInstance, listName) { return __awaiter(void 0,
     });
 }); };
 exports.createPlaylist = createPlaylist;
+var getUserTracks = function (apiInstance, limit, offset) { return __awaiter(void 0, void 0, void 0, function () {
+    return __generator(this, function (_a) {
+        return [2 /*return*/, apiInstance.getMySavedTracks({
+                limit: limit,
+                offset: offset,
+            })];
+    });
+}); };
+exports.getUserTracks = getUserTracks;

@@ -1,5 +1,9 @@
 # hackday
 
+## About
+
+The `Express` server was originally based on [Spotify's Web Auth Examples](https://github.com/spotify/web-api-auth-examples), but most code has been changed since. See `LICENSE` for the original license.
+
 ## Get Started
 
 Install the dependencies:

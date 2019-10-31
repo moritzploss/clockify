@@ -5,7 +5,7 @@
   "version": "0.0.1",
   "scripts": {
     "lint": "esw -w --clear './src/**.ts'",
-    "dev": "nodemon ./dist/server.js --exec \"node --require 'dotenv/config'\"",
+    "dev": "DEBUG=hackday:* nodemon ./dist/server.js --exec \"node --require 'dotenv/config'\"",
     "test": "mocha './tests/**.test.js' --exit",
     "transpile": "tsc -p ."
   },

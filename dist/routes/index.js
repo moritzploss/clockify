@@ -42,32 +42,76 @@ var authorization = require("../controllers/authorization");
 var express = require('express');
 var router = express.Router();
 var makeSomeChanges = function (req, res, next) { return __awaiter(void 0, void 0, void 0, function () {
-    var instance, user, body, error_1;
+    return __generator(this, function (_a) {
+        try {
+            return [2 /*return*/, res.render('afterLogin')];
+        }
+        catch (error) {
+            return [2 /*return*/, next(error)];
+        }
+        return [2 /*return*/];
+    });
+}); };
+router.get('/login', authentification.loginWithSpotify);
+router.get('/callback', authentification.verifySpotifyState, authentification.saveSpotifyCodeToSession);
+router.get('/', authorization.requireLogin, makeSomeChanges);
+router.post('/create', function (req, res, next) { return __awaiter(void 0, void 0, void 0, function () {
+    var targetDuration, instance, user, playlists, playlistDetails, playlist, tracks, trackDetails, duration, i, tracksToAdd, error_1;
     return __generator(this, function (_a) {
         switch (_a.label) {
             case 0:
-                _a.trys.push([0, 5, , 6]);
+                _a.trys.push([0, 8, , 9]);
+                targetDuration = 60000 * 30;
                 return [4 /*yield*/, spotify.newApiInstance(req.session.spotifyCode)];
             case 1:
                 instance = _a.sent();
                 return [4 /*yield*/, spotify.getUser(instance)];
             case 2:
                 user = _a.sent();
-                return [4 /*yield*/, spotify.createPlaylist(instance, 'this should work')];
+                return [4 /*yield*/, spotify.getUserPlaylists(instance)];
             case 3:
-                body = (_a.sent()).body;
-                return [4 /*yield*/, spotify.addSongsToPlaylist(instance, body.id, ['spotify:track:6OvggaFiCsjOLvng2qZq3k'])];
+                playlists = _a.sent();
+                playlistDetails = playlists.body.items.map(function (_a) {
+                    var id = _a.id, name = _a.name;
+                    return ({ name: name, id: id });
+                });
+                playlist = playlistDetails.find(function (playlists) { return playlists.name === process.env.PLAYLIST_NAME; });
+                return [4 /*yield*/, spotify.getUserTracks(instance, 50, 2)];
             case 4:
-                _a.sent();
-                return [2 /*return*/, res.render('afterLogin', { title: user.body.id })];
+                tracks = _a.sent();
+                trackDetails = tracks.body.items.map(function (_a) {
+                    var track = _a.track;
+                    return ({
+                        duration: track.duration_ms,
+                        id: track.id,
+                    });
+                });
+                if (!!playlist) return [3 /*break*/, 6];
+                return [4 /*yield*/, spotify.createPlaylist(instance, process.env.PLAYLIST_NAME)];
             case 5:
+                playlist = _a.sent();
+                _a.label = 6;
+            case 6:
+                duration = 0;
+                i = 0;
+                tracksToAdd = [];
+                while (duration < targetDuration) {
+                    tracksToAdd.push("spotify:track:" + trackDetails[i].id);
+                    duration += trackDetails[i].duration;
+                    i += 1;
+                }
+                console.log(playlist.id);
+                // console.log(playlists.body.items);
+                return [4 /*yield*/, spotify.addSongsToPlaylist(instance, playlist.id, tracksToAdd)];
+            case 7:
+                // console.log(playlists.body.items);
+                _a.sent();
+                return [2 /*return*/, res.json(trackDetails)];
+            case 8:
                 error_1 = _a.sent();
                 return [2 /*return*/, next(error_1)];
-            case 6: return [2 /*return*/];
+            case 9: return [2 /*return*/];
         }
     });
-}); };
-router.get('/login', authentification.loginWithSpotify);
-router.get('/callback', authentification.verifySpotifyState, authentification.saveSpotifyCodeToSession);
-router.get('/', authorization.requireLogin, makeSomeChanges);
+}); });
 module.exports = router;
