@@ -35,6 +35,19 @@ const getUserTracks = async (apiInstance, limit: number, offset: number) => {
   });
 };
 
+const getTargetPlaylist = async (apiInstance): Promise<string> => {
+  const userPlaylists = await getUserPlaylists(apiInstance);
+  const playlistDetails = userPlaylists.body.items.map(({ id, name }) => ({ name, id }));
+  let targetPlaylist = playlistDetails.find((list) => list.name === process.env.PLAYLIST_NAME);
+
+  if (!targetPlaylist) {
+    const { body } = await createPlaylist(apiInstance, process.env.PLAYLIST_NAME);
+    targetPlaylist = body;
+  }
+
+  return targetPlaylist.id;
+};
+
 
 const getNUserTracks = async (apiInstance, n: number) => {
   const tracks = [];
@@ -57,4 +70,5 @@ export {
   getUserTracks,
   replaceTracksInPlaylist,
   getNUserTracks,
+  getTargetPlaylist,
 };

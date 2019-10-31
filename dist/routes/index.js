@@ -39,9 +39,11 @@ Object.defineProperty(exports, "__esModule", { value: true });
 var spotify = require("../spotify/apiTools");
 var authentification = require("../controllers/authentification");
 var authorization = require("../controllers/authorization");
+var time = require("../time/index");
+var tracks = require("../tracks/index");
 var express = require('express');
 var router = express.Router();
-var makeSomeChanges = function (req, res, next) { return __awaiter(void 0, void 0, void 0, function () {
+var showWelcome = function (req, res, next) { return __awaiter(void 0, void 0, void 0, function () {
     return __generator(this, function (_a) {
         try {
             return [2 /*return*/, res.render('afterLogin')];
@@ -54,68 +56,7 @@ var makeSomeChanges = function (req, res, next) { return __awaiter(void 0, void 
 }); };
 router.get('/login', authentification.loginWithSpotify);
 router.get('/callback', authentification.verifySpotifyState, authentification.saveSpotifyCodeToSession);
-router.get('/', authorization.requireLogin, makeSomeChanges);
-var byDuration = function (track1, track2) { return ((track1.duration < track2.duration) ? -1 : 1); };
-var filterTrackData = function (tracks) { return (tracks.map(function (item) { return ({
-    duration: item.track.duration_ms,
-    id: item.track.id,
-    name: item.track.name,
-}); })); };
-var getMeanTrackLength = function (tracks) { return (Math.round(tracks.reduce(function (acc, curr) { return acc + curr.duration; }, 0) / tracks.length)); };
-var getTrackByDuration = function (tracks, duration) {
-    var closest = tracks.reduce(function (prev, curr) {
-        return (Math.abs(curr.duration - duration) < Math.abs(prev.duration - duration) ? curr : prev);
-    });
-    return closest;
-};
-var getNewTracks = function (userTracks, targetDuration) {
-    var sortedTracks = filterTrackData(userTracks).sort(byDuration);
-    var targetLength = getMeanTrackLength(sortedTracks);
-    var numberOfTracks = Math.round(targetDuration / targetLength);
-    var tracksToAdd = [];
-    var i = 0;
-    var timeLeft = targetDuration;
-    while (i <= numberOfTracks) {
-        targetLength = Math.round(timeLeft / (numberOfTracks - i));
-        var closest = getTrackByDuration(sortedTracks, targetLength);
-        tracksToAdd.push("spotify:track:" + closest.id);
-        sortedTracks.splice(sortedTracks.indexOf(closest), 1);
-        timeLeft -= closest.duration;
-        i += 1;
-    }
-    return tracksToAdd;
-};
-var hoursToMinutes = function (hours) { return hours * 60; };
-var minutesToSeconds = function (minutes) { return minutes * 60; };
-var userInputToMilliseconds = function (_a) {
-    var hours = _a.hours, minutes = _a.minutes, seconds = _a.seconds;
-    var secsFromSecs = Number(seconds);
-    var secsFromMins = minutesToSeconds(Number(minutes));
-    var secsFromHrs = minutesToSeconds(hoursToMinutes(Number(hours)));
-    return (secsFromSecs + secsFromMins + secsFromHrs) * 1000;
-};
-var getTargetPlaylist = function (apiInstance) { return __awaiter(void 0, void 0, void 0, function () {
-    var userPlaylists, listDetails, appPlaylist, body;
-    return __generator(this, function (_a) {
-        switch (_a.label) {
-            case 0: return [4 /*yield*/, spotify.getUserPlaylists(apiInstance)];
-            case 1:
-                userPlaylists = _a.sent();
-                listDetails = userPlaylists.body.items.map(function (_a) {
-                    var id = _a.id, name = _a.name;
-                    return ({ name: name, id: id });
-                });
-                appPlaylist = listDetails.find(function (list) { return list.name === process.env.PLAYLIST_NAME; });
-                if (!!appPlaylist) return [3 /*break*/, 3];
-                return [4 /*yield*/, spotify.createPlaylist(apiInstance, process.env.PLAYLIST_NAME)];
-            case 2:
-                body = (_a.sent()).body;
-                appPlaylist = body;
-                _a.label = 3;
-            case 3: return [2 /*return*/, appPlaylist.id];
-        }
-    });
-}); };
+router.get('/', authorization.requireLogin, showWelcome);
 router.post('/create', function (req, res, next) { return __awaiter(void 0, void 0, void 0, function () {
     var apiInstance, targetDuration, targetPlaylist, userTracks, newTracks, error_1;
     return __generator(this, function (_a) {
@@ -125,14 +66,14 @@ router.post('/create', function (req, res, next) { return __awaiter(void 0, void
                 return [4 /*yield*/, spotify.newApiInstance(req.session.spotifyCode)];
             case 1:
                 apiInstance = _a.sent();
-                targetDuration = userInputToMilliseconds(req.body);
-                return [4 /*yield*/, getTargetPlaylist(apiInstance)];
+                targetDuration = time.userInputToMilliseconds(req.body);
+                return [4 /*yield*/, spotify.getTargetPlaylist(apiInstance)];
             case 2:
                 targetPlaylist = _a.sent();
                 return [4 /*yield*/, spotify.getNUserTracks(apiInstance, 500)];
             case 3:
                 userTracks = _a.sent();
-                newTracks = getNewTracks(userTracks, targetDuration);
+                newTracks = tracks.getNewTracks(userTracks, targetDuration);
                 return [4 /*yield*/, spotify.replaceTracksInPlaylist(apiInstance, targetPlaylist, newTracks)];
             case 4:
                 _a.sent();

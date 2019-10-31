@@ -102,6 +102,29 @@ var getUserTracks = function (apiInstance, limit, offset) { return __awaiter(voi
     });
 }); };
 exports.getUserTracks = getUserTracks;
+var getTargetPlaylist = function (apiInstance) { return __awaiter(void 0, void 0, void 0, function () {
+    var userPlaylists, playlistDetails, targetPlaylist, body;
+    return __generator(this, function (_a) {
+        switch (_a.label) {
+            case 0: return [4 /*yield*/, getUserPlaylists(apiInstance)];
+            case 1:
+                userPlaylists = _a.sent();
+                playlistDetails = userPlaylists.body.items.map(function (_a) {
+                    var id = _a.id, name = _a.name;
+                    return ({ name: name, id: id });
+                });
+                targetPlaylist = playlistDetails.find(function (list) { return list.name === process.env.PLAYLIST_NAME; });
+                if (!!targetPlaylist) return [3 /*break*/, 3];
+                return [4 /*yield*/, createPlaylist(apiInstance, process.env.PLAYLIST_NAME)];
+            case 2:
+                body = (_a.sent()).body;
+                targetPlaylist = body;
+                _a.label = 3;
+            case 3: return [2 /*return*/, targetPlaylist.id];
+        }
+    });
+}); };
+exports.getTargetPlaylist = getTargetPlaylist;
 var getNUserTracks = function (apiInstance, n) { return __awaiter(void 0, void 0, void 0, function () {
     var tracks, i, step, body;
     return __generator(this, function (_a) {
