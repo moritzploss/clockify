@@ -2,7 +2,13 @@
 
 ## About
 
-The `Express` server was originally based on [Spotify's Web Auth Examples](https://github.com/spotify/web-api-auth-examples), but most code has been changed since. See `LICENSE` for the original license.
+This project contains the source files for a simple web service (referred to as `Clockify`) that allows to generate and save user-specific Spotify playlists with a fixed total length. In other words, you tell the service how long the playlist should be (in hours, minutes and seconds), and a playlist with the name `clockify` will automagically appear in your private playlists.
+
+This project is the result of a hackday as part of a fullstack developer course at `</salt>` in Stockholm. The setup for the initial commit was prepared in a private repo prior to the event.
+
+## Attribution
+
+The `Express` server is inspired by [Spotify's Web Auth Examples](https://github.com/spotify/web-api-auth-examples), although it has been altered heavily over the course of the project. See `LICENSE` for the original license.
 
 ## Get Started
 
@@ -10,7 +16,7 @@ Install the dependencies:
 
     npm i
 
-Follow the [Spotify Web API](https://developer.spotify.com/web-api/authorization-guide/) guide to register an application with Spotify. Also register the following route as a callback route for successful authentification:
+Follow the [Spotify Web API](https://developer.spotify.com/documentation/general/guides/app-settings/#register-your-app) guide to register an application with Spotify. Also register the following route as a callback route for successful authentification:
 
     http://localhost:8888/callback/
 
@@ -19,3 +25,5 @@ Use the information obtained from Spotify to create a `.env` file in the root of
 Then start the development server:
 
     npm run dev
+
+Happy hacking!
