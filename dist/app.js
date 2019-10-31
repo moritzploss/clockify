@@ -5,9 +5,14 @@ var express = require('express');
 var cors = require('cors');
 var cookieParser = require('cookie-parser');
 var bodyParser = require('body-parser');
+var morgan = require('morgan');
+var helmet = require('helmet');
 // eslint-disable-next-line import/no-unresolved
 var router = require('./routes/index');
+var logging = require('./logging/logging');
 var app = express();
+app.use(helmet());
+app.use(morgan('tiny', { stream: logging.stream }));
 app.use(session({
     secret: process.env.SESSION_SECRET,
     resave: false,

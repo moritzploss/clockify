@@ -37,16 +37,20 @@ var __generator = (this && this.__generator) || function (thisArg, body) {
 };
 Object.defineProperty(exports, "__esModule", { value: true });
 var spotifyConfig = require("./config");
+var logger = require('../logging/logging').logger;
+var spotifyApi = spotifyConfig.apiWithCredentials();
 var newApiInstance = function (spotifyCode) { return __awaiter(void 0, void 0, void 0, function () {
-    var spotifyApi, data;
+    var data;
     return __generator(this, function (_a) {
         switch (_a.label) {
             case 0:
-                spotifyApi = spotifyConfig.apiWithCredentials();
+                logger.info('attempting to get authoriazation code grant');
                 return [4 /*yield*/, spotifyApi.authorizationCodeGrant(spotifyCode)];
             case 1:
                 data = _a.sent();
+                logger.info('attempting to set access token');
                 spotifyApi.setAccessToken(data.body.access_token);
+                logger.info('attempting to set refresh token');
                 spotifyApi.setRefreshToken(data.body.refresh_token);
                 return [2 /*return*/, spotifyApi];
         }
@@ -64,6 +68,7 @@ var getUserPlaylists = function (apiInstance) { return __awaiter(void 0, void 0,
             case 0: return [4 /*yield*/, getUser(apiInstance)];
             case 1:
                 body = (_a.sent()).body;
+                logger.info('attempting to getUserPlaylists');
                 return [2 /*return*/, apiInstance.getUserPlaylists(body.id)];
         }
     });
@@ -71,13 +76,15 @@ var getUserPlaylists = function (apiInstance) { return __awaiter(void 0, void 0,
 exports.getUserPlaylists = getUserPlaylists;
 var addSongsToPlaylist = function (apiInstance, playlist, songArray) { return __awaiter(void 0, void 0, void 0, function () {
     return __generator(this, function (_a) {
-        return [2 /*return*/, (apiInstance.addTracksToPlaylist(playlist, songArray))];
+        logger.info('attempting to add songs to user playlist');
+        return [2 /*return*/, apiInstance.addTracksToPlaylist(playlist, songArray)];
     });
 }); };
 exports.addSongsToPlaylist = addSongsToPlaylist;
 var replaceTracksInPlaylist = function (apiInstance, playlist, tracks) { return __awaiter(void 0, void 0, void 0, function () {
     return __generator(this, function (_a) {
-        return [2 /*return*/, (apiInstance.replaceTracksInPlaylist(playlist, tracks))];
+        logger.info('attempting to replace tracks in user playlist');
+        return [2 /*return*/, apiInstance.replaceTracksInPlaylist(playlist, tracks)];
     });
 }); };
 exports.replaceTracksInPlaylist = replaceTracksInPlaylist;
@@ -85,9 +92,12 @@ var createPlaylist = function (apiInstance, listName) { return __awaiter(void 0,
     var body;
     return __generator(this, function (_a) {
         switch (_a.label) {
-            case 0: return [4 /*yield*/, getUser(apiInstance)];
+            case 0:
+                logger.info('attempting to get user');
+                return [4 /*yield*/, getUser(apiInstance)];
             case 1:
                 body = (_a.sent()).body;
+                logger.info('attempting to create playlist');
                 return [2 /*return*/, apiInstance.createPlaylist(body.id, listName)];
         }
     });
@@ -95,10 +105,8 @@ var createPlaylist = function (apiInstance, listName) { return __awaiter(void 0,
 exports.createPlaylist = createPlaylist;
 var getUserTracks = function (apiInstance, limit, offset) { return __awaiter(void 0, void 0, void 0, function () {
     return __generator(this, function (_a) {
-        return [2 /*return*/, apiInstance.getMySavedTracks({
-                limit: limit,
-                offset: offset,
-            })];
+        logger.info('attempting to get saved tracks');
+        return [2 /*return*/, apiInstance.getMySavedTracks({ limit: limit, offset: offset })];
     });
 }); };
 exports.getUserTracks = getUserTracks;
@@ -106,7 +114,9 @@ var getTargetPlaylist = function (apiInstance) { return __awaiter(void 0, void 0
     var userPlaylists, playlistDetails, targetPlaylist, body;
     return __generator(this, function (_a) {
         switch (_a.label) {
-            case 0: return [4 /*yield*/, getUserPlaylists(apiInstance)];
+            case 0:
+                logger.info('attempting to get user playlists');
+                return [4 /*yield*/, getUserPlaylists(apiInstance)];
             case 1:
                 userPlaylists = _a.sent();
                 playlistDetails = userPlaylists.body.items.map(function (_a) {
@@ -115,6 +125,7 @@ var getTargetPlaylist = function (apiInstance) { return __awaiter(void 0, void 0
                 });
                 targetPlaylist = playlistDetails.find(function (list) { return list.name === process.env.PLAYLIST_NAME; });
                 if (!!targetPlaylist) return [3 /*break*/, 3];
+                logger.info('attempting to get create playlist');
                 return [4 /*yield*/, createPlaylist(apiInstance, process.env.PLAYLIST_NAME)];
             case 2:
                 body = (_a.sent()).body;

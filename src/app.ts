@@ -3,11 +3,17 @@ const express = require('express');
 const cors = require('cors');
 const cookieParser = require('cookie-parser');
 const bodyParser = require('body-parser');
+const morgan = require('morgan');
+const helmet = require('helmet');
 
 // eslint-disable-next-line import/no-unresolved
 const router = require('./routes/index');
+const logging = require('./logging/logging');
 
 const app = express();
+
+app.use(helmet());
+app.use(morgan('tiny', { stream: logging.stream }));
 
 app.use(session({
   secret: process.env.SESSION_SECRET,
