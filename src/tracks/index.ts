@@ -29,7 +29,7 @@ const getNewTracks = (userTracks, targetDuration: number) => {
   const tracksToAdd = [];
   let i = 0;
   let timeLeft = targetDuration;
-  while (i <= numberOfTracks) {
+  while (i < numberOfTracks) {
     targetLength = Math.round(timeLeft / (numberOfTracks - i));
     const closest = getTrackByDuration(sortedTracks, targetLength);
     tracksToAdd.push(`spotify:track:${closest.id}`);

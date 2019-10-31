@@ -9,7 +9,7 @@ block content
     p.title How long have you got?
     form( action="/create" method="post").form
       div.time
-        input(type="number", name="hours", min="0", max="5", class="no-spinners", required)
+        input(type="number", name="hours", min="0", max="5", class="no-spinners")
         span.timespan h
         input(type="number", name="minutes", min="0", max="59", class="no-spinners", required)
         span.timespan m
