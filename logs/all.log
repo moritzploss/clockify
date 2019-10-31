@@ -10898,3 +10898,839 @@
   message: 'GET /style.css 304 - - 0.889 ms\n',
   level: '\u001b[32minfo\u001b[39m'
 }
+{
+  message: 'GET / 200 372 - 41.586 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 304 - - 1.707 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /login 302 1256 - 1.434 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /callback/?code=AQB4lfTPYNZAuJ9p_CGkGT-M5y-ekJrxShI7fri3EsQ86Zt590hrn24oT-QxB5traszYAYwivFE_aoDj8C-KICD6UUcp0zjn-egdUJpIfNRu-ZLmJGHvXDvvUqjzXLnlz9at_Iq7iiGx262Dwow1ZkO_NE4yYHvbrltbT4rlpXFfky7WB6MYvLxjDYMhOe2YQdOSaSETKYFg0s3wBhdOu08KFOlauN8VLFOyY726kGKZB84i9jIYAe_eC7pVy6AH6BRVhlDxy0BxNY9Ff7Dk9sEod_ZOA0ZNKC92aSf6V9efBBEPC38V44Crg5ntzEDqJqxEiuiqvxRUIvkb80HwNUqePm2xw9nFKl5QOwXo-0lkR6Zde-g7rVl2Jc-l0G7STWVNrua9eAD6pMvBFyuAdbKma1djnM4Gm030UtcYDPsIdbZhNigFPMsYPp0Xcw7uVGbrOubwOhGz6fBINlErVosK4wLRvz8rT5TuWTJCXAdEHL-TdBeyTCXZfv8y5zxvTSGjxXvzkIBJX6xlhTglGqr4nVnUNm0qGhe-AbTiaViNR1ZRjU_V-tLdAYrVNkgO3-ncb6EDBi8a5p0c2Ou2HPvEK63ONyTVc4g5kYVV6iqR9Eln1H0v5pRzp7mD1OuG8mKwwTUA33AGn5hlsipjkAcU-dqMXmyIM-r4oEbg1Z07oAG_GKMwUveQpJxnDyRjiNsroKZUBGMQ9rg&state=gkImCt5ltfCuLRFN 302 46 - 1.021 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET / 200 672 - 22.790 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 304 - - 0.805 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /logout 302 46 - 0.882 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET / 200 372 - 13.842 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 304 - - 0.531 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /login 302 1256 - 1.464 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /callback/?code=AQBKE5K7aZHosawMY1djHK3ZTaPFhWNd9cdlhXdWlikts17BLV_YebjvxPxEDh3TukRMZaYC1k9gpvdzzJDNTBYre1b-CR0MuXC-ffEmCNdR-JPzXLh96QfA7U4DA6Rs4maZcl2cLEJJLWHjNg_hFPnLsBRr0HTtbokX0tClVmQ6r8k_31Xbe1vS_S-3wfYjsSAvXNgJb3mpZm2XMJYYUriHZ8BO43Y06wS0EBra63wpXeBu5pGZKB7Sl7cV2Yh4K2_6UZOM5S1S_00Lrj62vH3ZkPqCWJwpIOrAWIb7NftJjCDIK8u7zA3dAlUyfla3aBEXdp25HR6tSrqHQoWaHOHyu_rmRpqDAcCHRHoNI9i70Eali2NZOkQk60WBJe9zPOKEHbzXo1Xpg_FNL0kzXET5U0CscObE2TyWri1d8dmXDNb53WUQNBnaHLZPeC6ntYtOs5QTxfwwfSGtE4BsfsW2Cnz6XVN7tcCmRJ7oC_VsGlq7Tizr82BF2j52Qen-hxGJITd7JqWeVXKjOwj6uRbO87w4cMKMVxzg6LR1embKLbZhZqKxyIPH4XElWCMgYAH1yZUrTyKh7yZe_NLuwf1B4uXiEt9aUIj-yJiALweVTdsge4omkHZl2Zi3MeddBra1Sj7uOU7eQaKXVubwG3z8EkG2_kos9Av3Sd0g0cWNE6SZ3R9rhEHDlK0dP2gZ47317-nLpypShAA&state=SdYAHpxWxMSLzUyO 302 46 - 0.871 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET / 200 672 - 21.503 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 200 1687 - 12.415 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /favicon.ico 200 292 - 15.849 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get authoriazation code grant',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to set access token',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user data',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user playlists',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to replace tracks in user playlist',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'POST /create 200 554 - 2869.193 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 304 - - 0.649 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /logout 302 46 - 4.149 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET / 200 372 - 18.848 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 304 - - 0.772 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /login 302 1256 - 6.366 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /callback/?code=AQCRLc6nfVpa9hjpwuWHtTMBBpkxsAJEEA_w06dWZpV_95ARoAhoyN3sX0oQsrsCu0_klCDIcBWbAZYF8rduM2zK-wpSXtN1I1evYcMJlH-oyjp0B5IFxuJCA6o1IeDScG2Goiza-OncCBnpf3uMv4AORtZw8kvuG4A5dbGGER1krAdw0l-zG5axWsoK0Z3s5ZRtSsdMIwkXgchhc91Ne9vpOSeyS-bKCwIX5aD2A2Tv5JcDq8yKBXnqnISGsxarWY7_a043fP_tfW8U4sbRJT0Fedj6oeikG8gqeebXGsyx_vk5vrm_tQIp6pluUE8lNkmFFlJpbvzBQflKx1FGSwVgAM5_-PG0_ybm0HjyP8RKd3pCYUPi-wQ-YGdaJpxcSKxW3LpwhJvRYZHZylUzbHdy_cAJVYM1oGR9oipMq4HHJeAFVTKpHsSzbmjarJUMmOqJB83tAzzTC3SUC959LMan1wCTsPlXHzSolao2bKoapi_ObyxMRg-4fOoF4ThAfZWzg7pD_YM7BOR8vtRvjjfm_VuW1GIG45s99fwjPoAA7GGmyYOPh06wYSCCBVUeF2uJRhQaCethq_lai5hSJ0_hqqX3C2FJQIOUuVbjh4wBqVkLv7x5_XwHGRiK02euj83sEtTF_Wua0R2LTq2Z0ePpVbsgNgmmpERfFkWbSla57hv47WeOSVYLhlkA4GUJ7ZKvwizSJwxeg2Y&state=aP1RA5sbTbuxqHH8 302 46 - 1.393 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET / 200 672 - 20.823 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 200 1687 - 1.591 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /favicon.ico 200 292 - 12.615 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get authoriazation code grant',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to set access token',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user data',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user playlists',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to replace tracks in user playlist',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'POST /create 200 554 - 2462.233 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 304 - - 0.899 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /logout 302 46 - 1.019 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET / 200 372 - 10.744 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 200 1687 - 2.039 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /favicon.ico 200 292 - 8.367 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET / 304 - - 7.791 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 304 - - 1.055 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /login 302 1256 - 0.880 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /callback/?code=AQAN52_Qvd9T1omANFFMD00Q2qzuySxFv_XFQ5ga0t0s5O8A033mpiGo5ezTNVZO58QL6ywSupsdGSPpQWeOJjApxHGaSYclFr2oNhZYCXHVXVuYC71vF-gzdW-30jwOGXwsUdztrUo-YsVa1D9jrrkuwumUA-HnK_RF26FatGaIQvF9aVCIfMKxLJRurFabZwSViM1KuUlNEpymoCviGuUhU6vJrYGg3QGsG_BzjWhGB1CV3ST3PlpE6qwT-aRPn3SaF2zujrFJQGobl0zFP1O_Aj-LFrSL74TExIipNRQuTjx8sY64xWCtkx2Ws8OyeAVwWmo06trKp-xHf_Zzpbpdi08crVfRUFJd3FMk3ehF9UYZgIGRRbskrkKmw4_5iEF6qLDRpjylFLLsTqcm3HW02OYIDRpe6Sk8OFLKgRpokkgVPhm9shd6vLDjxcRJUQFK_yH_TjnwnHdtx_e14o_p7OAKgHevXg6DbK8rbwJEicCNStZGZsRML4ZvjUN_hNxewM_Zpg7xm51y6GNmbHZrLRkQjSZWzgb6ssy6dEoaKAaPuEFqnJvjwTsjrHqFWGcZ-IMSN3YzSUGDFNNxhozXKzu9e4LP4mW9uDfFL6fL94f75nUZ9u3u4zVdmlD9oU0AKgkNeUefUjxXPgk7ZSu4CxOIo-K5lNVjvblbsfr_0LUjjh9z8oZefz0QUDho8AKKKkv-ie73vps&state=XYjtLi8VEFuWvIpf 302 46 - 0.950 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET / 200 672 - 13.458 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 304 - - 0.627 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to set access token',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user data',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user playlists',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to replace tracks in user playlist',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'POST /create 200 554 - 2175.178 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 304 - - 0.556 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET / 304 - - 14.340 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 304 - - 0.558 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET / 200 372 - 9.449 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 200 1687 - 1.455 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /favicon.ico 200 292 - 10.633 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /login 302 1256 - 0.942 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /callback/?code=AQCuBN6poqPZjJlnhtw7iRs_WrL2MhIG1ERYP_2UF7CV7REYgRBfPN35vTtoKz0BEC3Ozvn2uPIF7kzb6WwNZPsjomzHff5e-2IXrZvGAf0W5TpSJN4UML_F1nv3Ri9_ioZEIxaQDfAoGTxqAXOqOP86gtz1v5yY2gLOBMBlCtBcoUSyYPTm_ITJBbVuu8JfndDgvNosqbtVb7XS94WE6ToZyzb8LMJ13uC_4wGfFNC9uslyE_wJze7B8C4F0zEnGe_qTQip8QHJ0kgeO5hXkbzSL_6DypD7iNrWWpWP2nqkK9SmMw7zAxnqAdTUAdgj1FhEXnlD7dskwY0DIhv9zm_QUEG5O2c_idZrYzeZts1WKnDEol4fAJy4lBvfo8YYcpp_zMYH40SQ8zRtgzhal-St0_iYHskHls37-jGYmDJHQ1OJe9IPdtE9dmTdPI4v8M0bRN7nBvwNcqUcr-G9Kq4ake7qUdWY6-fkLE1pkwsGYYeby6mnAdSwb-xa9Mk1Q8lV7aQRDKuGTe9Wj-J3KKvtoZP-WoFVsK49wLpmO0fk1ysuGJeuXcWg881lkAUP2dwRRc-UEUhKBUKbujH4I9-7Ni54xKkVioDLG8EmWdsQ_OXynQbALDlTYacOWgCVYZze6xoiVtOdCdhPaZFTpbBwdoOYF4Wqw-fKcuYJkBcjrs58I7BEvTmb9ORgF6CTE-e-iEJ3KhpvH2I&state=6FdwgvUUpRDnQhyS 302 46 - 0.754 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET / 200 672 - 12.538 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 304 - - 1.089 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get authoriazation code grant',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to set access token',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user data',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user playlists',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to replace tracks in user playlist',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'POST /create 200 554 - 2414.541 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 304 - - 0.843 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET / 304 - - 16.991 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 200 1687 - 1.793 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /favicon.ico 200 292 - 8.824 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /logout 302 46 - 0.928 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET / 200 372 - 8.114 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 200 1687 - 0.732 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /login 302 1256 - 0.991 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /callback/?code=AQBxw5InNm0zdUBzdsAXSdlvketM2BgE-He80Dva0yvTeXRJkDBhNKv4Wc6wIvIltVi6vPvDuRhhAXXOtB30fRCaH-Gx77kOCqF4cJAYx-q9yqITaCRu2svwm-SSLn-iF4O9lX6FWrL_E3_wALCcyXrJNI2pNwWz1kfEOpZqQ14QipZIHpL8f6B2FJxVD7vY16R_3J6eOB4PViMfWCXsp4djp6YmppZoNMbOUqXS1O7Sv27KBfHqBNh78QhrPhEEVK4GsdW4aB1g6zRL1Lywtrubm4LvySN6TPZfRiT1sd3WCmfZUNKKNgMcHUHXKRqfwZSCz-WHYLxvqA9TEsZHr8ffx1eQ1DDigvtD0txaN_hDO8FOWY-H18R2D-5trQyVKwEovwU6AdtUdMmrGPbgVQTg3-3jcGzAw7VyuorDsZElnmoH8WnTin7Y86gZUAGxsp_Qm9pgi2Vx6SH0gchc_cKMJpYatpakGEniw-CmLLRGJw_RFWAaFyMtTLrGvphBy62mqetSEAi6FIWeGJJ7v3qYn49RjCDLnjkGEED7Ig2ZGwbCsKwv0HLhvnwlX2KUz4mXKQR-UIbhVU8wdZzr0AixtEFGHDwyxGv-AWb7AOC95hYfud6vV6_BGGbAETN-gYzLj4tGRiiS36ufCtHq4fhKwUrdlk8w4Z_1ENohNpD_NtE22esOHF3nWLN7cYuWMRr07jd6fjfQBlk&state=wmJbN7jLttnAw7mT 302 46 - 0.931 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET / 200 672 - 15.640 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 200 1687 - 1.355 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /favicon.ico 200 292 - 9.601 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get authoriazation code grant',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to set access token',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user data',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user playlists',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to replace tracks in user playlist',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'POST /create 200 554 - 2340.826 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 304 - - 0.590 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET / 304 - - 12.035 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 304 - - 0.554 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /logout 302 46 - 0.690 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET / 200 372 - 7.937 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 304 - - 0.749 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /login 302 1256 - 0.832 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /callback/?code=AQDgnm9ejsov2vkxcCWjK0O8ABlJVhD8j-YLFNhX-IjK4WqmtH2AqDlgME0us0JrWLTvbRAa3jSSi6ywQB7TUInhoWdt5lATxicyE6D81cYgDNf_81S106DTQIoymBYAosn2HLQWz1IbGOEotuZYoltX6egeBntrDC8TaKKQLc4Iv7SItDCUwVhUB9U06sqAPG4hwqLrUFgPYqP1iOj6Zqiz1fAeivwUNSOPCvqExTxSC9espyp3uFeLPkUAJe-RRWNZJA5XCHyLqjhPPbtUgByS1eoNnJgng5oz0yzmVRdQvkfBhHQxiEWOrboYX1g_mbyqD248rM37JDnfQWrdfuT4DiSGHjZforTLuxFIQxHowLyBQfZgwMGqIa_DnaSRs5IsleYyUTOwKCvbjG_84a8d_huBSiLOJFObXDHAkLUIpau4cTftQG4qTGZuMw1rEWaphFuXS0GB3wFjWuW_k6uwLMPMVS7gC-1vKC0CdZ3wYGY48KqcymoQDkTv_IWQ5xkNgs2iFK7c8D3dYujSZIo83SqMDukQ5tvnJ2Wt88U2KV5_Jc11PWlznPlMOZuTqkaLjYnDBVA8W8Pgg6ZaS-G2hZTuUJE8Y2P3uybcXJ_OQ0ozDRMdHfS79exWk8GLvFaIlJuZTe3CyeRljqkpWrd8VBo-1F6FVMW5wvvBeOzN-9MGQkChAjcqQrOdFw-uD4643QY5rhTVvug&state=iDIiYKSAoefzer1a 302 46 - 0.860 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET / 200 672 - 12.226 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 304 - - 0.619 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /logout 302 46 - 0.838 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET / 200 372 - 8.245 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 304 - - 0.532 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /login 302 1256 - 1.117 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /callback/?code=AQC2dshro9F4zY5bWPOzGM4jOzovSRBGRfbPPQnPxn7wsNwUFQhoTrymTb9fG_XYpVz70hHwSPchjz9f3EjUHQSy79PEOqWRD9klWbxNKYX0lMijBkG5Fug-uSe1I5hG7vgVJ1yz00WLoZQIZgy7pBsUbX64aPPJmWFDo4TmEUKn3-fzbowCbYR-K31Ox3ksempFHPjUx3hK1CPn-ITtK4UP49h4PKEdhSIqLQYbAsWRqijRQylMXIRH6Hg6UIKx_1KuRZbF4I13kztsDb25VY0O3n21SuPL-vtx-9kHhaqMFuytoV8772GwH0TNPQgVyjwZgvT2OCQeZsGsjeCYOgaFmn_UYvDnAXIxDAcfYSzPNNzGxGonfJOqlq-HD0xDKLlJTv7Q53Qv0yn_amkFeBGHG7aV0STLgIrTDhRiPyCBtTKRwEoCdysKZ7dWNr_PrLDUc0xr_WxtbXry5eCQD5F-MIR3QLEGm0NXyAfEceguXJNl1SeY4OaA7Ds7MPlWpMgBWSwNZBL86uIeJoFwHjq8JO0Rc79TR6D-MW3QK7JQNJhsmal8gjEQ8EInMEhBx8asVXPFh8SzCpz24qxIDXBtLrOU2pUUyyAipeEvdI2kVayv6mj6mwo7MTqfel2fXkq1tezRjv-ARvtoG-lKn0eYhlMoxi042NUv-LDN4BCcK2zz0jqT7dVlJeb8rok4lwymI7q3oSHt2xA&state=VifrS0vDPXrOSxhY 302 46 - 0.836 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET / 200 672 - 12.523 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 304 - - 0.521 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /logout 302 46 - 0.651 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET / 200 372 - 6.803 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 304 - - 0.516 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /login 302 1256 - 0.953 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /callback/?code=AQDXyIbALWj7cbNMmQ1HKn4VJN6tRyLtSRpvUPJGV_SPH1boe_sTgI313L3XkALq4odvt1AJz2mQfzQ3OlM_kOF7J61Nld2q2fUE7yk_RzaDHi0rAVBl0gHfS6-9BOxCyti3NYNc79wJuXCPJUfTt3M12HMdVAA0XyF_D3wKIuAhDwGHK3gUl5Qgkg5kGE4wGHf1H6xHaJegVVJQ4Gv_ohBNr8CcEKlJmLOopvw3bA2ckKN5l-3xoC7ZWe9SJwRQL3IUmG8hMwffDJL1-xs7GrMHDIhgxIPJqvXXkUTwNXNskr5Cgsjk8U0RXbxzZh1jtJYXk1bBpdomRaUmdbTp3nJ8iXF5QYMsDUHW93igxdIGPgYogOusHpz3WXIn8IQUS1tuVjEQrOla2vSQeXTIR00RQjDd7pB9KxhwwKIRXP8RdsG-UcUrFZwVk4tWIuQCS_heA2G49KR6bCFJuaI3cAPlRkXikW8__ZnuWK_LeYG-24B-GTDEJ2pSufSp8Xy9FvSeQh218zrTE0xDBPL6SYlEjMkioZLgmbnQ9gR4YsGRISMjfrfBaV-nrPOMovjSMrU9stduY4JhRsJSSGwZJbnVoGyuU92MLmpIuR4KM9Z6FU1-AeKhVH7inF_Hp9xR95UkJ3zK6h2Xausjm_W8v_L2QDHJ8e0jg5YDvyrF7K6KFs4N3pkXWZJG9WqNJr7UeP9w4MuzV0NbNtQ&state=VHnH2PBByOYFuTKd 302 46 - 0.715 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET / 200 672 - 14.163 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 200 1687 - 1.557 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /favicon.ico 200 292 - 9.038 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get authoriazation code grant',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to set access token',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user data',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user playlists',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user data',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to create new playlist',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to replace tracks in user playlist',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'POST /create 200 554 - 3020.863 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 304 - - 0.924 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /logout 302 46 - 0.904 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET / 200 372 - 6.867 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 304 - - 0.578 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /login 302 1256 - 0.787 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /callback/?code=AQDjfB9LlWAISFslLL0Fwg2DELPzDcyDeSikVP_2z5VaWnZ9JY7iQNenzvsNutl0N6-najp2UHDI3Mdo9zclQ8XqngfYdrVCERgzkDEyjlX04q2A81ZOEYkSB0QVGP6tnyRvXF9L51QgCEWoG9s6UIqC6t094W3RNIZ-9nMFoPCoLzWaLEZ5Q-a4aOGa8XfE4zNtdeIUOvrYswfmRsNobMyGsG4AAGnXaabBatYG6m_QH0SwPYinVL0dZEHywqtC93EglYWzV6t0uAt1WYzB9hJNAdbzf6ocKyA6gGQwDTMNbbZpHBT8_EA2X7b8SrkTuVxjuFm68DHetqVHH26Z7TyokweodFBbxR9uhssDiV0vZcbJeaUumTkkLxU7FzpSdZFNtj-1bZR8-BLZ2yEzE2lCBmZ454frFfDYhUTOBWUl08JkmRON49b67xuJLT3SmP0gOzZFeImvcB5L1w4m9PlXK_dpPDVdTPrk87gz6qgsvVM_d-zT8zbW4CtOOvs2zezTmQ6TKAMslandXlVAkpeqdzqQwSbv-Tt6lei_qrvTdy62G7KvLeC1opyKa_K9-8TAe_1LB4BUsANLRyFVbQN-CQQkD3psfATYNHDtWxg1t4ig8fXgmcmyJhWU-j57xi8FL9Kf5V7x4mB-bHO4nNGVv76-0PTTlF2kx2SeWk4iLzGSFCO6MUH2NvJrczYunumgONnuE5TPtYQ&state=n85FzryEOtfdktj2 302 46 - 0.767 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET / 200 732 - 17.016 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 200 1687 - 1.866 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /favicon.ico 200 292 - 10.164 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get authoriazation code grant',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to set access token',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user data',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user playlists',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to replace tracks in user playlist',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'POST /create 200 554 - 2321.817 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 304 - - 0.553 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /logout 302 46 - 0.780 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET / 200 372 - 7.957 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 304 - - 0.476 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET / 304 - - 6.045 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 304 - - 0.496 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
