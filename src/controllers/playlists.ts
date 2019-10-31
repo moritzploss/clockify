@@ -7,7 +7,7 @@ const populate = async (req, res, next) => {
     const apiInstance = await spotify.newApiInstance(req.session.accessToken);
     const targetDuration = time.userInputToMilliseconds(req.body);
     const targetPlaylist = await spotify.getTargetPlaylist(apiInstance);
-    const { userTracks, error } = await spotify.getNUserTracks(apiInstance, 300);
+    const { userTracks, error } = await spotify.getNUserTracks(apiInstance, 500);
 
     if (error) {
       return res.render('error');

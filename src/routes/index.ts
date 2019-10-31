@@ -13,6 +13,8 @@ const express = require('express');
 
 const router = express.Router();
 
+router.get('/logout',
+  authentification.logout);
 
 router.get('/login',
   authentification.loginWithSpotify);

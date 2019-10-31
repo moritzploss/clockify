@@ -1,7 +1,11 @@
 extends layout.pug
 
+block nav
+  a(href="/logout").nav logout
+
+
 block content
   div
     h1 We made you a playlist!
-    p.title Open the <span class="bold">clockify</span> playlist on your device or follow this link:
+    p.title Open the <span class="bold">clockify</span> playlist on your device<br>or follow this link:
     a(href=playlistUrl, target="_blank").link #{playlistUrl}

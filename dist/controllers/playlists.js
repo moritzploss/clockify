@@ -52,7 +52,7 @@ var populate = function (req, res, next) { return __awaiter(void 0, void 0, void
                 return [4 /*yield*/, spotify.getTargetPlaylist(apiInstance)];
             case 2:
                 targetPlaylist = _b.sent();
-                return [4 /*yield*/, spotify.getNUserTracks(apiInstance, 300)];
+                return [4 /*yield*/, spotify.getNUserTracks(apiInstance, 500)];
             case 3:
                 _a = _b.sent(), userTracks = _a.userTracks, error = _a.error;
                 if (error) {

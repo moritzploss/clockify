@@ -27,4 +27,9 @@ app.use(cookieParser());
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use('/', router);
 app.use(function (req, res) { return res.render('notFound'); });
+app.use(function (err, req, res, next) {
+    logging.logger.error(err);
+    req.session.spotifyCode = undefined;
+    res.render('beforeLogin');
+});
 exports.default = app;

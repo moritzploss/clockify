@@ -10,11 +10,17 @@ import * as spotify from '../spotify/apiTools';
 const randomstring = require('randomstring');
 const querystring = require('querystring');
 
+const logout = (req, res, next) => {
+  req.session.spotifyCode = undefined;
+  res.redirect('/');
+};
+
 const getOrSaveAccessToken = async (req, res, next) => {
   let { accessToken } = req.session;
   if (!accessToken) {
-    accessToken = await spotify.getAccessToken(req.session.spotifyCode);
+    const { accessToken, error } = await spotify.getAccessToken(req.session.spotifyCode);
     req.session.accessToken = accessToken;
+    if (error) return next(error);
   }
   return next();
 };
@@ -51,4 +57,5 @@ export {
   verifySpotifyState,
   saveSpotifyCodeToSession,
   getOrSaveAccessToken,
+  logout,
 };

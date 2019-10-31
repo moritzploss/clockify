@@ -8822,3 +8822,2079 @@
   message: 'GET /style.css 304 - - 0.770 ms\n',
   level: '\u001b[32minfo\u001b[39m'
 }
+{
+  message: 'GET / 200 352 - 463.586 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 304 - - 2.272 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /create 200 272 - 208.082 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 304 - - 1.651 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET / 304 - - 11.924 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 304 - - 1.062 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /login 302 1256 - 5.111 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /callback/?code=AQBCZ6zG3ZOEgQ09IK0yl-zOvA81y1P-J-0ooZmODFD8DR3xrZp1ZD8xk3s2rdyzDaJ_JIltjq4aJd75wZi3hoE9MhjrOehIqUwL2uo36EfNFwslXPXFL-PgbL-RHYIkdR1dKaVYR-LhVqAAZyr1WKoV93sAwuLLjrzPbVX2eBdmWQ5UV2TvYJQDpBv_MJOdRhGO2BaQZ-aOuMfUStvyzbxc8ioF8YwofUdWByUpkh9buNZYskOAYtggC1LT2tKU2rHQu7pC4OUtw70ng2FbuM0UfBzSCCF9r4kZ0HgPBgeia-sUxqcGdYpvhUNdJPLGT2Q8JRnOyVc_6A3nVzww9IrmbHs4Ttf1fDLRxaV0f9vIVdrWIZB5xh7SzAzVVRGkpOZadUJqEg5Lj8R2pph2dn1-9UswxQRTm8VKybCY24JGQ5djQKUxLhQ0UC6hHQ9DFRnJqag2ucZy1OfqO7lkMzC-5WkZ0J9YK_X5p2yKNXXW9wxFZTcg4z0S5yvN7TDQD-xcDujyxV5LsguuavcApvr2C4voKdQdsxD3paE_U8aC6Ulj-SXdl7Fne5BexfqOqtGCx0x4lXNiM5pQHVn0C-m4JjgC9SUdPiSZe2Qr7_PBt9uO64jfQh0iuFxW4k25l78Go1bbyh2Kn6qq4-mBytq_elUorPz18nHCXs2gwL4kQ8RsUStyxD3PmZbzyLli1fqoYz8hndeSKEc&state=4DcgQZ186pYccN4Q 302 46 - 1.690 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET / 200 612 - 21.967 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 304 - - 0.707 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get authoriazation code grant',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to set access token',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user data',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user playlists',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to replace tracks in user playlist',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'POST /create 200 491 - 1815.317 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 304 - - 0.858 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get authoriazation code grant',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'POST /create - - - - ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get authoriazation code grant',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get authoriazation code grant',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'POST /create 200 352 - 677.458 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 304 - - 3.202 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /login 302 1256 - 5.461 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /callback/?code=AQBm7Af4V2MYUkG0P7LcV_l0iU6CJQSXe5Veq5YkkktQr3ONKVgQXr3J11Bb-e2msqZMrTuslHhaZHcjMXs7avrwHtCy8c57oRRoPYNo4b4qEMMHgrKf5bE2Td8XEc6EKDSYbl8q734Z2IciAC0K26Lpn-rhgXSFsltZLiwyIKgDEZGHGsTo3n-bUvMzSKz5nLW9kh8m4a4R91mfSCB94T3JdWjMkWAuyfh5k0FtS1vZsQ71aKvI8T1vAXEBR4jMdYSMLQCDWI4vsY6kEbCNiiFSkkhVcsqB5Xk86xhOarhzcF3C-UyxIAQK_E8TlLS2TL8TePIWboT7JEsKwPxhhvYSb6OgS1YTahjPnBLpR02XPgeQQbmo5VBvPYPmS4sL8bG0hnME-4anDj2WGN0ZaOEg1LEUPsbUmSlLMWO8rjb2j-4HrGPbrQ5BzYjNhoMKmKAz__DWCVTgvqv-eHsIa2dRiNLH7wfnK4Cl0B9dRM-7nl_yJ4UKEOC_OzatJ8_7Sioos1UlXr3zeVNjqVcDUwvHYREr8P2LeQbNCUUAw9qrvZW1tcGb0Myl-Tj3X_s699CfVLU43WSpZRz6UATzqEkgYpRcvGIH6w8AP87_jslOmvv8ef-OnD4heINQv6VDWiKi_0jQMJ5PmU5-0skt9gouie-M3CIF5uzvRUxdSLMIph4pFQK8Y6ia14IYAFhQPeg9BnLOz0FhOiM&state=EfrOJIHu5QDxGNlB 302 46 - 1.413 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET / 304 - - 17.329 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 304 - - 1.190 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get authoriazation code grant',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to set access token',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user data',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user playlists',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to replace tracks in user playlist',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'POST /create 200 491 - 1775.788 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 304 - - 0.855 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to set access token',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user data',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user playlists',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to replace tracks in user playlist',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'POST /create 200 491 - 1566.834 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 304 - - 0.702 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to set access token',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user data',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user playlists',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to replace tracks in user playlist',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'POST /create 200 491 - 1555.935 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 304 - - 0.688 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to set access token',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user data',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user playlists',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to replace tracks in user playlist',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'POST /create 200 623 - 4478.784 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 200 1428 - 2.783 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /favicon.ico 200 272 - 14.189 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to set access token',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user data',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user playlists',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to replace tracks in user playlist',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'POST /create 200 623 - 1554.069 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 200 1457 - 0.793 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to set access token',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user data',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user playlists',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to replace tracks in user playlist',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'POST /create 200 623 - 1453.878 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 200 1473 - 0.965 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to set access token',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user data',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user playlists',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to replace tracks in user playlist',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'POST /create 200 623 - 1494.449 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 200 1480 - 1.625 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /favicon.ico 200 272 - 10.871 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to set access token',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user data',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user playlists',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to replace tracks in user playlist',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'POST /create 200 623 - 1506.942 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 200 1495 - 0.744 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to set access token',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user data',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user playlists',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to replace tracks in user playlist',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'POST /create 200 623 - 4561.744 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 200 1495 - 1.372 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /favicon.ico 200 272 - 10.413 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to set access token',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user data',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user playlists',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to replace tracks in user playlist',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'POST /create 200 605 - 1520.571 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 200 1495 - 0.691 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /favicon.ico - - - - ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to set access token',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user data',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user playlists',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to replace tracks in user playlist',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'POST /create 200 605 - 1615.548 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 200 1495 - 1.035 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to set access token',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user data',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user playlists',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to replace tracks in user playlist',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'POST /create 200 605 - 2108.227 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 200 1489 - 0.987 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /favicon.ico - - - - ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to set access token',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user data',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user playlists',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to replace tracks in user playlist',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'POST /create 200 616 - 2019.367 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 304 - - 0.719 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to set access token',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user data',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user playlists',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to replace tracks in user playlist',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'POST /create 200 616 - 1525.964 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 200 1489 - 1.572 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /favicon.ico 200 272 - 11.458 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to set access token',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user data',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user playlists',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to replace tracks in user playlist',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'POST /create 200 616 - 1527.296 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 304 - - 0.665 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET / 304 - - 14.917 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 304 - - 0.758 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to set access token',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user data',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user playlists',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to replace tracks in user playlist',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'POST /create 200 616 - 1550.526 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 304 - - 0.787 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to set access token',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user data',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user playlists',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to replace tracks in user playlist',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'POST /create 200 619 - 1469.518 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 304 - - 0.803 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get authoriazation code grant',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'POST /create 200 352 - 3160.036 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 304 - - 0.767 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /login 302 1256 - 4.804 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /callback/?code=AQDOoeZd4qGIylQJ3bMPCVDNlrLxzrr8sIK2MG2MjTE_0JonuAfgWTsThtQX17SgVKkQI1Cd9sYcX9f8xzSvdhR1k9nKXbmYFCwSIr_RRIKK6cB942M4qCo-5YVlzoTxDrWkLSvD-IN4SxMfGvtesKf1yzXhYJtmDb5n20_80wwDBbjkWV9NXlEuQP_menSW6OZXlTy6DK7YAGY32JtaqgXMasx_M2qzH8ncYKZsdePyonpDsdzi9B5Ww6I6RjDfaQSxImaCtrLeIrV_22nrosFcwn6iQAO85NOR3qow_0zP0WDt3wanb_zlDExR6g3yOwl-rLDZACbMwEzN4LbocRs6rGmnuFG3W1gBp7bIsVUsmclpMY9SekAZGhDB7R47KaubiHUVflaTC1sYieMGlEW4db-37JTPX18mDT-n8yf3mnAhU_q2KVfjTInTrKGZF00vwfuAOtyPRvQMeavtGVFdhU_eCgApwYDeJvmoF8dIrymHaPuyxccrJ2fG68dKOkfHEMwGgo86ePZhxp8vZP4YPw_jnCiBUp2No_Vdkbb4csR8Khs03PywuASv1RzCr_QjderNRlUHKy3I40peSstK3cJTEIMsHoJlqSAIFbGig8ww-l_A_PNPAhKnArhoeFNkVUX0aaTsE9EPYOXhKYYRuddToMcuK8ZxkqGjn19KatMYMo6XYibDDqRtYfYX6zcwE_VVpEYlKLs&state=qMbsRqysOJk4XSn2 302 46 - 1.144 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET / 304 - - 10.935 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 304 - - 0.581 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get authoriazation code grant',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to set access token',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user data',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user playlists',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to replace tracks in user playlist',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'POST /create 200 619 - 1681.905 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 304 - - 0.754 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to set access token',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user data',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user playlists',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to replace tracks in user playlist',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'POST /create 200 619 - 4517.582 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 200 1501 - 0.972 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /favicon.ico 200 272 - 9.216 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET / 304 - - 12.854 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 200 1501 - 0.630 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET / 304 - - 11.759 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 304 - - 0.570 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET / 200 652 - 14.517 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 200 1575 - 0.928 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 200 1575 - 1.244 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 200 1575 - 2.639 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET / 200 672 - 14.979 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 200 1593 - 0.771 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /favicon.ico 200 332 - 9.359 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET / 304 - - 30.026 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 200 1608 - 1.274 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET / 200 678 - 19.539 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 200 1645 - 0.760 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET / 304 - - 10.836 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 304 - - 1.686 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET / 304 - - 16.007 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 200 1644 - 1.583 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET / 304 - - 12.197 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 200 1586 - 0.735 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET / 200 418 - 10.073 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 200 1659 - 0.872 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET / 304 - - 12.301 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 200 1659 - 0.771 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET / 200 412 - 7.731 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 200 1655 - 1.808 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET / 304 - - 6.918 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 304 - - 2.471 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET / 304 - - 11.613 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 200 1581 - 0.999 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /logout 200 332 - 8.280 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 200 1582 - 0.851 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET / 304 - - 8.840 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 200 1603 - 0.778 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET / 304 - - 7.741 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 200 1588 - 0.918 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET / 304 - - 8.597 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 304 - - 0.598 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET / 304 - - 7.220 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 200 1586 - 1.489 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET / 304 - - 7.274 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 200 1603 - 1.226 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET / 304 - - 10.187 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 200 1589 - 0.746 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET / 304 - - 9.712 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 200 1604 - 0.780 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET / 304 - - 7.989 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 200 1603 - 0.847 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET / 304 - - 8.368 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 200 1622 - 0.848 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET / 304 - - 8.765 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 200 1623 - 1.476 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET / 304 - - 9.282 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 200 1650 - 0.689 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET / 304 - - 9.431 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 200 1635 - 0.837 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET / 304 - - 8.243 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 200 1653 - 0.756 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET / 304 - - 6.295 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 200 1679 - 0.933 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET / 304 - - 7.946 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 200 1680 - 0.822 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET / 304 - - 10.174 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 200 1706 - 1.258 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET / 200 372 - 6.855 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 200 1687 - 1.068 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /login 302 1256 - 1.360 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /callback/?code=AQCPr1H9GPecFLxOkrYw35KLg2LynnH-AuVCQFfZVrrMQx4Sr69hI9SYOoQjMsoeT891OnBAezrOo4HuBV7mitF89zO1Eb-3UBnfsp_xSIddnwq1F4zve4jbJz0tF3a_YHWfvAbiryvYpm06ECk3ogUHwM_jNp-5zuw2LTX9aFa2wdtmS-oZjpYpHRQaQWX_QSyWlhDLLNFmytLzD8u9QGegwGVuE8IiGOJjFijxtFsrX4JKefvbxRbuAqGYOzj94gTNyGzjNWacOQlumOfcra4ujqQ-SOEp3XVZGNgvbWITOVAggUHQy1c5b44IWHvp06HiLb6xI5IizlwQ7t0YEmgZSmSG1i7zjMtDXFKhrLPxBbp5JvMkEwoHw5PR60ntKjjPkBlS1NKLNdFPZW2DYSH2FLCSsMBb-KsOUl5aNZHX0tgPNzaOfiNNJTz5NlvwuJqkcVZKR0gb28K8nuPde1ua2Kbv3nCBOHx2J39_g3D4YgFpGi5Yz3KupjIfjQ3hOM49BSFrkm50jfy4uXN4mCFzFJKovN64zd1gpIqKfuBKD3cRT0LWkgIaHy0W-xB_9a5u4NqYc5t1h_eYypquGXBHdEH3irkbO6S5yjJIhE6nB5JOAm0HTol33dRf-kXpf4m9dXqzht8DkafyWchZDaSMafKuke-93QNkm3WcA4wD2KdB6L1R9lL_cNyJLZttMEod_nVLf6BMlP0&state=wAUfzWAcitK8zCfD 302 46 - 1.255 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET / 200 672 - 13.498 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 304 - - 0.539 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get authoriazation code grant',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to set access token',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user data',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user playlists',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to replace tracks in user playlist',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'POST /create 200 679 - 1684.288 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 304 - - 0.859 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /logout 200 292 - 6.875 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 304 - - 0.585 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET / 304 - - 11.063 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 304 - - 0.986 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  error: Error: Route.get() requires a callback function but got a [object Undefined]
+      at Route.<computed> [as get] (/Users/moritz/js-projects/week09/hackday/node_modules/express/lib/router/route.js:202:15)
+      at Function.proto.<computed> [as get] (/Users/moritz/js-projects/week09/hackday/node_modules/express/lib/router/index.js:510:19)
+      at Object.<anonymous> (/Users/moritz/js-projects/week09/hackday/dist/routes/index.js:9:8)
+      at Module._compile (internal/modules/cjs/loader.js:936:30)
+      at Object.Module._extensions..js (internal/modules/cjs/loader.js:947:10)
+      at Module.load (internal/modules/cjs/loader.js:790:32)
+      at Function.Module._load (internal/modules/cjs/loader.js:703:12)
+      at Module.require (internal/modules/cjs/loader.js:830:19)
+      at require (internal/modules/cjs/helpers.js:68:18)
+      at Object.<anonymous> (/Users/moritz/js-projects/week09/hackday/dist/app.js:11:14),
+  level: '\u001b[31merror\u001b[39m',
+  message: 'uncaughtException: Route.get() requires a callback function but got a [object Undefined]\n' +
+    'Error: Route.get() requires a callback function but got a [object Undefined]\n' +
+    '    at Route.<computed> [as get] (/Users/moritz/js-projects/week09/hackday/node_modules/express/lib/router/route.js:202:15)\n' +
+    '    at Function.proto.<computed> [as get] (/Users/moritz/js-projects/week09/hackday/node_modules/express/lib/router/index.js:510:19)\n' +
+    '    at Object.<anonymous> (/Users/moritz/js-projects/week09/hackday/dist/routes/index.js:9:8)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:936:30)\n' +
+    '    at Object.Module._extensions..js (internal/modules/cjs/loader.js:947:10)\n' +
+    '    at Module.load (internal/modules/cjs/loader.js:790:32)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:703:12)\n' +
+    '    at Module.require (internal/modules/cjs/loader.js:830:19)\n' +
+    '    at require (internal/modules/cjs/helpers.js:68:18)\n' +
+    '    at Object.<anonymous> (/Users/moritz/js-projects/week09/hackday/dist/app.js:11:14)',
+  stack: 'Error: Route.get() requires a callback function but got a [object Undefined]\n' +
+    '    at Route.<computed> [as get] (/Users/moritz/js-projects/week09/hackday/node_modules/express/lib/router/route.js:202:15)\n' +
+    '    at Function.proto.<computed> [as get] (/Users/moritz/js-projects/week09/hackday/node_modules/express/lib/router/index.js:510:19)\n' +
+    '    at Object.<anonymous> (/Users/moritz/js-projects/week09/hackday/dist/routes/index.js:9:8)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:936:30)\n' +
+    '    at Object.Module._extensions..js (internal/modules/cjs/loader.js:947:10)\n' +
+    '    at Module.load (internal/modules/cjs/loader.js:790:32)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:703:12)\n' +
+    '    at Module.require (internal/modules/cjs/loader.js:830:19)\n' +
+    '    at require (internal/modules/cjs/helpers.js:68:18)\n' +
+    '    at Object.<anonymous> (/Users/moritz/js-projects/week09/hackday/dist/app.js:11:14)',
+  exception: true,
+  date: 'Thu Oct 31 2019 17:04:12 GMT+0100 (Central European Standard Time)',
+  process: {
+    pid: 13660,
+    uid: 501,
+    gid: 20,
+    cwd: '/Users/moritz/js-projects/week09/hackday',
+    execPath: '/usr/local/Cellar/node/12.9.1/bin/node',
+    version: 'v12.9.1',
+    argv: [
+      '/usr/local/Cellar/node/12.9.1/bin/node',
+      '/Users/moritz/js-projects/week09/hackday/dist/server.js'
+    ],
+    memoryUsage: {
+      rss: 35250176,
+      heapTotal: 17420288,
+      heapUsed: 10275392,
+      external: 1209803
+    }
+  },
+  os: {
+    loadavg: [ 2.47900390625, 2.17236328125, 2.0859375 ],
+    uptime: 2777644
+  },
+  trace: [
+    {
+      column: 15,
+      file: '/Users/moritz/js-projects/week09/hackday/node_modules/express/lib/router/route.js',
+      function: 'Route.<computed> [as get]',
+      line: 202,
+      method: '<computed> [as get]',
+      native: false
+    },
+    {
+      column: 19,
+      file: '/Users/moritz/js-projects/week09/hackday/node_modules/express/lib/router/index.js',
+      function: 'Function.proto.<computed> [as get]',
+      line: 510,
+      method: '<computed> [as get]',
+      native: false
+    },
+    {
+      column: 8,
+      file: '/Users/moritz/js-projects/week09/hackday/dist/routes/index.js',
+      function: null,
+      line: 9,
+      method: null,
+      native: false
+    },
+    {
+      column: 30,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._compile',
+      line: 936,
+      method: '_compile',
+      native: false
+    },
+    {
+      column: 10,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._extensions..js',
+      line: 947,
+      method: '.js',
+      native: false
+    },
+    {
+      column: 32,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module.load',
+      line: 790,
+      method: 'load',
+      native: false
+    },
+    {
+      column: 12,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._load',
+      line: 703,
+      method: '_load',
+      native: false
+    },
+    {
+      column: 19,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module.require',
+      line: 830,
+      method: 'require',
+      native: false
+    },
+    {
+      column: 18,
+      file: 'internal/modules/cjs/helpers.js',
+      function: 'require',
+      line: 68,
+      method: null,
+      native: false
+    },
+    {
+      column: 14,
+      file: '/Users/moritz/js-projects/week09/hackday/dist/app.js',
+      function: null,
+      line: 11,
+      method: null,
+      native: false
+    }
+  ]
+}
+{
+  error: Error: Route.get() requires a callback function but got a [object Undefined]
+      at Route.<computed> [as get] (/Users/moritz/js-projects/week09/hackday/node_modules/express/lib/router/route.js:202:15)
+      at Function.proto.<computed> [as get] (/Users/moritz/js-projects/week09/hackday/node_modules/express/lib/router/index.js:510:19)
+      at Object.<anonymous> (/Users/moritz/js-projects/week09/hackday/dist/routes/index.js:9:8)
+      at Module._compile (internal/modules/cjs/loader.js:936:30)
+      at Object.Module._extensions..js (internal/modules/cjs/loader.js:947:10)
+      at Module.load (internal/modules/cjs/loader.js:790:32)
+      at Function.Module._load (internal/modules/cjs/loader.js:703:12)
+      at Module.require (internal/modules/cjs/loader.js:830:19)
+      at require (internal/modules/cjs/helpers.js:68:18)
+      at Object.<anonymous> (/Users/moritz/js-projects/week09/hackday/dist/app.js:11:14),
+  level: '\u001b[31merror\u001b[39m',
+  message: 'uncaughtException: Route.get() requires a callback function but got a [object Undefined]\n' +
+    'Error: Route.get() requires a callback function but got a [object Undefined]\n' +
+    '    at Route.<computed> [as get] (/Users/moritz/js-projects/week09/hackday/node_modules/express/lib/router/route.js:202:15)\n' +
+    '    at Function.proto.<computed> [as get] (/Users/moritz/js-projects/week09/hackday/node_modules/express/lib/router/index.js:510:19)\n' +
+    '    at Object.<anonymous> (/Users/moritz/js-projects/week09/hackday/dist/routes/index.js:9:8)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:936:30)\n' +
+    '    at Object.Module._extensions..js (internal/modules/cjs/loader.js:947:10)\n' +
+    '    at Module.load (internal/modules/cjs/loader.js:790:32)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:703:12)\n' +
+    '    at Module.require (internal/modules/cjs/loader.js:830:19)\n' +
+    '    at require (internal/modules/cjs/helpers.js:68:18)\n' +
+    '    at Object.<anonymous> (/Users/moritz/js-projects/week09/hackday/dist/app.js:11:14)',
+  stack: 'Error: Route.get() requires a callback function but got a [object Undefined]\n' +
+    '    at Route.<computed> [as get] (/Users/moritz/js-projects/week09/hackday/node_modules/express/lib/router/route.js:202:15)\n' +
+    '    at Function.proto.<computed> [as get] (/Users/moritz/js-projects/week09/hackday/node_modules/express/lib/router/index.js:510:19)\n' +
+    '    at Object.<anonymous> (/Users/moritz/js-projects/week09/hackday/dist/routes/index.js:9:8)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:936:30)\n' +
+    '    at Object.Module._extensions..js (internal/modules/cjs/loader.js:947:10)\n' +
+    '    at Module.load (internal/modules/cjs/loader.js:790:32)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:703:12)\n' +
+    '    at Module.require (internal/modules/cjs/loader.js:830:19)\n' +
+    '    at require (internal/modules/cjs/helpers.js:68:18)\n' +
+    '    at Object.<anonymous> (/Users/moritz/js-projects/week09/hackday/dist/app.js:11:14)',
+  exception: true,
+  date: 'Thu Oct 31 2019 17:05:01 GMT+0100 (Central European Standard Time)',
+  process: {
+    pid: 13672,
+    uid: 501,
+    gid: 20,
+    cwd: '/Users/moritz/js-projects/week09/hackday',
+    execPath: '/usr/local/Cellar/node/12.9.1/bin/node',
+    version: 'v12.9.1',
+    argv: [
+      '/usr/local/Cellar/node/12.9.1/bin/node',
+      '/Users/moritz/js-projects/week09/hackday/dist/server.js'
+    ],
+    memoryUsage: {
+      rss: 35102720,
+      heapTotal: 17682432,
+      heapUsed: 10193080,
+      external: 1209803
+    }
+  },
+  os: {
+    loadavg: [ 2.6748046875, 2.255859375, 2.11962890625 ],
+    uptime: 2777693
+  },
+  trace: [
+    {
+      column: 15,
+      file: '/Users/moritz/js-projects/week09/hackday/node_modules/express/lib/router/route.js',
+      function: 'Route.<computed> [as get]',
+      line: 202,
+      method: '<computed> [as get]',
+      native: false
+    },
+    {
+      column: 19,
+      file: '/Users/moritz/js-projects/week09/hackday/node_modules/express/lib/router/index.js',
+      function: 'Function.proto.<computed> [as get]',
+      line: 510,
+      method: '<computed> [as get]',
+      native: false
+    },
+    {
+      column: 8,
+      file: '/Users/moritz/js-projects/week09/hackday/dist/routes/index.js',
+      function: null,
+      line: 9,
+      method: null,
+      native: false
+    },
+    {
+      column: 30,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._compile',
+      line: 936,
+      method: '_compile',
+      native: false
+    },
+    {
+      column: 10,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._extensions..js',
+      line: 947,
+      method: '.js',
+      native: false
+    },
+    {
+      column: 32,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module.load',
+      line: 790,
+      method: 'load',
+      native: false
+    },
+    {
+      column: 12,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._load',
+      line: 703,
+      method: '_load',
+      native: false
+    },
+    {
+      column: 19,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module.require',
+      line: 830,
+      method: 'require',
+      native: false
+    },
+    {
+      column: 18,
+      file: 'internal/modules/cjs/helpers.js',
+      function: 'require',
+      line: 68,
+      method: null,
+      native: false
+    },
+    {
+      column: 14,
+      file: '/Users/moritz/js-projects/week09/hackday/dist/app.js',
+      function: null,
+      line: 11,
+      method: null,
+      native: false
+    }
+  ]
+}
+{
+  message: 'GET / 200 372 - 457.250 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 304 - - 2.208 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /login 302 1256 - 4.670 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /callback/?code=AQBNdglTdTDpTSeeFZgZJqMR9BsFurZGcGkXN0CItA9wqyvUkKy7JcRIETStXx1HFr48pmu6QHfrntzqVNP8Wh1uTWR-Kzk7GICfV-2kUkmI9NzRd-ujlaCP0q4l80oT266GBw_cCP3z0iU_LFQIWqMmZ9GUtFS0qN2x3bNr1UQ4L3_P5a1wormEbjTm3aehh2IZT0pvk1wllizdKnotS8CAucfbuQNihZQOVpXI9b-bmNFhhaQezuPIZjWZYa7Mx8NtYenofCHKjpl__ZWSEwYC-IkFGDePdRWqVTeLGccOfuJkqAPavfdJBMz72a45fIe-nsH0Pfv0W_HW3qYCccf7nfcAkKHAj_7xI8-h0RYU4sRkMqoBTP1idoW4jqNspzIUdUOwsnkSTCb5L8p0TjU3hJZpqoRfzbA2iSvrRtjTzWzrdElHWuK-vkvK8N4fMsRpAgC1_iqW8Jl0_g0oHgvH_wFVL7uQGEF3a8Ppg7WqbFhFRqvuZfYx483yrPjTXLMVuZyJ3gUhkRQ45jPeBvVDVTxyWrLLrNGGKLge2c14QpdObc4-nHG-YMIeN0wjya58E90kABFbTbBjoYf9fKaDsOYzhwoRmk2g-fj_PYIkz6GnMiXGL-8Vh2e6Okn34uCg42ximiuFjItYcPOqm0C9vxspSI8eCrw70ttWOY-uhl1XzGGQ9K3Fcj6KiGBWFWHXIFeySV4RxOw&state=gZkdUB59x9GCY4HC 302 46 - 1.044 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET / 200 672 - 19.021 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 304 - - 0.619 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /logout 302 46 - 0.812 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET / 200 372 - 15.396 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 304 - - 0.553 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /login 302 1256 - 1.010 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /callback/?code=AQD4uTwV-SjstGJrrxoHyTCVszqcDGvQvKdBzP07_nkDyHtfOsdJQTFLkPOtUYGZ4Q1cFRO9Y6cXoSxedB8pDdpQ2M_GS3QseHh-ZPENDQXtNrjk2scIe8pVHvq6-ST28DcF7CLNLkcRmwD2nrbpNEiG_8PDJVABmVSUl8gc7e07ZJKZWBExMZz7RFcMTDvC3NwrzoNCTXMZ9NCnAVx42li-m946sHd8IDvGopHVGAeXyKBYzoGIojt_0VGovOHwAvcGHrVGDMz0M3-jsa4xg_FpnYk3ygzhb8LQ5fTWVsLe8hhABdM479ZRfy0Dvso6U1d74ZtZBMyHUS906nsD-5ULc_GiI6Q1YJRqn9LhiRQIz55u7_glMnRIx6DQEURYzBDLaATQ-q4k7zyWAqeX819g4D_MrMyHeoXED4eEhW9KL9H8mB0TQsH7fax0_STeuLgIhT5uVZtZJPSaSx0dzL3u5-0eRatSmttSFQxDQTsNyilJbtOfusgFfEfulAi7tpHGHMyXDbYVVrdwL8mFap8ZgfKt3x0qKmbhqRH1I2VxglDu81b-3DbXID5YRjJyBxlriBwZj08CdqDPg9I04J67O53osh6T_q6srlKnqmL7pSZSG4xMMXbRlzHHlQhkEv11UzUVsok5YTKbbsYJmITWbTJHWHcgDP2d5uqyevZ3HQoRjK--6QS-ti2MFF8uT5tFsgwqQA9AzTk&state=7YKyvAGcgbbcpWam 302 46 - 0.869 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET / 200 672 - 17.972 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 304 - - 0.733 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get authoriazation code grant',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to set access token',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user data',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user playlists',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to replace tracks in user playlist',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'POST /create 200 679 - 4832.000 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 304 - - 0.816 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to set access token',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user data',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user playlists',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to replace tracks in user playlist',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'POST /create 200 554 - 1523.599 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 304 - - 0.736 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET / 304 - - 30.634 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 304 - - 0.618 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to set access token',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user data',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user playlists',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to replace tracks in user playlist',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'POST /create 200 554 - 1503.981 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 304 - - 0.959 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get authoriazation code grant',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'POST /create 200 372 - 632.162 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 304 - - 2.293 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /login 302 1256 - 5.509 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /callback/?code=AQBoKTp4M-CbR0WkY4yO0vBP28pN7BdGdbmoUCGJ9ffSJJ526HV6JqLH27NehAsw-m7Jrxe1N_qwlKq2Zd7gljN_bfFfjD16elZ1ZHlFY8NIKijCeIkiH1LnuorBm5HYpX3vi02T7wG-7YPWXGvM6osSxPzTbYq_BwUX2-Kq3GZQHaxW7XKGjwrbwYxOyDg2J4KspL2e-a1v732PtXF9PNE4NUCW9PIjLbUIgp77A3lI-WKlyJ2-pqW8ENR5IjJ1r7P5GyHQIv3-9RbGmj0zeQlKxsh8geBlIbz2Y_tjiuzGXIIzN9ETgL1PGjDWkFJaj4C_PQhplbWCR75O2wum7BFOgeBKgHwzbqoC-BrRjFJ_8hYpujaEkNXUFpRB57B0cjfth-7q87-RNXbnVqHY1PJynRESDIr3jjLCive8iVtsG_vYuEYYDNDbB7pr_FDnKxvZ7KZpaftXoH5ZiSBbGQgaehVyhWeCz6XtLiPQ2CobbPE3FR2PxVGgaqa-Tx12Kf7lv9rHycwkDteix3FgGZIYw4FqYHHLdH-4UFOKbP0sbVmJ5xZ9u1t7OfDjvHDODxzHwsrJdOzWD__6QpUBSCKktyuFb-dnrqNRbl21vablnnecrGlhi2XEWucBiUEyTBduZtpL2bKiD7hDUKQ_ZrTzSdX7owBnTzuNgPBs3PThHcHa1Qj61y0UfEnJM9SaQBU_dCJjUnKlRC4&state=DeWgCfyiurEdOIbB 302 46 - 1.365 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET / 304 - - 19.818 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 304 - - 0.645 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get authoriazation code grant',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to set access token',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user data',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user playlists',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to replace tracks in user playlist',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'POST /create 200 554 - 2399.275 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 304 - - 0.889 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}

@@ -40,15 +40,22 @@ var spotifyConfig = require("./config");
 var logger = require('../logging/logging').logger;
 var spotifyApi = spotifyConfig.apiWithCredentials();
 var getAccessToken = function (spotifyCode) { return __awaiter(void 0, void 0, void 0, function () {
-    var body;
+    var body, error_1;
     return __generator(this, function (_a) {
         switch (_a.label) {
             case 0:
                 logger.info('attempting to get authoriazation code grant');
-                return [4 /*yield*/, spotifyApi.authorizationCodeGrant(spotifyCode)];
+                _a.label = 1;
             case 1:
+                _a.trys.push([1, 3, , 4]);
+                return [4 /*yield*/, spotifyApi.authorizationCodeGrant(spotifyCode)];
+            case 2:
                 body = (_a.sent()).body;
-                return [2 /*return*/, body.access_token];
+                return [2 /*return*/, { accessToken: body.access_token }];
+            case 3:
+                error_1 = _a.sent();
+                return [2 /*return*/, { error: error_1 }];
+            case 4: return [2 /*return*/];
         }
     });
 }); };
@@ -141,7 +148,7 @@ exports.getTargetPlaylist = getTargetPlaylist;
 var getPublicLink = function (playlistId) { return "https://open.spotify.com/playlist/" + playlistId; };
 exports.getPublicLink = getPublicLink;
 var getNUserTracks = function (apiInstance, n) { return __awaiter(void 0, void 0, void 0, function () {
-    var userTracks, i, step, body, error_1;
+    var userTracks, i, step, body, error_2;
     return __generator(this, function (_a) {
         switch (_a.label) {
             case 0:
@@ -161,8 +168,8 @@ var getNUserTracks = function (apiInstance, n) { return __awaiter(void 0, void 0
                 i += 1;
                 return [3 /*break*/, 5];
             case 4:
-                error_1 = _a.sent();
-                return [2 /*return*/, { error: error_1 }];
+                error_2 = _a.sent();
+                return [2 /*return*/, { error: error_2 }];
             case 5: return [3 /*break*/, 1];
             case 6: return [2 /*return*/, { userTracks: userTracks }];
         }

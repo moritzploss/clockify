@@ -6,8 +6,12 @@ const spotifyApi = spotifyConfig.apiWithCredentials();
 
 const getAccessToken = async (spotifyCode: string) => {
   logger.info('attempting to get authoriazation code grant');
-  const { body } = await spotifyApi.authorizationCodeGrant(spotifyCode);
-  return body.access_token;
+  try {
+    const { body } = await spotifyApi.authorizationCodeGrant(spotifyCode);
+    return { accessToken: body.access_token };
+  } catch (error) {
+    return { error };
+  }
 };
 
 const newApiInstance = async (accessToken: string) => {

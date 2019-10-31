@@ -3,9 +3,12 @@
 *  {
   font-family: 'Roboto', sans-serif;
   background: #eee;
+  box-sizing: border-box;
 }
 
 body {
+  margin: 0;
+  padding: 0;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -20,8 +23,8 @@ h1 {
 
 nav {
   position: absolute;
-  top: 20px;
-  left: 20px;
+  top: 0px;
+  left: 0px;
 }
 
 .wrapper {
@@ -80,15 +83,22 @@ nav {
 .link {
   font-size: 24px;
   font-weight: 300;
-  color: black;
+  color: rgb(87, 181, 96);
 }
 
 .link:hover {
-  color: rgb(87, 181, 96);
+  color: black;
 }
 
 .login:hover {
   background-color: rgb(87, 181, 96);
+}
+
+.nav-wrapper {
+  display: block;
+  width: 100%;
+  padding: 20px;
+  margin: 0;
 }
 
 .nav {
@@ -96,11 +106,20 @@ nav {
   text-decoration: none;
 }
 
-.nav:hover {
-  color: #444;
+.nav + .nav {
+  text-align: right;
+  float: right;
 }
 
+.nav:hover {
+  color: rgb(87, 181, 96);
+}
 
+.small {
+  font-size: 14px;
+  padding: 20px;
+  color: #888;
+}
 
 .bold {
   font-weight: 700;

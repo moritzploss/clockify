@@ -34,5 +34,11 @@ app.use('/', router);
 
 app.use((req, res) => res.render('notFound'));
 
+app.use((err, req, res, next) => {
+  logging.logger.error(err);
+  req.session.spotifyCode = undefined;
+  res.render('beforeLogin');
+});
+
 
 export default app;
