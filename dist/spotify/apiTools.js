@@ -39,27 +39,34 @@ Object.defineProperty(exports, "__esModule", { value: true });
 var spotifyConfig = require("./config");
 var logger = require('../logging/logging').logger;
 var spotifyApi = spotifyConfig.apiWithCredentials();
-var newApiInstance = function (spotifyCode) { return __awaiter(void 0, void 0, void 0, function () {
-    var data;
+var getAccessToken = function (spotifyCode) { return __awaiter(void 0, void 0, void 0, function () {
+    var body;
     return __generator(this, function (_a) {
         switch (_a.label) {
             case 0:
                 logger.info('attempting to get authoriazation code grant');
                 return [4 /*yield*/, spotifyApi.authorizationCodeGrant(spotifyCode)];
             case 1:
-                data = _a.sent();
-                logger.info('attempting to set access token');
-                spotifyApi.setAccessToken(data.body.access_token);
-                logger.info('attempting to set refresh token');
-                spotifyApi.setRefreshToken(data.body.refresh_token);
-                return [2 /*return*/, spotifyApi];
+                body = (_a.sent()).body;
+                return [2 /*return*/, body.access_token];
         }
     });
 }); };
+exports.getAccessToken = getAccessToken;
+var newApiInstance = function (accessToken) { return __awaiter(void 0, void 0, void 0, function () {
+    return __generator(this, function (_a) {
+        logger.info('attempting to set access token');
+        spotifyApi.setAccessToken(accessToken);
+        return [2 /*return*/, spotifyApi];
+    });
+}); };
 exports.newApiInstance = newApiInstance;
-var getUser = function (apiInstance) { return __awaiter(void 0, void 0, void 0, function () { return __generator(this, function (_a) {
-    return [2 /*return*/, apiInstance.getMe()];
-}); }); };
+var getUser = function (apiInstance) { return __awaiter(void 0, void 0, void 0, function () {
+    return __generator(this, function (_a) {
+        logger.info('attempting to get user');
+        return [2 /*return*/, apiInstance.getMe()];
+    });
+}); };
 exports.getUser = getUser;
 var getUserPlaylists = function (apiInstance) { return __awaiter(void 0, void 0, void 0, function () {
     var body;
@@ -92,9 +99,7 @@ var createPlaylist = function (apiInstance, listName) { return __awaiter(void 0,
     var body;
     return __generator(this, function (_a) {
         switch (_a.label) {
-            case 0:
-                logger.info('attempting to get user');
-                return [4 /*yield*/, getUser(apiInstance)];
+            case 0: return [4 /*yield*/, getUser(apiInstance)];
             case 1:
                 body = (_a.sent()).body;
                 logger.info('attempting to create playlist');
@@ -125,7 +130,7 @@ var getTargetPlaylist = function (apiInstance) { return __awaiter(void 0, void 0
                 });
                 targetPlaylist = playlistDetails.find(function (list) { return list.name === process.env.PLAYLIST_NAME; });
                 if (!!targetPlaylist) return [3 /*break*/, 3];
-                logger.info('attempting to get create playlist');
+                logger.info('attempting to create playlist');
                 return [4 /*yield*/, createPlaylist(apiInstance, process.env.PLAYLIST_NAME)];
             case 2:
                 body = (_a.sent()).body;

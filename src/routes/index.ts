@@ -32,6 +32,7 @@ router.get('/',
   showWelcome);
 
 router.post('/create',
+  authentification.getOrSaveAccessToken,
   playlist.populate);
 
 module.exports = router;

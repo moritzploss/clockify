@@ -4,17 +4,22 @@ const { logger } = require('../logging/logging');
 
 const spotifyApi = spotifyConfig.apiWithCredentials();
 
-const newApiInstance = async (spotifyCode: string) => {
+const getAccessToken = async (spotifyCode: string) => {
   logger.info('attempting to get authoriazation code grant');
-  const data = await spotifyApi.authorizationCodeGrant(spotifyCode);
+  const { body } = await spotifyApi.authorizationCodeGrant(spotifyCode);
+  return body.access_token;
+};
+
+const newApiInstance = async (accessToken: string) => {
   logger.info('attempting to set access token');
-  spotifyApi.setAccessToken(data.body.access_token);
-  logger.info('attempting to set refresh token');
-  spotifyApi.setRefreshToken(data.body.refresh_token);
+  spotifyApi.setAccessToken(accessToken);
   return spotifyApi;
 };
 
-const getUser = async (apiInstance) => apiInstance.getMe();
+const getUser = async (apiInstance) => {
+  logger.info('attempting to get user');
+  return apiInstance.getMe();
+};
 
 const getUserPlaylists = async (apiInstance) => {
   const { body } = await getUser(apiInstance);
@@ -33,7 +38,6 @@ const replaceTracksInPlaylist = async (apiInstance, playlist: string, tracks: st
 };
 
 const createPlaylist = async (apiInstance, listName: string) => {
-  logger.info('attempting to get user');
   const { body } = await getUser(apiInstance);
   logger.info('attempting to create playlist');
   return apiInstance.createPlaylist(body.id, listName);
@@ -51,7 +55,7 @@ const getTargetPlaylist = async (apiInstance) => {
   let targetPlaylist = playlistDetails.find((list) => list.name === process.env.PLAYLIST_NAME);
 
   if (!targetPlaylist) {
-    logger.info('attempting to get create playlist');
+    logger.info('attempting to create playlist');
     const { body } = await createPlaylist(apiInstance, process.env.PLAYLIST_NAME);
     targetPlaylist = body;
   }
@@ -85,4 +89,5 @@ export {
   getNUserTracks,
   getTargetPlaylist,
   getPublicLink,
+  getAccessToken,
 };

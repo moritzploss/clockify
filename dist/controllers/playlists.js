@@ -45,7 +45,7 @@ var populate = function (req, res, next) { return __awaiter(void 0, void 0, void
         switch (_a.label) {
             case 0:
                 _a.trys.push([0, 5, , 6]);
-                return [4 /*yield*/, spotify.newApiInstance(req.session.spotifyCode)];
+                return [4 /*yield*/, spotify.newApiInstance(req.session.accessToken)];
             case 1:
                 apiInstance = _a.sent();
                 targetDuration = time.userInputToMilliseconds(req.body);

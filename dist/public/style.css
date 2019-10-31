@@ -83,3 +83,7 @@ h1 {
 .login:hover {
   background-color: rgb(87, 181, 96);
 }
+
+.bold {
+  font-weight: 700;
+}

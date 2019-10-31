@@ -1,0 +1,858 @@
+{
+  error: Error: Route.post() requires a callback function but got a [object Undefined]
+      at Route.<computed> [as post] (/Users/moritz/js-projects/week09/hackday/node_modules/express/lib/router/route.js:202:15)
+      at Function.proto.<computed> [as post] (/Users/moritz/js-projects/week09/hackday/node_modules/express/lib/router/index.js:510:19)
+      at Object.<anonymous> (/Users/moritz/js-projects/week09/hackday/dist/routes/index.js:58:8)
+      at Module._compile (internal/modules/cjs/loader.js:936:30)
+      at Object.Module._extensions..js (internal/modules/cjs/loader.js:947:10)
+      at Module.load (internal/modules/cjs/loader.js:790:32)
+      at Function.Module._load (internal/modules/cjs/loader.js:703:12)
+      at Module.require (internal/modules/cjs/loader.js:830:19)
+      at require (internal/modules/cjs/helpers.js:68:18)
+      at Object.<anonymous> (/Users/moritz/js-projects/week09/hackday/dist/app.js:11:14),
+  level: '\u001b[31merror\u001b[39m',
+  message: 'uncaughtException: Route.post() requires a callback function but got a [object Undefined]\n' +
+    'Error: Route.post() requires a callback function but got a [object Undefined]\n' +
+    '    at Route.<computed> [as post] (/Users/moritz/js-projects/week09/hackday/node_modules/express/lib/router/route.js:202:15)\n' +
+    '    at Function.proto.<computed> [as post] (/Users/moritz/js-projects/week09/hackday/node_modules/express/lib/router/index.js:510:19)\n' +
+    '    at Object.<anonymous> (/Users/moritz/js-projects/week09/hackday/dist/routes/index.js:58:8)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:936:30)\n' +
+    '    at Object.Module._extensions..js (internal/modules/cjs/loader.js:947:10)\n' +
+    '    at Module.load (internal/modules/cjs/loader.js:790:32)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:703:12)\n' +
+    '    at Module.require (internal/modules/cjs/loader.js:830:19)\n' +
+    '    at require (internal/modules/cjs/helpers.js:68:18)\n' +
+    '    at Object.<anonymous> (/Users/moritz/js-projects/week09/hackday/dist/app.js:11:14)',
+  stack: 'Error: Route.post() requires a callback function but got a [object Undefined]\n' +
+    '    at Route.<computed> [as post] (/Users/moritz/js-projects/week09/hackday/node_modules/express/lib/router/route.js:202:15)\n' +
+    '    at Function.proto.<computed> [as post] (/Users/moritz/js-projects/week09/hackday/node_modules/express/lib/router/index.js:510:19)\n' +
+    '    at Object.<anonymous> (/Users/moritz/js-projects/week09/hackday/dist/routes/index.js:58:8)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:936:30)\n' +
+    '    at Object.Module._extensions..js (internal/modules/cjs/loader.js:947:10)\n' +
+    '    at Module.load (internal/modules/cjs/loader.js:790:32)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:703:12)\n' +
+    '    at Module.require (internal/modules/cjs/loader.js:830:19)\n' +
+    '    at require (internal/modules/cjs/helpers.js:68:18)\n' +
+    '    at Object.<anonymous> (/Users/moritz/js-projects/week09/hackday/dist/app.js:11:14)',
+  exception: true,
+  date: 'Thu Oct 31 2019 14:56:36 GMT+0100 (Central European Standard Time)',
+  process: {
+    pid: 8996,
+    uid: 501,
+    gid: 20,
+    cwd: '/Users/moritz/js-projects/week09/hackday',
+    execPath: '/usr/local/Cellar/node/12.9.1/bin/node',
+    version: 'v12.9.1',
+    argv: [
+      '/usr/local/Cellar/node/12.9.1/bin/node',
+      '/Users/moritz/js-projects/week09/hackday/dist/server.js'
+    ],
+    memoryUsage: {
+      rss: 34852864,
+      heapTotal: 17420288,
+      heapUsed: 10202096,
+      external: 1197395
+    }
+  },
+  os: {
+    loadavg: [ 2.189453125, 2.115234375, 2.07177734375 ],
+    uptime: 2769988
+  },
+  trace: [
+    {
+      column: 15,
+      file: '/Users/moritz/js-projects/week09/hackday/node_modules/express/lib/router/route.js',
+      function: 'Route.<computed> [as post]',
+      line: 202,
+      method: '<computed> [as post]',
+      native: false
+    },
+    {
+      column: 19,
+      file: '/Users/moritz/js-projects/week09/hackday/node_modules/express/lib/router/index.js',
+      function: 'Function.proto.<computed> [as post]',
+      line: 510,
+      method: '<computed> [as post]',
+      native: false
+    },
+    {
+      column: 8,
+      file: '/Users/moritz/js-projects/week09/hackday/dist/routes/index.js',
+      function: null,
+      line: 58,
+      method: null,
+      native: false
+    },
+    {
+      column: 30,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._compile',
+      line: 936,
+      method: '_compile',
+      native: false
+    },
+    {
+      column: 10,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._extensions..js',
+      line: 947,
+      method: '.js',
+      native: false
+    },
+    {
+      column: 32,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module.load',
+      line: 790,
+      method: 'load',
+      native: false
+    },
+    {
+      column: 12,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._load',
+      line: 703,
+      method: '_load',
+      native: false
+    },
+    {
+      column: 19,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module.require',
+      line: 830,
+      method: 'require',
+      native: false
+    },
+    {
+      column: 18,
+      file: 'internal/modules/cjs/helpers.js',
+      function: 'require',
+      line: 68,
+      method: null,
+      native: false
+    },
+    {
+      column: 14,
+      file: '/Users/moritz/js-projects/week09/hackday/dist/app.js',
+      function: null,
+      line: 11,
+      method: null,
+      native: false
+    }
+  ]
+}
+{
+  error: Error: Route.post() requires a callback function but got a [object Undefined]
+      at Route.<computed> [as post] (/Users/moritz/js-projects/week09/hackday/node_modules/express/lib/router/route.js:202:15)
+      at Function.proto.<computed> [as post] (/Users/moritz/js-projects/week09/hackday/node_modules/express/lib/router/index.js:510:19)
+      at Object.<anonymous> (/Users/moritz/js-projects/week09/hackday/dist/routes/index.js:58:8)
+      at Module._compile (internal/modules/cjs/loader.js:936:30)
+      at Object.Module._extensions..js (internal/modules/cjs/loader.js:947:10)
+      at Module.load (internal/modules/cjs/loader.js:790:32)
+      at Function.Module._load (internal/modules/cjs/loader.js:703:12)
+      at Module.require (internal/modules/cjs/loader.js:830:19)
+      at require (internal/modules/cjs/helpers.js:68:18)
+      at Object.<anonymous> (/Users/moritz/js-projects/week09/hackday/dist/app.js:11:14),
+  level: '\u001b[31merror\u001b[39m',
+  message: 'uncaughtException: Route.post() requires a callback function but got a [object Undefined]\n' +
+    'Error: Route.post() requires a callback function but got a [object Undefined]\n' +
+    '    at Route.<computed> [as post] (/Users/moritz/js-projects/week09/hackday/node_modules/express/lib/router/route.js:202:15)\n' +
+    '    at Function.proto.<computed> [as post] (/Users/moritz/js-projects/week09/hackday/node_modules/express/lib/router/index.js:510:19)\n' +
+    '    at Object.<anonymous> (/Users/moritz/js-projects/week09/hackday/dist/routes/index.js:58:8)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:936:30)\n' +
+    '    at Object.Module._extensions..js (internal/modules/cjs/loader.js:947:10)\n' +
+    '    at Module.load (internal/modules/cjs/loader.js:790:32)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:703:12)\n' +
+    '    at Module.require (internal/modules/cjs/loader.js:830:19)\n' +
+    '    at require (internal/modules/cjs/helpers.js:68:18)\n' +
+    '    at Object.<anonymous> (/Users/moritz/js-projects/week09/hackday/dist/app.js:11:14)',
+  stack: 'Error: Route.post() requires a callback function but got a [object Undefined]\n' +
+    '    at Route.<computed> [as post] (/Users/moritz/js-projects/week09/hackday/node_modules/express/lib/router/route.js:202:15)\n' +
+    '    at Function.proto.<computed> [as post] (/Users/moritz/js-projects/week09/hackday/node_modules/express/lib/router/index.js:510:19)\n' +
+    '    at Object.<anonymous> (/Users/moritz/js-projects/week09/hackday/dist/routes/index.js:58:8)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:936:30)\n' +
+    '    at Object.Module._extensions..js (internal/modules/cjs/loader.js:947:10)\n' +
+    '    at Module.load (internal/modules/cjs/loader.js:790:32)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:703:12)\n' +
+    '    at Module.require (internal/modules/cjs/loader.js:830:19)\n' +
+    '    at require (internal/modules/cjs/helpers.js:68:18)\n' +
+    '    at Object.<anonymous> (/Users/moritz/js-projects/week09/hackday/dist/app.js:11:14)',
+  exception: true,
+  date: 'Thu Oct 31 2019 14:56:51 GMT+0100 (Central European Standard Time)',
+  process: {
+    pid: 9016,
+    uid: 501,
+    gid: 20,
+    cwd: '/Users/moritz/js-projects/week09/hackday',
+    execPath: '/usr/local/Cellar/node/12.9.1/bin/node',
+    version: 'v12.9.1',
+    argv: [
+      '/usr/local/Cellar/node/12.9.1/bin/node',
+      '/Users/moritz/js-projects/week09/hackday/dist/server.js'
+    ],
+    memoryUsage: {
+      rss: 35135488,
+      heapTotal: 17682432,
+      heapUsed: 10434176,
+      external: 1240889
+    }
+  },
+  os: {
+    loadavg: [ 1.91845703125, 2.05810546875, 2.05224609375 ],
+    uptime: 2770003
+  },
+  trace: [
+    {
+      column: 15,
+      file: '/Users/moritz/js-projects/week09/hackday/node_modules/express/lib/router/route.js',
+      function: 'Route.<computed> [as post]',
+      line: 202,
+      method: '<computed> [as post]',
+      native: false
+    },
+    {
+      column: 19,
+      file: '/Users/moritz/js-projects/week09/hackday/node_modules/express/lib/router/index.js',
+      function: 'Function.proto.<computed> [as post]',
+      line: 510,
+      method: '<computed> [as post]',
+      native: false
+    },
+    {
+      column: 8,
+      file: '/Users/moritz/js-projects/week09/hackday/dist/routes/index.js',
+      function: null,
+      line: 58,
+      method: null,
+      native: false
+    },
+    {
+      column: 30,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._compile',
+      line: 936,
+      method: '_compile',
+      native: false
+    },
+    {
+      column: 10,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._extensions..js',
+      line: 947,
+      method: '.js',
+      native: false
+    },
+    {
+      column: 32,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module.load',
+      line: 790,
+      method: 'load',
+      native: false
+    },
+    {
+      column: 12,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._load',
+      line: 703,
+      method: '_load',
+      native: false
+    },
+    {
+      column: 19,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module.require',
+      line: 830,
+      method: 'require',
+      native: false
+    },
+    {
+      column: 18,
+      file: 'internal/modules/cjs/helpers.js',
+      function: 'require',
+      line: 68,
+      method: null,
+      native: false
+    },
+    {
+      column: 14,
+      file: '/Users/moritz/js-projects/week09/hackday/dist/app.js',
+      function: null,
+      line: 11,
+      method: null,
+      native: false
+    }
+  ]
+}
+{
+  error: Error: Route.post() requires a callback function but got a [object Undefined]
+      at Route.<computed> [as post] (/Users/moritz/js-projects/week09/hackday/node_modules/express/lib/router/route.js:202:15)
+      at Function.proto.<computed> [as post] (/Users/moritz/js-projects/week09/hackday/node_modules/express/lib/router/index.js:510:19)
+      at Object.<anonymous> (/Users/moritz/js-projects/week09/hackday/dist/routes/index.js:58:8)
+      at Module._compile (internal/modules/cjs/loader.js:936:30)
+      at Object.Module._extensions..js (internal/modules/cjs/loader.js:947:10)
+      at Module.load (internal/modules/cjs/loader.js:790:32)
+      at Function.Module._load (internal/modules/cjs/loader.js:703:12)
+      at Module.require (internal/modules/cjs/loader.js:830:19)
+      at require (internal/modules/cjs/helpers.js:68:18)
+      at Object.<anonymous> (/Users/moritz/js-projects/week09/hackday/dist/app.js:11:14),
+  level: '\u001b[31merror\u001b[39m',
+  message: 'uncaughtException: Route.post() requires a callback function but got a [object Undefined]\n' +
+    'Error: Route.post() requires a callback function but got a [object Undefined]\n' +
+    '    at Route.<computed> [as post] (/Users/moritz/js-projects/week09/hackday/node_modules/express/lib/router/route.js:202:15)\n' +
+    '    at Function.proto.<computed> [as post] (/Users/moritz/js-projects/week09/hackday/node_modules/express/lib/router/index.js:510:19)\n' +
+    '    at Object.<anonymous> (/Users/moritz/js-projects/week09/hackday/dist/routes/index.js:58:8)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:936:30)\n' +
+    '    at Object.Module._extensions..js (internal/modules/cjs/loader.js:947:10)\n' +
+    '    at Module.load (internal/modules/cjs/loader.js:790:32)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:703:12)\n' +
+    '    at Module.require (internal/modules/cjs/loader.js:830:19)\n' +
+    '    at require (internal/modules/cjs/helpers.js:68:18)\n' +
+    '    at Object.<anonymous> (/Users/moritz/js-projects/week09/hackday/dist/app.js:11:14)',
+  stack: 'Error: Route.post() requires a callback function but got a [object Undefined]\n' +
+    '    at Route.<computed> [as post] (/Users/moritz/js-projects/week09/hackday/node_modules/express/lib/router/route.js:202:15)\n' +
+    '    at Function.proto.<computed> [as post] (/Users/moritz/js-projects/week09/hackday/node_modules/express/lib/router/index.js:510:19)\n' +
+    '    at Object.<anonymous> (/Users/moritz/js-projects/week09/hackday/dist/routes/index.js:58:8)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:936:30)\n' +
+    '    at Object.Module._extensions..js (internal/modules/cjs/loader.js:947:10)\n' +
+    '    at Module.load (internal/modules/cjs/loader.js:790:32)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:703:12)\n' +
+    '    at Module.require (internal/modules/cjs/loader.js:830:19)\n' +
+    '    at require (internal/modules/cjs/helpers.js:68:18)\n' +
+    '    at Object.<anonymous> (/Users/moritz/js-projects/week09/hackday/dist/app.js:11:14)',
+  exception: true,
+  date: 'Thu Oct 31 2019 14:57:02 GMT+0100 (Central European Standard Time)',
+  process: {
+    pid: 9027,
+    uid: 501,
+    gid: 20,
+    cwd: '/Users/moritz/js-projects/week09/hackday',
+    execPath: '/usr/local/Cellar/node/12.9.1/bin/node',
+    version: 'v12.9.1',
+    argv: [
+      '/usr/local/Cellar/node/12.9.1/bin/node',
+      '/Users/moritz/js-projects/week09/hackday/dist/server.js'
+    ],
+    memoryUsage: {
+      rss: 35377152,
+      heapTotal: 17420288,
+      heapUsed: 10276416,
+      external: 1205587
+    }
+  },
+  os: {
+    loadavg: [ 1.93701171875, 2.05615234375, 2.05126953125 ],
+    uptime: 2770014
+  },
+  trace: [
+    {
+      column: 15,
+      file: '/Users/moritz/js-projects/week09/hackday/node_modules/express/lib/router/route.js',
+      function: 'Route.<computed> [as post]',
+      line: 202,
+      method: '<computed> [as post]',
+      native: false
+    },
+    {
+      column: 19,
+      file: '/Users/moritz/js-projects/week09/hackday/node_modules/express/lib/router/index.js',
+      function: 'Function.proto.<computed> [as post]',
+      line: 510,
+      method: '<computed> [as post]',
+      native: false
+    },
+    {
+      column: 8,
+      file: '/Users/moritz/js-projects/week09/hackday/dist/routes/index.js',
+      function: null,
+      line: 58,
+      method: null,
+      native: false
+    },
+    {
+      column: 30,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._compile',
+      line: 936,
+      method: '_compile',
+      native: false
+    },
+    {
+      column: 10,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._extensions..js',
+      line: 947,
+      method: '.js',
+      native: false
+    },
+    {
+      column: 32,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module.load',
+      line: 790,
+      method: 'load',
+      native: false
+    },
+    {
+      column: 12,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._load',
+      line: 703,
+      method: '_load',
+      native: false
+    },
+    {
+      column: 19,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module.require',
+      line: 830,
+      method: 'require',
+      native: false
+    },
+    {
+      column: 18,
+      file: 'internal/modules/cjs/helpers.js',
+      function: 'require',
+      line: 68,
+      method: null,
+      native: false
+    },
+    {
+      column: 14,
+      file: '/Users/moritz/js-projects/week09/hackday/dist/app.js',
+      function: null,
+      line: 11,
+      method: null,
+      native: false
+    }
+  ]
+}
+{
+  error: Error: Route.post() requires a callback function but got a [object Undefined]
+      at Route.<computed> [as post] (/Users/moritz/js-projects/week09/hackday/node_modules/express/lib/router/route.js:202:15)
+      at Function.proto.<computed> [as post] (/Users/moritz/js-projects/week09/hackday/node_modules/express/lib/router/index.js:510:19)
+      at Object.<anonymous> (/Users/moritz/js-projects/week09/hackday/dist/routes/index.js:58:8)
+      at Module._compile (internal/modules/cjs/loader.js:936:30)
+      at Object.Module._extensions..js (internal/modules/cjs/loader.js:947:10)
+      at Module.load (internal/modules/cjs/loader.js:790:32)
+      at Function.Module._load (internal/modules/cjs/loader.js:703:12)
+      at Module.require (internal/modules/cjs/loader.js:830:19)
+      at require (internal/modules/cjs/helpers.js:68:18)
+      at Object.<anonymous> (/Users/moritz/js-projects/week09/hackday/dist/app.js:11:14),
+  level: '\u001b[31merror\u001b[39m',
+  message: 'uncaughtException: Route.post() requires a callback function but got a [object Undefined]\n' +
+    'Error: Route.post() requires a callback function but got a [object Undefined]\n' +
+    '    at Route.<computed> [as post] (/Users/moritz/js-projects/week09/hackday/node_modules/express/lib/router/route.js:202:15)\n' +
+    '    at Function.proto.<computed> [as post] (/Users/moritz/js-projects/week09/hackday/node_modules/express/lib/router/index.js:510:19)\n' +
+    '    at Object.<anonymous> (/Users/moritz/js-projects/week09/hackday/dist/routes/index.js:58:8)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:936:30)\n' +
+    '    at Object.Module._extensions..js (internal/modules/cjs/loader.js:947:10)\n' +
+    '    at Module.load (internal/modules/cjs/loader.js:790:32)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:703:12)\n' +
+    '    at Module.require (internal/modules/cjs/loader.js:830:19)\n' +
+    '    at require (internal/modules/cjs/helpers.js:68:18)\n' +
+    '    at Object.<anonymous> (/Users/moritz/js-projects/week09/hackday/dist/app.js:11:14)',
+  stack: 'Error: Route.post() requires a callback function but got a [object Undefined]\n' +
+    '    at Route.<computed> [as post] (/Users/moritz/js-projects/week09/hackday/node_modules/express/lib/router/route.js:202:15)\n' +
+    '    at Function.proto.<computed> [as post] (/Users/moritz/js-projects/week09/hackday/node_modules/express/lib/router/index.js:510:19)\n' +
+    '    at Object.<anonymous> (/Users/moritz/js-projects/week09/hackday/dist/routes/index.js:58:8)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:936:30)\n' +
+    '    at Object.Module._extensions..js (internal/modules/cjs/loader.js:947:10)\n' +
+    '    at Module.load (internal/modules/cjs/loader.js:790:32)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:703:12)\n' +
+    '    at Module.require (internal/modules/cjs/loader.js:830:19)\n' +
+    '    at require (internal/modules/cjs/helpers.js:68:18)\n' +
+    '    at Object.<anonymous> (/Users/moritz/js-projects/week09/hackday/dist/app.js:11:14)',
+  exception: true,
+  date: 'Thu Oct 31 2019 14:57:11 GMT+0100 (Central European Standard Time)',
+  process: {
+    pid: 9043,
+    uid: 501,
+    gid: 20,
+    cwd: '/Users/moritz/js-projects/week09/hackday',
+    execPath: '/usr/local/Cellar/node/12.9.1/bin/node',
+    version: 'v12.9.1',
+    argv: [
+      '/usr/local/Cellar/node/12.9.1/bin/node',
+      '/Users/moritz/js-projects/week09/hackday/dist/server.js'
+    ],
+    memoryUsage: {
+      rss: 35196928,
+      heapTotal: 17944576,
+      heapUsed: 10305832,
+      external: 1205587
+    }
+  },
+  os: {
+    loadavg: [ 2.02197265625, 2.07177734375, 2.056640625 ],
+    uptime: 2770023
+  },
+  trace: [
+    {
+      column: 15,
+      file: '/Users/moritz/js-projects/week09/hackday/node_modules/express/lib/router/route.js',
+      function: 'Route.<computed> [as post]',
+      line: 202,
+      method: '<computed> [as post]',
+      native: false
+    },
+    {
+      column: 19,
+      file: '/Users/moritz/js-projects/week09/hackday/node_modules/express/lib/router/index.js',
+      function: 'Function.proto.<computed> [as post]',
+      line: 510,
+      method: '<computed> [as post]',
+      native: false
+    },
+    {
+      column: 8,
+      file: '/Users/moritz/js-projects/week09/hackday/dist/routes/index.js',
+      function: null,
+      line: 58,
+      method: null,
+      native: false
+    },
+    {
+      column: 30,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._compile',
+      line: 936,
+      method: '_compile',
+      native: false
+    },
+    {
+      column: 10,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._extensions..js',
+      line: 947,
+      method: '.js',
+      native: false
+    },
+    {
+      column: 32,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module.load',
+      line: 790,
+      method: 'load',
+      native: false
+    },
+    {
+      column: 12,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._load',
+      line: 703,
+      method: '_load',
+      native: false
+    },
+    {
+      column: 19,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module.require',
+      line: 830,
+      method: 'require',
+      native: false
+    },
+    {
+      column: 18,
+      file: 'internal/modules/cjs/helpers.js',
+      function: 'require',
+      line: 68,
+      method: null,
+      native: false
+    },
+    {
+      column: 14,
+      file: '/Users/moritz/js-projects/week09/hackday/dist/app.js',
+      function: null,
+      line: 11,
+      method: null,
+      native: false
+    }
+  ]
+}
+{
+  error: Error: Route.post() requires a callback function but got a [object Undefined]
+      at Route.<computed> [as post] (/Users/moritz/js-projects/week09/hackday/node_modules/express/lib/router/route.js:202:15)
+      at Function.proto.<computed> [as post] (/Users/moritz/js-projects/week09/hackday/node_modules/express/lib/router/index.js:510:19)
+      at Object.<anonymous> (/Users/moritz/js-projects/week09/hackday/dist/routes/index.js:58:8)
+      at Module._compile (internal/modules/cjs/loader.js:936:30)
+      at Object.Module._extensions..js (internal/modules/cjs/loader.js:947:10)
+      at Module.load (internal/modules/cjs/loader.js:790:32)
+      at Function.Module._load (internal/modules/cjs/loader.js:703:12)
+      at Module.require (internal/modules/cjs/loader.js:830:19)
+      at require (internal/modules/cjs/helpers.js:68:18)
+      at Object.<anonymous> (/Users/moritz/js-projects/week09/hackday/dist/app.js:11:14),
+  level: '\u001b[31merror\u001b[39m',
+  message: 'uncaughtException: Route.post() requires a callback function but got a [object Undefined]\n' +
+    'Error: Route.post() requires a callback function but got a [object Undefined]\n' +
+    '    at Route.<computed> [as post] (/Users/moritz/js-projects/week09/hackday/node_modules/express/lib/router/route.js:202:15)\n' +
+    '    at Function.proto.<computed> [as post] (/Users/moritz/js-projects/week09/hackday/node_modules/express/lib/router/index.js:510:19)\n' +
+    '    at Object.<anonymous> (/Users/moritz/js-projects/week09/hackday/dist/routes/index.js:58:8)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:936:30)\n' +
+    '    at Object.Module._extensions..js (internal/modules/cjs/loader.js:947:10)\n' +
+    '    at Module.load (internal/modules/cjs/loader.js:790:32)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:703:12)\n' +
+    '    at Module.require (internal/modules/cjs/loader.js:830:19)\n' +
+    '    at require (internal/modules/cjs/helpers.js:68:18)\n' +
+    '    at Object.<anonymous> (/Users/moritz/js-projects/week09/hackday/dist/app.js:11:14)',
+  stack: 'Error: Route.post() requires a callback function but got a [object Undefined]\n' +
+    '    at Route.<computed> [as post] (/Users/moritz/js-projects/week09/hackday/node_modules/express/lib/router/route.js:202:15)\n' +
+    '    at Function.proto.<computed> [as post] (/Users/moritz/js-projects/week09/hackday/node_modules/express/lib/router/index.js:510:19)\n' +
+    '    at Object.<anonymous> (/Users/moritz/js-projects/week09/hackday/dist/routes/index.js:58:8)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:936:30)\n' +
+    '    at Object.Module._extensions..js (internal/modules/cjs/loader.js:947:10)\n' +
+    '    at Module.load (internal/modules/cjs/loader.js:790:32)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:703:12)\n' +
+    '    at Module.require (internal/modules/cjs/loader.js:830:19)\n' +
+    '    at require (internal/modules/cjs/helpers.js:68:18)\n' +
+    '    at Object.<anonymous> (/Users/moritz/js-projects/week09/hackday/dist/app.js:11:14)',
+  exception: true,
+  date: 'Thu Oct 31 2019 14:57:33 GMT+0100 (Central European Standard Time)',
+  process: {
+    pid: 9058,
+    uid: 501,
+    gid: 20,
+    cwd: '/Users/moritz/js-projects/week09/hackday',
+    execPath: '/usr/local/Cellar/node/12.9.1/bin/node',
+    version: 'v12.9.1',
+    argv: [
+      '/usr/local/Cellar/node/12.9.1/bin/node',
+      '/Users/moritz/js-projects/week09/hackday/dist/server.js'
+    ],
+    memoryUsage: {
+      rss: 35205120,
+      heapTotal: 17682432,
+      heapUsed: 10275016,
+      external: 1205587
+    }
+  },
+  os: {
+    loadavg: [ 1.91845703125, 2.0478515625, 2.04833984375 ],
+    uptime: 2770045
+  },
+  trace: [
+    {
+      column: 15,
+      file: '/Users/moritz/js-projects/week09/hackday/node_modules/express/lib/router/route.js',
+      function: 'Route.<computed> [as post]',
+      line: 202,
+      method: '<computed> [as post]',
+      native: false
+    },
+    {
+      column: 19,
+      file: '/Users/moritz/js-projects/week09/hackday/node_modules/express/lib/router/index.js',
+      function: 'Function.proto.<computed> [as post]',
+      line: 510,
+      method: '<computed> [as post]',
+      native: false
+    },
+    {
+      column: 8,
+      file: '/Users/moritz/js-projects/week09/hackday/dist/routes/index.js',
+      function: null,
+      line: 58,
+      method: null,
+      native: false
+    },
+    {
+      column: 30,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._compile',
+      line: 936,
+      method: '_compile',
+      native: false
+    },
+    {
+      column: 10,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._extensions..js',
+      line: 947,
+      method: '.js',
+      native: false
+    },
+    {
+      column: 32,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module.load',
+      line: 790,
+      method: 'load',
+      native: false
+    },
+    {
+      column: 12,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._load',
+      line: 703,
+      method: '_load',
+      native: false
+    },
+    {
+      column: 19,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module.require',
+      line: 830,
+      method: 'require',
+      native: false
+    },
+    {
+      column: 18,
+      file: 'internal/modules/cjs/helpers.js',
+      function: 'require',
+      line: 68,
+      method: null,
+      native: false
+    },
+    {
+      column: 14,
+      file: '/Users/moritz/js-projects/week09/hackday/dist/app.js',
+      function: null,
+      line: 11,
+      method: null,
+      native: false
+    }
+  ]
+}
+{
+  error: Error: Route.post() requires a callback function but got a [object Undefined]
+      at Route.<computed> [as post] (/Users/moritz/js-projects/week09/hackday/node_modules/express/lib/router/route.js:202:15)
+      at Function.proto.<computed> [as post] (/Users/moritz/js-projects/week09/hackday/node_modules/express/lib/router/index.js:510:19)
+      at Object.<anonymous> (/Users/moritz/js-projects/week09/hackday/dist/routes/index.js:58:8)
+      at Module._compile (internal/modules/cjs/loader.js:936:30)
+      at Object.Module._extensions..js (internal/modules/cjs/loader.js:947:10)
+      at Module.load (internal/modules/cjs/loader.js:790:32)
+      at Function.Module._load (internal/modules/cjs/loader.js:703:12)
+      at Module.require (internal/modules/cjs/loader.js:830:19)
+      at require (internal/modules/cjs/helpers.js:68:18)
+      at Object.<anonymous> (/Users/moritz/js-projects/week09/hackday/dist/app.js:11:14),
+  level: '\u001b[31merror\u001b[39m',
+  message: 'uncaughtException: Route.post() requires a callback function but got a [object Undefined]\n' +
+    'Error: Route.post() requires a callback function but got a [object Undefined]\n' +
+    '    at Route.<computed> [as post] (/Users/moritz/js-projects/week09/hackday/node_modules/express/lib/router/route.js:202:15)\n' +
+    '    at Function.proto.<computed> [as post] (/Users/moritz/js-projects/week09/hackday/node_modules/express/lib/router/index.js:510:19)\n' +
+    '    at Object.<anonymous> (/Users/moritz/js-projects/week09/hackday/dist/routes/index.js:58:8)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:936:30)\n' +
+    '    at Object.Module._extensions..js (internal/modules/cjs/loader.js:947:10)\n' +
+    '    at Module.load (internal/modules/cjs/loader.js:790:32)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:703:12)\n' +
+    '    at Module.require (internal/modules/cjs/loader.js:830:19)\n' +
+    '    at require (internal/modules/cjs/helpers.js:68:18)\n' +
+    '    at Object.<anonymous> (/Users/moritz/js-projects/week09/hackday/dist/app.js:11:14)',
+  stack: 'Error: Route.post() requires a callback function but got a [object Undefined]\n' +
+    '    at Route.<computed> [as post] (/Users/moritz/js-projects/week09/hackday/node_modules/express/lib/router/route.js:202:15)\n' +
+    '    at Function.proto.<computed> [as post] (/Users/moritz/js-projects/week09/hackday/node_modules/express/lib/router/index.js:510:19)\n' +
+    '    at Object.<anonymous> (/Users/moritz/js-projects/week09/hackday/dist/routes/index.js:58:8)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:936:30)\n' +
+    '    at Object.Module._extensions..js (internal/modules/cjs/loader.js:947:10)\n' +
+    '    at Module.load (internal/modules/cjs/loader.js:790:32)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:703:12)\n' +
+    '    at Module.require (internal/modules/cjs/loader.js:830:19)\n' +
+    '    at require (internal/modules/cjs/helpers.js:68:18)\n' +
+    '    at Object.<anonymous> (/Users/moritz/js-projects/week09/hackday/dist/app.js:11:14)',
+  exception: true,
+  date: 'Thu Oct 31 2019 14:57:44 GMT+0100 (Central European Standard Time)',
+  process: {
+    pid: 9077,
+    uid: 501,
+    gid: 20,
+    cwd: '/Users/moritz/js-projects/week09/hackday',
+    execPath: '/usr/local/Cellar/node/12.9.1/bin/node',
+    version: 'v12.9.1',
+    argv: [
+      '/usr/local/Cellar/node/12.9.1/bin/node',
+      '/Users/moritz/js-projects/week09/hackday/dist/server.js'
+    ],
+    memoryUsage: {
+      rss: 35389440,
+      heapTotal: 17682432,
+      heapUsed: 10296928,
+      external: 1197395
+    }
+  },
+  os: {
+    loadavg: [ 1.8505859375, 2.029296875, 2.04150390625 ],
+    uptime: 2770056
+  },
+  trace: [
+    {
+      column: 15,
+      file: '/Users/moritz/js-projects/week09/hackday/node_modules/express/lib/router/route.js',
+      function: 'Route.<computed> [as post]',
+      line: 202,
+      method: '<computed> [as post]',
+      native: false
+    },
+    {
+      column: 19,
+      file: '/Users/moritz/js-projects/week09/hackday/node_modules/express/lib/router/index.js',
+      function: 'Function.proto.<computed> [as post]',
+      line: 510,
+      method: '<computed> [as post]',
+      native: false
+    },
+    {
+      column: 8,
+      file: '/Users/moritz/js-projects/week09/hackday/dist/routes/index.js',
+      function: null,
+      line: 58,
+      method: null,
+      native: false
+    },
+    {
+      column: 30,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._compile',
+      line: 936,
+      method: '_compile',
+      native: false
+    },
+    {
+      column: 10,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._extensions..js',
+      line: 947,
+      method: '.js',
+      native: false
+    },
+    {
+      column: 32,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module.load',
+      line: 790,
+      method: 'load',
+      native: false
+    },
+    {
+      column: 12,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._load',
+      line: 703,
+      method: '_load',
+      native: false
+    },
+    {
+      column: 19,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module.require',
+      line: 830,
+      method: 'require',
+      native: false
+    },
+    {
+      column: 18,
+      file: 'internal/modules/cjs/helpers.js',
+      function: 'require',
+      line: 68,
+      method: null,
+      native: false
+    },
+    {
+      column: 14,
+      file: '/Users/moritz/js-projects/week09/hackday/dist/app.js',
+      function: null,
+      line: 11,
+      method: null,
+      native: false
+    }
+  ]
+}

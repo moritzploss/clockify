@@ -55,5 +55,5 @@ var showWelcome = function (req, res, next) { return __awaiter(void 0, void 0, v
 router.get('/login', authentification.loginWithSpotify);
 router.get('/callback', authentification.verifySpotifyState, authentification.saveSpotifyCodeToSession);
 router.get('/', authorization.requireLogin, showWelcome);
-router.post('/create', playlist.populate);
+router.post('/create', authentification.getOrSaveAccessToken, playlist.populate);
 module.exports = router;

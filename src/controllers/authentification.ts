@@ -5,9 +5,19 @@ import { Request, Response } from 'express-serve-static-core';
 import { NextFunction } from 'connect';
 
 import * as spotifyConfig from '../spotify/config';
+import * as spotify from '../spotify/apiTools';
 
 const randomstring = require('randomstring');
 const querystring = require('querystring');
+
+const getOrSaveAccessToken = async (req, res, next) => {
+  let { accessToken } = req.session;
+  if (!accessToken) {
+    accessToken = await spotify.getAccessToken(req.session.spotifyCode);
+    req.session.accessToken = accessToken;
+  }
+  return next();
+};
 
 const saveSpotifyCodeToSession = (req: Request, res: Response): void => {
   req.session.spotifyCode = req.query.code || null;
@@ -40,4 +50,5 @@ export {
   loginWithSpotify,
   verifySpotifyState,
   saveSpotifyCodeToSession,
+  getOrSaveAccessToken,
 };

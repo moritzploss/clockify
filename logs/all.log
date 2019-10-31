@@ -238,3 +238,1769 @@
   message: 'POST /create 400 151 - 126.970 ms\n',
   level: '\u001b[32minfo\u001b[39m'
 }
+{
+  message: 'GET /login 302 1256 - 12.879 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /callback/?code=AQCdPCodaJ4yMIkgcZQW6arFIHJli1TdJqnmyiHvWqbE-oXJI1wdbS1ZH06PSxedXfWvXGgpTPLeDXb8pUYddLO5iUz1TIcEty8pXve_Aed9Q4r-kUqYrc-siyY1lRSIJGT2G2iIBfgDnRabP0BNv3ETE-nfCfEfs1lIz5D4KyDIMoa-hTN3smkH7bNx5oSazyOwETo8gO65ifxxo2-POexp6MMJwqYdaYjMGO3KUscTbBkH9Q4qnkUoBGd0_6yphzZCS1Yu2ygD9RLos1azSGNKQBIyOv0SJdmXdYcQ_sgYNl7mYtF3a8ycTbhr5AH57-deIx_yF_IgkDkZ5zqBh0E723QwS_6AUf2gUsveaa-j2jY8RGJ0mvYPs79qtOARLSQjdWjp5UY1eAoi3ulAbiHRJWjY3WKjqs-NjUAwc0N-92K5BnxXBkuZIA9CI653M1JQKHRjdUtURhkUAplD_FtKAsJh8-aJ22_IvUgQR-OltsKm6Ixl9c6-MfUSJwOUrgFLiVWENYTrM-H2MGaAUVhzVLGRPQYPx0uRXTFutO38diOc2TFeTSrMu-PJg0hiPpgL5_zT20axBzeJy5gvoy2RF2QDN3vvHQ96RuuoSH1PVM88qOnLNumauWb7wg6JZwIANKPxe9Q3nJxEVYrVRhISMX72mNJ_vDNf2Xycxcl-Veb5DkXFZenV3YP5UTaWCjbYZhNNQH5540E&state=0qkALqLgHPiN1rgv 302 46 - 2.793 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET / 200 569 - 456.322 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 200 1228 - 2.982 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /favicon.ico 404 150 - 1.586 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get authoriazation code grant',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to set access token',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user playlists',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to getUserPlaylists',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to replace tracks in user playlist',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'POST /create 200 439 - 2373.669 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 304 - - 0.991 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET / 304 - - 15.752 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 304 - - 0.956 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get authoriazation code grant',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'POST /create 400 151 - 139.479 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET / 200 309 - 455.452 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 200 1228 - 3.173 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /favicon.ico 404 150 - 3.009 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /login 302 1256 - 4.731 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /callback/?code=AQD6NbEdTql8aqrZRV8pGcAJ7C1NvV1qy66EjJ49i3LqwZvhuBZ_43NDFkOnD6SZAzTEwIEMEMkq9rlQ6mQ2jUw0iaekL4rcqK1miyfQ_OIIDz_EFA5p9mpCIAvHYBFgHgBjDC8GcfSSKp7-tqdCYqp3zSLCPs7qG2ntKUUFK5z1cjO8KdLKfmoHXiQx412Wp_Nmavu_rrOkhRTpAz-suOMn-izto6jBLuj3YiANp7Y25v_tcHqKr-k__zfgCEYm7EI0la6Za1SB8BbzlnO4kfM9obAHDK8vjOcmcYsYK2fiXEYkodIobrzOXIxxhCGxMbJyNByEY0d5x6TUAmsQ8CiaoQ4dMTVbb0N4RAaxTGM7mShtaHNRbdkvssHUJAp_q3xtwhZZDzOg-3Waxlbq6lyste2Skni3fEQqpCSX_MS83Ch_KW0W2J3av9vo2brMFlO56E4djPaSrCSiNuX0i8D9GmY2c65k8u0nvNPjGYKXYYsfduiskane5qEryMekYIPorQSvGWE2Rfc9_uNfqukGWegnRu7DY7rKL54KRTjWqjSp6QHeBAbW1gT9BukLctNaLi06GmzBiOT4aLz4o38Mf2J4PkuFovLKA7rsY0ezaID-pQNYOslepmKx2b8PUgqOfld-DflM4vP9mWjzWxEmGI4XUY2UnxpKdzcl86ybaIHADSGTUAiimz55krfHzr5IvQ5snaWW7Tk&state=iBVVZVvEnZovsFG1 302 46 - 1.051 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET / 200 569 - 16.250 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 304 - - 1.033 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get authoriazation code grant',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to set access token',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user playlists',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to getUserPlaylists',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to replace tracks in user playlist',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'POST /create 200 439 - 2596.101 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 304 - - 0.722 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET / 304 - - 15.995 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 304 - - 0.873 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get authoriazation code grant',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'POST /create 400 151 - 138.789 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET / 200 309 - 447.783 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 200 1228 - 3.326 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /favicon.ico 404 150 - 3.020 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /login 302 1256 - 4.296 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /callback/?code=AQDYxzDyk3L6cNE67TdvlUad0wXZSdLxbNGe5bbmUyXW1vpvLeAF06ZM8K_ExHrmIiPwyaGS1D2gIMLrYF6Zq1ExCJvvNujE0qD2gmAyCig3r-g2mOXQO760hsxOtFDTIIIIzt6Wd8QlRtE8pTEZI7LNydeQyEwDgKZAD9GNvNLEAhbAb4ixoXUgMt5svCg2i4TLnj_8aBvlNm24ZeVQ0Qi8Flp14U5GBR80dDBYi-GLiwTa7nt9mC43SEQprmn4hz64zAHGJpN0vYgd5ibyYP3esRaPfxI_5HldUJujL3Uo0vMh6PuMmh9N_jzqLkbdYdF19kC0l7u-UAsh1VQTjRp6KvrYc_5tYbtMZivMUlWvGEnV2OaAzfssSQoRFJbQPqSlD0NU4kdPgQb6ZPLFAMh6bAtw_kw3CD_FaDNTMq3ikWVwlfszYiRWCd6tpbxWaiKvk6k4msX871RkJIVjBOYfdDwRv2A1z1JNXRjyKAjs30jV-3xoWE5DvmXWAx9Cmf2CARLPUBmPMxl0K19IpYBfvI0vlI8Zt5mTJ9ite41yVqqD-Pg32XD9QtHdRpoxxtEysK9_V7LYvLTMjblhhGf7DCUksNFNS8a7xWvnvKd0dbaSIKEVwrdnhToenBVExhtm6RvDf_xSiYD7M9rM0DHbG-4hGPzm-MOePGTLywjxKmDZFV3N-W1IXeSAYn6LPPTeCNos70x6pz4&state=akKRmaAzSK7x4CQr 302 46 - 1.050 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET / 200 569 - 16.542 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 304 - - 0.952 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get authoriazation code grant',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to set access token',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user playlists',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to getUserPlaylists',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to replace tracks in user playlist',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'POST /create 200 439 - 2486.626 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 304 - - 0.747 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET / 304 - - 21.540 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 304 - - 0.912 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get authoriazation code grant',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'POST /create 400 151 - 134.707 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET / 200 309 - 455.415 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 200 1228 - 3.764 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /favicon.ico 404 150 - 3.013 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /login 302 1256 - 4.669 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /callback/?code=AQCED1K6ukMqS0ePGzS39GAqGjQ7s7WPW6FMKPJQg8AwcvybpJDeTLrbjrkirJRQInxDCaSu9y1DgR4VYXSQVJnEu1ulrmZAQp7nw0yj2NMYeaRlgsP7uyV6OxslzYrVP5aKcchuFn3qzt0msU1pTCUMiAs5hy2V1jvJHU9f2IdWY4ecMtbsb6TnKe8SNxhYwPQiWkiSQ6dtC6hn74M_YjLR4PiBc0SLX_pCXBwxRbetVsv9c_1XGWB65Rl5QnfJr4AEVSidjqL0R0F9emgwX8ii129L2mUz6ryvVRst2tboUWIsRYtGlYi4RkygSvI4SjmWTcrATJnwAxWMoyI4aBDxc0BstdPoecn9wDV71rLV0BV6D9mk91e44pjdyW74quidA3sks3tJq-7kJBxyqX7pLekoGbD6Zj98PNDYdTndhf7j9Go3BaKxWB2qiazuvG8yaz85GERPtgXqKWLP1wOHGlyLqNI0zG-VCjmXv_6VzCnD770LolO4kG4m3Lb8mjubQA7WSkYQrGN43Ey02zi-HVsSbSafO2U2mPq44z9gzXjhjJEZooRM-cOGl8sd9jDbpChql5JhNGf5YK75uW7fH3LNbgHIApDfENzu3n2-cuX-KHlqsNWT1cY3RykpPznyTQCO2tcW9-I55uehYJd1zcwJltiGjdgcsm44-IN-LOWGmPKcRam93atY7LcBL679_l10GXkGbcE&state=MjSDLttIOFcW3nTh 302 46 - 1.105 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET / 200 569 - 17.288 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 304 - - 1.467 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get authoriazation code grant',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to set access token',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user playlists',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to getUserPlaylists',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to replace tracks in user playlist',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'POST /create 200 439 - 2399.988 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 304 - - 0.909 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET / 304 - - 15.504 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 304 - - 0.617 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to set access token',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user playlists',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to getUserPlaylists',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to replace tracks in user playlist',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'POST /create 200 439 - 2153.148 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 304 - - 0.535 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  error: Error: Route.post() requires a callback function but got a [object Undefined]
+      at Route.<computed> [as post] (/Users/moritz/js-projects/week09/hackday/node_modules/express/lib/router/route.js:202:15)
+      at Function.proto.<computed> [as post] (/Users/moritz/js-projects/week09/hackday/node_modules/express/lib/router/index.js:510:19)
+      at Object.<anonymous> (/Users/moritz/js-projects/week09/hackday/dist/routes/index.js:58:8)
+      at Module._compile (internal/modules/cjs/loader.js:936:30)
+      at Object.Module._extensions..js (internal/modules/cjs/loader.js:947:10)
+      at Module.load (internal/modules/cjs/loader.js:790:32)
+      at Function.Module._load (internal/modules/cjs/loader.js:703:12)
+      at Module.require (internal/modules/cjs/loader.js:830:19)
+      at require (internal/modules/cjs/helpers.js:68:18)
+      at Object.<anonymous> (/Users/moritz/js-projects/week09/hackday/dist/app.js:11:14),
+  level: '\u001b[31merror\u001b[39m',
+  message: 'uncaughtException: Route.post() requires a callback function but got a [object Undefined]\n' +
+    'Error: Route.post() requires a callback function but got a [object Undefined]\n' +
+    '    at Route.<computed> [as post] (/Users/moritz/js-projects/week09/hackday/node_modules/express/lib/router/route.js:202:15)\n' +
+    '    at Function.proto.<computed> [as post] (/Users/moritz/js-projects/week09/hackday/node_modules/express/lib/router/index.js:510:19)\n' +
+    '    at Object.<anonymous> (/Users/moritz/js-projects/week09/hackday/dist/routes/index.js:58:8)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:936:30)\n' +
+    '    at Object.Module._extensions..js (internal/modules/cjs/loader.js:947:10)\n' +
+    '    at Module.load (internal/modules/cjs/loader.js:790:32)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:703:12)\n' +
+    '    at Module.require (internal/modules/cjs/loader.js:830:19)\n' +
+    '    at require (internal/modules/cjs/helpers.js:68:18)\n' +
+    '    at Object.<anonymous> (/Users/moritz/js-projects/week09/hackday/dist/app.js:11:14)',
+  stack: 'Error: Route.post() requires a callback function but got a [object Undefined]\n' +
+    '    at Route.<computed> [as post] (/Users/moritz/js-projects/week09/hackday/node_modules/express/lib/router/route.js:202:15)\n' +
+    '    at Function.proto.<computed> [as post] (/Users/moritz/js-projects/week09/hackday/node_modules/express/lib/router/index.js:510:19)\n' +
+    '    at Object.<anonymous> (/Users/moritz/js-projects/week09/hackday/dist/routes/index.js:58:8)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:936:30)\n' +
+    '    at Object.Module._extensions..js (internal/modules/cjs/loader.js:947:10)\n' +
+    '    at Module.load (internal/modules/cjs/loader.js:790:32)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:703:12)\n' +
+    '    at Module.require (internal/modules/cjs/loader.js:830:19)\n' +
+    '    at require (internal/modules/cjs/helpers.js:68:18)\n' +
+    '    at Object.<anonymous> (/Users/moritz/js-projects/week09/hackday/dist/app.js:11:14)',
+  exception: true,
+  date: 'Thu Oct 31 2019 14:56:36 GMT+0100 (Central European Standard Time)',
+  process: {
+    pid: 8996,
+    uid: 501,
+    gid: 20,
+    cwd: '/Users/moritz/js-projects/week09/hackday',
+    execPath: '/usr/local/Cellar/node/12.9.1/bin/node',
+    version: 'v12.9.1',
+    argv: [
+      '/usr/local/Cellar/node/12.9.1/bin/node',
+      '/Users/moritz/js-projects/week09/hackday/dist/server.js'
+    ],
+    memoryUsage: {
+      rss: 34852864,
+      heapTotal: 17420288,
+      heapUsed: 10202096,
+      external: 1197395
+    }
+  },
+  os: {
+    loadavg: [ 2.189453125, 2.115234375, 2.07177734375 ],
+    uptime: 2769988
+  },
+  trace: [
+    {
+      column: 15,
+      file: '/Users/moritz/js-projects/week09/hackday/node_modules/express/lib/router/route.js',
+      function: 'Route.<computed> [as post]',
+      line: 202,
+      method: '<computed> [as post]',
+      native: false
+    },
+    {
+      column: 19,
+      file: '/Users/moritz/js-projects/week09/hackday/node_modules/express/lib/router/index.js',
+      function: 'Function.proto.<computed> [as post]',
+      line: 510,
+      method: '<computed> [as post]',
+      native: false
+    },
+    {
+      column: 8,
+      file: '/Users/moritz/js-projects/week09/hackday/dist/routes/index.js',
+      function: null,
+      line: 58,
+      method: null,
+      native: false
+    },
+    {
+      column: 30,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._compile',
+      line: 936,
+      method: '_compile',
+      native: false
+    },
+    {
+      column: 10,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._extensions..js',
+      line: 947,
+      method: '.js',
+      native: false
+    },
+    {
+      column: 32,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module.load',
+      line: 790,
+      method: 'load',
+      native: false
+    },
+    {
+      column: 12,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._load',
+      line: 703,
+      method: '_load',
+      native: false
+    },
+    {
+      column: 19,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module.require',
+      line: 830,
+      method: 'require',
+      native: false
+    },
+    {
+      column: 18,
+      file: 'internal/modules/cjs/helpers.js',
+      function: 'require',
+      line: 68,
+      method: null,
+      native: false
+    },
+    {
+      column: 14,
+      file: '/Users/moritz/js-projects/week09/hackday/dist/app.js',
+      function: null,
+      line: 11,
+      method: null,
+      native: false
+    }
+  ]
+}
+{
+  error: Error: Route.post() requires a callback function but got a [object Undefined]
+      at Route.<computed> [as post] (/Users/moritz/js-projects/week09/hackday/node_modules/express/lib/router/route.js:202:15)
+      at Function.proto.<computed> [as post] (/Users/moritz/js-projects/week09/hackday/node_modules/express/lib/router/index.js:510:19)
+      at Object.<anonymous> (/Users/moritz/js-projects/week09/hackday/dist/routes/index.js:58:8)
+      at Module._compile (internal/modules/cjs/loader.js:936:30)
+      at Object.Module._extensions..js (internal/modules/cjs/loader.js:947:10)
+      at Module.load (internal/modules/cjs/loader.js:790:32)
+      at Function.Module._load (internal/modules/cjs/loader.js:703:12)
+      at Module.require (internal/modules/cjs/loader.js:830:19)
+      at require (internal/modules/cjs/helpers.js:68:18)
+      at Object.<anonymous> (/Users/moritz/js-projects/week09/hackday/dist/app.js:11:14),
+  level: '\u001b[31merror\u001b[39m',
+  message: 'uncaughtException: Route.post() requires a callback function but got a [object Undefined]\n' +
+    'Error: Route.post() requires a callback function but got a [object Undefined]\n' +
+    '    at Route.<computed> [as post] (/Users/moritz/js-projects/week09/hackday/node_modules/express/lib/router/route.js:202:15)\n' +
+    '    at Function.proto.<computed> [as post] (/Users/moritz/js-projects/week09/hackday/node_modules/express/lib/router/index.js:510:19)\n' +
+    '    at Object.<anonymous> (/Users/moritz/js-projects/week09/hackday/dist/routes/index.js:58:8)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:936:30)\n' +
+    '    at Object.Module._extensions..js (internal/modules/cjs/loader.js:947:10)\n' +
+    '    at Module.load (internal/modules/cjs/loader.js:790:32)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:703:12)\n' +
+    '    at Module.require (internal/modules/cjs/loader.js:830:19)\n' +
+    '    at require (internal/modules/cjs/helpers.js:68:18)\n' +
+    '    at Object.<anonymous> (/Users/moritz/js-projects/week09/hackday/dist/app.js:11:14)',
+  stack: 'Error: Route.post() requires a callback function but got a [object Undefined]\n' +
+    '    at Route.<computed> [as post] (/Users/moritz/js-projects/week09/hackday/node_modules/express/lib/router/route.js:202:15)\n' +
+    '    at Function.proto.<computed> [as post] (/Users/moritz/js-projects/week09/hackday/node_modules/express/lib/router/index.js:510:19)\n' +
+    '    at Object.<anonymous> (/Users/moritz/js-projects/week09/hackday/dist/routes/index.js:58:8)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:936:30)\n' +
+    '    at Object.Module._extensions..js (internal/modules/cjs/loader.js:947:10)\n' +
+    '    at Module.load (internal/modules/cjs/loader.js:790:32)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:703:12)\n' +
+    '    at Module.require (internal/modules/cjs/loader.js:830:19)\n' +
+    '    at require (internal/modules/cjs/helpers.js:68:18)\n' +
+    '    at Object.<anonymous> (/Users/moritz/js-projects/week09/hackday/dist/app.js:11:14)',
+  exception: true,
+  date: 'Thu Oct 31 2019 14:56:51 GMT+0100 (Central European Standard Time)',
+  process: {
+    pid: 9016,
+    uid: 501,
+    gid: 20,
+    cwd: '/Users/moritz/js-projects/week09/hackday',
+    execPath: '/usr/local/Cellar/node/12.9.1/bin/node',
+    version: 'v12.9.1',
+    argv: [
+      '/usr/local/Cellar/node/12.9.1/bin/node',
+      '/Users/moritz/js-projects/week09/hackday/dist/server.js'
+    ],
+    memoryUsage: {
+      rss: 35135488,
+      heapTotal: 17682432,
+      heapUsed: 10434176,
+      external: 1240889
+    }
+  },
+  os: {
+    loadavg: [ 1.91845703125, 2.05810546875, 2.05224609375 ],
+    uptime: 2770003
+  },
+  trace: [
+    {
+      column: 15,
+      file: '/Users/moritz/js-projects/week09/hackday/node_modules/express/lib/router/route.js',
+      function: 'Route.<computed> [as post]',
+      line: 202,
+      method: '<computed> [as post]',
+      native: false
+    },
+    {
+      column: 19,
+      file: '/Users/moritz/js-projects/week09/hackday/node_modules/express/lib/router/index.js',
+      function: 'Function.proto.<computed> [as post]',
+      line: 510,
+      method: '<computed> [as post]',
+      native: false
+    },
+    {
+      column: 8,
+      file: '/Users/moritz/js-projects/week09/hackday/dist/routes/index.js',
+      function: null,
+      line: 58,
+      method: null,
+      native: false
+    },
+    {
+      column: 30,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._compile',
+      line: 936,
+      method: '_compile',
+      native: false
+    },
+    {
+      column: 10,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._extensions..js',
+      line: 947,
+      method: '.js',
+      native: false
+    },
+    {
+      column: 32,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module.load',
+      line: 790,
+      method: 'load',
+      native: false
+    },
+    {
+      column: 12,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._load',
+      line: 703,
+      method: '_load',
+      native: false
+    },
+    {
+      column: 19,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module.require',
+      line: 830,
+      method: 'require',
+      native: false
+    },
+    {
+      column: 18,
+      file: 'internal/modules/cjs/helpers.js',
+      function: 'require',
+      line: 68,
+      method: null,
+      native: false
+    },
+    {
+      column: 14,
+      file: '/Users/moritz/js-projects/week09/hackday/dist/app.js',
+      function: null,
+      line: 11,
+      method: null,
+      native: false
+    }
+  ]
+}
+{
+  error: Error: Route.post() requires a callback function but got a [object Undefined]
+      at Route.<computed> [as post] (/Users/moritz/js-projects/week09/hackday/node_modules/express/lib/router/route.js:202:15)
+      at Function.proto.<computed> [as post] (/Users/moritz/js-projects/week09/hackday/node_modules/express/lib/router/index.js:510:19)
+      at Object.<anonymous> (/Users/moritz/js-projects/week09/hackday/dist/routes/index.js:58:8)
+      at Module._compile (internal/modules/cjs/loader.js:936:30)
+      at Object.Module._extensions..js (internal/modules/cjs/loader.js:947:10)
+      at Module.load (internal/modules/cjs/loader.js:790:32)
+      at Function.Module._load (internal/modules/cjs/loader.js:703:12)
+      at Module.require (internal/modules/cjs/loader.js:830:19)
+      at require (internal/modules/cjs/helpers.js:68:18)
+      at Object.<anonymous> (/Users/moritz/js-projects/week09/hackday/dist/app.js:11:14),
+  level: '\u001b[31merror\u001b[39m',
+  message: 'uncaughtException: Route.post() requires a callback function but got a [object Undefined]\n' +
+    'Error: Route.post() requires a callback function but got a [object Undefined]\n' +
+    '    at Route.<computed> [as post] (/Users/moritz/js-projects/week09/hackday/node_modules/express/lib/router/route.js:202:15)\n' +
+    '    at Function.proto.<computed> [as post] (/Users/moritz/js-projects/week09/hackday/node_modules/express/lib/router/index.js:510:19)\n' +
+    '    at Object.<anonymous> (/Users/moritz/js-projects/week09/hackday/dist/routes/index.js:58:8)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:936:30)\n' +
+    '    at Object.Module._extensions..js (internal/modules/cjs/loader.js:947:10)\n' +
+    '    at Module.load (internal/modules/cjs/loader.js:790:32)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:703:12)\n' +
+    '    at Module.require (internal/modules/cjs/loader.js:830:19)\n' +
+    '    at require (internal/modules/cjs/helpers.js:68:18)\n' +
+    '    at Object.<anonymous> (/Users/moritz/js-projects/week09/hackday/dist/app.js:11:14)',
+  stack: 'Error: Route.post() requires a callback function but got a [object Undefined]\n' +
+    '    at Route.<computed> [as post] (/Users/moritz/js-projects/week09/hackday/node_modules/express/lib/router/route.js:202:15)\n' +
+    '    at Function.proto.<computed> [as post] (/Users/moritz/js-projects/week09/hackday/node_modules/express/lib/router/index.js:510:19)\n' +
+    '    at Object.<anonymous> (/Users/moritz/js-projects/week09/hackday/dist/routes/index.js:58:8)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:936:30)\n' +
+    '    at Object.Module._extensions..js (internal/modules/cjs/loader.js:947:10)\n' +
+    '    at Module.load (internal/modules/cjs/loader.js:790:32)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:703:12)\n' +
+    '    at Module.require (internal/modules/cjs/loader.js:830:19)\n' +
+    '    at require (internal/modules/cjs/helpers.js:68:18)\n' +
+    '    at Object.<anonymous> (/Users/moritz/js-projects/week09/hackday/dist/app.js:11:14)',
+  exception: true,
+  date: 'Thu Oct 31 2019 14:57:02 GMT+0100 (Central European Standard Time)',
+  process: {
+    pid: 9027,
+    uid: 501,
+    gid: 20,
+    cwd: '/Users/moritz/js-projects/week09/hackday',
+    execPath: '/usr/local/Cellar/node/12.9.1/bin/node',
+    version: 'v12.9.1',
+    argv: [
+      '/usr/local/Cellar/node/12.9.1/bin/node',
+      '/Users/moritz/js-projects/week09/hackday/dist/server.js'
+    ],
+    memoryUsage: {
+      rss: 35377152,
+      heapTotal: 17420288,
+      heapUsed: 10276416,
+      external: 1205587
+    }
+  },
+  os: {
+    loadavg: [ 1.93701171875, 2.05615234375, 2.05126953125 ],
+    uptime: 2770014
+  },
+  trace: [
+    {
+      column: 15,
+      file: '/Users/moritz/js-projects/week09/hackday/node_modules/express/lib/router/route.js',
+      function: 'Route.<computed> [as post]',
+      line: 202,
+      method: '<computed> [as post]',
+      native: false
+    },
+    {
+      column: 19,
+      file: '/Users/moritz/js-projects/week09/hackday/node_modules/express/lib/router/index.js',
+      function: 'Function.proto.<computed> [as post]',
+      line: 510,
+      method: '<computed> [as post]',
+      native: false
+    },
+    {
+      column: 8,
+      file: '/Users/moritz/js-projects/week09/hackday/dist/routes/index.js',
+      function: null,
+      line: 58,
+      method: null,
+      native: false
+    },
+    {
+      column: 30,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._compile',
+      line: 936,
+      method: '_compile',
+      native: false
+    },
+    {
+      column: 10,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._extensions..js',
+      line: 947,
+      method: '.js',
+      native: false
+    },
+    {
+      column: 32,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module.load',
+      line: 790,
+      method: 'load',
+      native: false
+    },
+    {
+      column: 12,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._load',
+      line: 703,
+      method: '_load',
+      native: false
+    },
+    {
+      column: 19,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module.require',
+      line: 830,
+      method: 'require',
+      native: false
+    },
+    {
+      column: 18,
+      file: 'internal/modules/cjs/helpers.js',
+      function: 'require',
+      line: 68,
+      method: null,
+      native: false
+    },
+    {
+      column: 14,
+      file: '/Users/moritz/js-projects/week09/hackday/dist/app.js',
+      function: null,
+      line: 11,
+      method: null,
+      native: false
+    }
+  ]
+}
+{
+  error: Error: Route.post() requires a callback function but got a [object Undefined]
+      at Route.<computed> [as post] (/Users/moritz/js-projects/week09/hackday/node_modules/express/lib/router/route.js:202:15)
+      at Function.proto.<computed> [as post] (/Users/moritz/js-projects/week09/hackday/node_modules/express/lib/router/index.js:510:19)
+      at Object.<anonymous> (/Users/moritz/js-projects/week09/hackday/dist/routes/index.js:58:8)
+      at Module._compile (internal/modules/cjs/loader.js:936:30)
+      at Object.Module._extensions..js (internal/modules/cjs/loader.js:947:10)
+      at Module.load (internal/modules/cjs/loader.js:790:32)
+      at Function.Module._load (internal/modules/cjs/loader.js:703:12)
+      at Module.require (internal/modules/cjs/loader.js:830:19)
+      at require (internal/modules/cjs/helpers.js:68:18)
+      at Object.<anonymous> (/Users/moritz/js-projects/week09/hackday/dist/app.js:11:14),
+  level: '\u001b[31merror\u001b[39m',
+  message: 'uncaughtException: Route.post() requires a callback function but got a [object Undefined]\n' +
+    'Error: Route.post() requires a callback function but got a [object Undefined]\n' +
+    '    at Route.<computed> [as post] (/Users/moritz/js-projects/week09/hackday/node_modules/express/lib/router/route.js:202:15)\n' +
+    '    at Function.proto.<computed> [as post] (/Users/moritz/js-projects/week09/hackday/node_modules/express/lib/router/index.js:510:19)\n' +
+    '    at Object.<anonymous> (/Users/moritz/js-projects/week09/hackday/dist/routes/index.js:58:8)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:936:30)\n' +
+    '    at Object.Module._extensions..js (internal/modules/cjs/loader.js:947:10)\n' +
+    '    at Module.load (internal/modules/cjs/loader.js:790:32)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:703:12)\n' +
+    '    at Module.require (internal/modules/cjs/loader.js:830:19)\n' +
+    '    at require (internal/modules/cjs/helpers.js:68:18)\n' +
+    '    at Object.<anonymous> (/Users/moritz/js-projects/week09/hackday/dist/app.js:11:14)',
+  stack: 'Error: Route.post() requires a callback function but got a [object Undefined]\n' +
+    '    at Route.<computed> [as post] (/Users/moritz/js-projects/week09/hackday/node_modules/express/lib/router/route.js:202:15)\n' +
+    '    at Function.proto.<computed> [as post] (/Users/moritz/js-projects/week09/hackday/node_modules/express/lib/router/index.js:510:19)\n' +
+    '    at Object.<anonymous> (/Users/moritz/js-projects/week09/hackday/dist/routes/index.js:58:8)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:936:30)\n' +
+    '    at Object.Module._extensions..js (internal/modules/cjs/loader.js:947:10)\n' +
+    '    at Module.load (internal/modules/cjs/loader.js:790:32)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:703:12)\n' +
+    '    at Module.require (internal/modules/cjs/loader.js:830:19)\n' +
+    '    at require (internal/modules/cjs/helpers.js:68:18)\n' +
+    '    at Object.<anonymous> (/Users/moritz/js-projects/week09/hackday/dist/app.js:11:14)',
+  exception: true,
+  date: 'Thu Oct 31 2019 14:57:11 GMT+0100 (Central European Standard Time)',
+  process: {
+    pid: 9043,
+    uid: 501,
+    gid: 20,
+    cwd: '/Users/moritz/js-projects/week09/hackday',
+    execPath: '/usr/local/Cellar/node/12.9.1/bin/node',
+    version: 'v12.9.1',
+    argv: [
+      '/usr/local/Cellar/node/12.9.1/bin/node',
+      '/Users/moritz/js-projects/week09/hackday/dist/server.js'
+    ],
+    memoryUsage: {
+      rss: 35196928,
+      heapTotal: 17944576,
+      heapUsed: 10305832,
+      external: 1205587
+    }
+  },
+  os: {
+    loadavg: [ 2.02197265625, 2.07177734375, 2.056640625 ],
+    uptime: 2770023
+  },
+  trace: [
+    {
+      column: 15,
+      file: '/Users/moritz/js-projects/week09/hackday/node_modules/express/lib/router/route.js',
+      function: 'Route.<computed> [as post]',
+      line: 202,
+      method: '<computed> [as post]',
+      native: false
+    },
+    {
+      column: 19,
+      file: '/Users/moritz/js-projects/week09/hackday/node_modules/express/lib/router/index.js',
+      function: 'Function.proto.<computed> [as post]',
+      line: 510,
+      method: '<computed> [as post]',
+      native: false
+    },
+    {
+      column: 8,
+      file: '/Users/moritz/js-projects/week09/hackday/dist/routes/index.js',
+      function: null,
+      line: 58,
+      method: null,
+      native: false
+    },
+    {
+      column: 30,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._compile',
+      line: 936,
+      method: '_compile',
+      native: false
+    },
+    {
+      column: 10,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._extensions..js',
+      line: 947,
+      method: '.js',
+      native: false
+    },
+    {
+      column: 32,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module.load',
+      line: 790,
+      method: 'load',
+      native: false
+    },
+    {
+      column: 12,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._load',
+      line: 703,
+      method: '_load',
+      native: false
+    },
+    {
+      column: 19,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module.require',
+      line: 830,
+      method: 'require',
+      native: false
+    },
+    {
+      column: 18,
+      file: 'internal/modules/cjs/helpers.js',
+      function: 'require',
+      line: 68,
+      method: null,
+      native: false
+    },
+    {
+      column: 14,
+      file: '/Users/moritz/js-projects/week09/hackday/dist/app.js',
+      function: null,
+      line: 11,
+      method: null,
+      native: false
+    }
+  ]
+}
+{
+  error: Error: Route.post() requires a callback function but got a [object Undefined]
+      at Route.<computed> [as post] (/Users/moritz/js-projects/week09/hackday/node_modules/express/lib/router/route.js:202:15)
+      at Function.proto.<computed> [as post] (/Users/moritz/js-projects/week09/hackday/node_modules/express/lib/router/index.js:510:19)
+      at Object.<anonymous> (/Users/moritz/js-projects/week09/hackday/dist/routes/index.js:58:8)
+      at Module._compile (internal/modules/cjs/loader.js:936:30)
+      at Object.Module._extensions..js (internal/modules/cjs/loader.js:947:10)
+      at Module.load (internal/modules/cjs/loader.js:790:32)
+      at Function.Module._load (internal/modules/cjs/loader.js:703:12)
+      at Module.require (internal/modules/cjs/loader.js:830:19)
+      at require (internal/modules/cjs/helpers.js:68:18)
+      at Object.<anonymous> (/Users/moritz/js-projects/week09/hackday/dist/app.js:11:14),
+  level: '\u001b[31merror\u001b[39m',
+  message: 'uncaughtException: Route.post() requires a callback function but got a [object Undefined]\n' +
+    'Error: Route.post() requires a callback function but got a [object Undefined]\n' +
+    '    at Route.<computed> [as post] (/Users/moritz/js-projects/week09/hackday/node_modules/express/lib/router/route.js:202:15)\n' +
+    '    at Function.proto.<computed> [as post] (/Users/moritz/js-projects/week09/hackday/node_modules/express/lib/router/index.js:510:19)\n' +
+    '    at Object.<anonymous> (/Users/moritz/js-projects/week09/hackday/dist/routes/index.js:58:8)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:936:30)\n' +
+    '    at Object.Module._extensions..js (internal/modules/cjs/loader.js:947:10)\n' +
+    '    at Module.load (internal/modules/cjs/loader.js:790:32)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:703:12)\n' +
+    '    at Module.require (internal/modules/cjs/loader.js:830:19)\n' +
+    '    at require (internal/modules/cjs/helpers.js:68:18)\n' +
+    '    at Object.<anonymous> (/Users/moritz/js-projects/week09/hackday/dist/app.js:11:14)',
+  stack: 'Error: Route.post() requires a callback function but got a [object Undefined]\n' +
+    '    at Route.<computed> [as post] (/Users/moritz/js-projects/week09/hackday/node_modules/express/lib/router/route.js:202:15)\n' +
+    '    at Function.proto.<computed> [as post] (/Users/moritz/js-projects/week09/hackday/node_modules/express/lib/router/index.js:510:19)\n' +
+    '    at Object.<anonymous> (/Users/moritz/js-projects/week09/hackday/dist/routes/index.js:58:8)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:936:30)\n' +
+    '    at Object.Module._extensions..js (internal/modules/cjs/loader.js:947:10)\n' +
+    '    at Module.load (internal/modules/cjs/loader.js:790:32)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:703:12)\n' +
+    '    at Module.require (internal/modules/cjs/loader.js:830:19)\n' +
+    '    at require (internal/modules/cjs/helpers.js:68:18)\n' +
+    '    at Object.<anonymous> (/Users/moritz/js-projects/week09/hackday/dist/app.js:11:14)',
+  exception: true,
+  date: 'Thu Oct 31 2019 14:57:33 GMT+0100 (Central European Standard Time)',
+  process: {
+    pid: 9058,
+    uid: 501,
+    gid: 20,
+    cwd: '/Users/moritz/js-projects/week09/hackday',
+    execPath: '/usr/local/Cellar/node/12.9.1/bin/node',
+    version: 'v12.9.1',
+    argv: [
+      '/usr/local/Cellar/node/12.9.1/bin/node',
+      '/Users/moritz/js-projects/week09/hackday/dist/server.js'
+    ],
+    memoryUsage: {
+      rss: 35205120,
+      heapTotal: 17682432,
+      heapUsed: 10275016,
+      external: 1205587
+    }
+  },
+  os: {
+    loadavg: [ 1.91845703125, 2.0478515625, 2.04833984375 ],
+    uptime: 2770045
+  },
+  trace: [
+    {
+      column: 15,
+      file: '/Users/moritz/js-projects/week09/hackday/node_modules/express/lib/router/route.js',
+      function: 'Route.<computed> [as post]',
+      line: 202,
+      method: '<computed> [as post]',
+      native: false
+    },
+    {
+      column: 19,
+      file: '/Users/moritz/js-projects/week09/hackday/node_modules/express/lib/router/index.js',
+      function: 'Function.proto.<computed> [as post]',
+      line: 510,
+      method: '<computed> [as post]',
+      native: false
+    },
+    {
+      column: 8,
+      file: '/Users/moritz/js-projects/week09/hackday/dist/routes/index.js',
+      function: null,
+      line: 58,
+      method: null,
+      native: false
+    },
+    {
+      column: 30,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._compile',
+      line: 936,
+      method: '_compile',
+      native: false
+    },
+    {
+      column: 10,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._extensions..js',
+      line: 947,
+      method: '.js',
+      native: false
+    },
+    {
+      column: 32,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module.load',
+      line: 790,
+      method: 'load',
+      native: false
+    },
+    {
+      column: 12,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._load',
+      line: 703,
+      method: '_load',
+      native: false
+    },
+    {
+      column: 19,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module.require',
+      line: 830,
+      method: 'require',
+      native: false
+    },
+    {
+      column: 18,
+      file: 'internal/modules/cjs/helpers.js',
+      function: 'require',
+      line: 68,
+      method: null,
+      native: false
+    },
+    {
+      column: 14,
+      file: '/Users/moritz/js-projects/week09/hackday/dist/app.js',
+      function: null,
+      line: 11,
+      method: null,
+      native: false
+    }
+  ]
+}
+{
+  error: Error: Route.post() requires a callback function but got a [object Undefined]
+      at Route.<computed> [as post] (/Users/moritz/js-projects/week09/hackday/node_modules/express/lib/router/route.js:202:15)
+      at Function.proto.<computed> [as post] (/Users/moritz/js-projects/week09/hackday/node_modules/express/lib/router/index.js:510:19)
+      at Object.<anonymous> (/Users/moritz/js-projects/week09/hackday/dist/routes/index.js:58:8)
+      at Module._compile (internal/modules/cjs/loader.js:936:30)
+      at Object.Module._extensions..js (internal/modules/cjs/loader.js:947:10)
+      at Module.load (internal/modules/cjs/loader.js:790:32)
+      at Function.Module._load (internal/modules/cjs/loader.js:703:12)
+      at Module.require (internal/modules/cjs/loader.js:830:19)
+      at require (internal/modules/cjs/helpers.js:68:18)
+      at Object.<anonymous> (/Users/moritz/js-projects/week09/hackday/dist/app.js:11:14),
+  level: '\u001b[31merror\u001b[39m',
+  message: 'uncaughtException: Route.post() requires a callback function but got a [object Undefined]\n' +
+    'Error: Route.post() requires a callback function but got a [object Undefined]\n' +
+    '    at Route.<computed> [as post] (/Users/moritz/js-projects/week09/hackday/node_modules/express/lib/router/route.js:202:15)\n' +
+    '    at Function.proto.<computed> [as post] (/Users/moritz/js-projects/week09/hackday/node_modules/express/lib/router/index.js:510:19)\n' +
+    '    at Object.<anonymous> (/Users/moritz/js-projects/week09/hackday/dist/routes/index.js:58:8)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:936:30)\n' +
+    '    at Object.Module._extensions..js (internal/modules/cjs/loader.js:947:10)\n' +
+    '    at Module.load (internal/modules/cjs/loader.js:790:32)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:703:12)\n' +
+    '    at Module.require (internal/modules/cjs/loader.js:830:19)\n' +
+    '    at require (internal/modules/cjs/helpers.js:68:18)\n' +
+    '    at Object.<anonymous> (/Users/moritz/js-projects/week09/hackday/dist/app.js:11:14)',
+  stack: 'Error: Route.post() requires a callback function but got a [object Undefined]\n' +
+    '    at Route.<computed> [as post] (/Users/moritz/js-projects/week09/hackday/node_modules/express/lib/router/route.js:202:15)\n' +
+    '    at Function.proto.<computed> [as post] (/Users/moritz/js-projects/week09/hackday/node_modules/express/lib/router/index.js:510:19)\n' +
+    '    at Object.<anonymous> (/Users/moritz/js-projects/week09/hackday/dist/routes/index.js:58:8)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:936:30)\n' +
+    '    at Object.Module._extensions..js (internal/modules/cjs/loader.js:947:10)\n' +
+    '    at Module.load (internal/modules/cjs/loader.js:790:32)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:703:12)\n' +
+    '    at Module.require (internal/modules/cjs/loader.js:830:19)\n' +
+    '    at require (internal/modules/cjs/helpers.js:68:18)\n' +
+    '    at Object.<anonymous> (/Users/moritz/js-projects/week09/hackday/dist/app.js:11:14)',
+  exception: true,
+  date: 'Thu Oct 31 2019 14:57:44 GMT+0100 (Central European Standard Time)',
+  process: {
+    pid: 9077,
+    uid: 501,
+    gid: 20,
+    cwd: '/Users/moritz/js-projects/week09/hackday',
+    execPath: '/usr/local/Cellar/node/12.9.1/bin/node',
+    version: 'v12.9.1',
+    argv: [
+      '/usr/local/Cellar/node/12.9.1/bin/node',
+      '/Users/moritz/js-projects/week09/hackday/dist/server.js'
+    ],
+    memoryUsage: {
+      rss: 35389440,
+      heapTotal: 17682432,
+      heapUsed: 10296928,
+      external: 1197395
+    }
+  },
+  os: {
+    loadavg: [ 1.8505859375, 2.029296875, 2.04150390625 ],
+    uptime: 2770056
+  },
+  trace: [
+    {
+      column: 15,
+      file: '/Users/moritz/js-projects/week09/hackday/node_modules/express/lib/router/route.js',
+      function: 'Route.<computed> [as post]',
+      line: 202,
+      method: '<computed> [as post]',
+      native: false
+    },
+    {
+      column: 19,
+      file: '/Users/moritz/js-projects/week09/hackday/node_modules/express/lib/router/index.js',
+      function: 'Function.proto.<computed> [as post]',
+      line: 510,
+      method: '<computed> [as post]',
+      native: false
+    },
+    {
+      column: 8,
+      file: '/Users/moritz/js-projects/week09/hackday/dist/routes/index.js',
+      function: null,
+      line: 58,
+      method: null,
+      native: false
+    },
+    {
+      column: 30,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._compile',
+      line: 936,
+      method: '_compile',
+      native: false
+    },
+    {
+      column: 10,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._extensions..js',
+      line: 947,
+      method: '.js',
+      native: false
+    },
+    {
+      column: 32,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module.load',
+      line: 790,
+      method: 'load',
+      native: false
+    },
+    {
+      column: 12,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._load',
+      line: 703,
+      method: '_load',
+      native: false
+    },
+    {
+      column: 19,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module.require',
+      line: 830,
+      method: 'require',
+      native: false
+    },
+    {
+      column: 18,
+      file: 'internal/modules/cjs/helpers.js',
+      function: 'require',
+      line: 68,
+      method: null,
+      native: false
+    },
+    {
+      column: 14,
+      file: '/Users/moritz/js-projects/week09/hackday/dist/app.js',
+      function: null,
+      line: 11,
+      method: null,
+      native: false
+    }
+  ]
+}
+{
+  message: 'GET / 200 309 - 516.204 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 200 1228 - 3.264 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /favicon.ico 404 150 - 4.632 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /login 302 1256 - 4.334 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /callback/?code=AQAhtS3C5T1FH-giQYDc3mgTQV4_Z3MehSXXB3pfs5fu_sor0kBeGIVDk_65ttvx6Dn7L5hNxeClYmSEcpX1RG4k8j36GV2HkKnvq_YnUFR8gO6hayV-499fYIO1g25SVj7GyVSyG-MCNDRSpuA1StLDLCndq_WIReB3Vu1wegfuBOjbbRO8kj9FVqOw2wQ163kfA72Kujm-fNhwu0hnHYIp_jjwltG4f8CHmuzIHN1ZW-lZhMOITMYTLLMEpWpwDlOJBTDGIUhpHNoBAeAHb0WZavycAdJVQQvUrJVfyBh3XcM3_M0DNw3f4FjUWiajOhAyNuXGjhGdtOEa24AFS98TAyyKf61JUgVSqPdlsstxu22j1y0Qkq_sKbMZ5WxQWI41gYZsgPPAc61I9fc18wP0gucWgWRolL2LCZp0CMgubnuZ3YHfu_gakbYxmaglRY-eusXT-Ho4HZsSj4CpMgcVkUnW5exMxTEUTabsqCW6tKuFcUerFNYUdRte6VKHGbIcSCrR6-gYr6rgFGBTTnyIhc98QbD7cshNPC4vElFqpw1mOX90ZCdzWS9qolaL_Ss_WMDI4G04arMniRmY06mQek2PpJSmwVbRNoiR5avlOaUjCl3X5qpuPlemZ4--U3pg36-N8UGv2BSbcTUzLQ1XiBF3kAx7TVptfy4c_YMY8FwJs4hTVmeDWY43sM8g4fmeLKa9vE4yY2A&state=0Y3pBLRqJ5S5HfaM 302 46 - 1.012 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET / 200 569 - 19.500 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 304 - - 1.383 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get authoriazation code grant',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to set access token',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user playlists',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to getUserPlaylists',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to replace tracks in user playlist',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'POST /create 200 439 - 2429.477 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 304 - - 0.679 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET / 304 - - 20.845 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 304 - - 0.553 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to set access token',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user playlists',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to getUserPlaylists',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to replace tracks in user playlist',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'POST /create 200 439 - 5217.914 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 304 - - 1.057 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET / 200 309 - 466.833 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 304 - - 1.603 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /login 302 1256 - 4.757 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /callback/?code=AQDacJ1erXm7SFH_xWdtABw6v0iVU2lquEsPv3se8BcArwK4GBy6wGRQsVvp5GYMlBGFeGnRzFJzSwYmKBfQJnlQHLnd6seXvdleoKs_g3ixZAf6HroE59V2xogPkYtDQ6KxTZJLJbRywikuXlulHAhgJEOI5g16RGpvGdarXW23yRyKyXml8De8gO7p1xZxaUUt9stqiA0PjRILCsEJkMeNZ8jgXsJ4rjkyqEsmyktZ1lOLmVKRzJKgB340y55xJakPZhNMCVe8icjVWe52jIcrq-BB9NaxUugsAHYb3x4GZBkTEocpj-494v35BYHbrD6-__oEcAAjYWbcrnewxlCvpseE7tsu3oznKpw0kOvHrAgad2ncYe0NBPkefWohu1rruRNGszUWLWhwj3V2iCS0_djmX-6-8tPi62sDrCJrJO4W5GqV5gAygP9Y1GgYsDPn19aCDj8d5CyLYcJ6PnjSpK2X06TQQv7xLs8yyjai2YQ0n45IeCJNU5E683k-24Q8nwZSp-F1lDqeBrk4r9UijMSOaUxOdrrOCKGzJ0ICDCRsisOsBaI-J-L5FKR6w_pHBMLv-fK3tw7iWVGxQCS_bxFwQW7pdWXr1vcUCIz6U-P_aoHn-szdTxT-NJSKUn4HtD9C-LXrIhvyJwgwpQAbDsSHbzirI4jtfj-kzSgZeQh5ssXT33Ctdkxhn4EAYQdR_qvpLISjFmU&state=oUJtn5gnp5tXjPDs 302 46 - 1.018 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET / 200 569 - 16.048 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 304 - - 0.722 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get authoriazation code grant',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to set access token',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user playlists',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to getUserPlaylists',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to replace tracks in user playlist',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'POST /create 200 439 - 2537.562 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 304 - - 1.045 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to set access token',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user playlists',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to getUserPlaylists',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to replace tracks in user playlist',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'POST /create 200 448 - 2238.135 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 200 1259 - 1.689 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to set access token',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user playlists',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to getUserPlaylists',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to create playlist',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to create playlist',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to replace tracks in user playlist',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'POST /create 200 448 - 2669.590 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 200 1259 - 1.590 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
