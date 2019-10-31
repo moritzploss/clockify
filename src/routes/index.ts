@@ -85,23 +85,28 @@ const userInputToMilliseconds = ({ hours, minutes, seconds }) => {
   return (secsFromSecs + secsFromMins + secsFromHrs) * 1000;
 };
 
+const getTargetPlaylist = async (apiInstance): Promise<string> => {
+  const userPlaylists = await spotify.getUserPlaylists(apiInstance);
+  const listDetails = userPlaylists.body.items.map(({ id, name }) => ({ name, id }));
+  let appPlaylist = listDetails.find((list) => list.name === process.env.PLAYLIST_NAME);
+
+  if (!appPlaylist) {
+    const { body } = await spotify.createPlaylist(apiInstance, process.env.PLAYLIST_NAME);
+    appPlaylist = body;
+  }
+  return appPlaylist.id;
+};
+
 router.post('/create', async (req, res, next) => {
   try {
     const apiInstance = await spotify.newApiInstance(req.session.spotifyCode);
     const targetDuration = userInputToMilliseconds(req.body);
-
-    const userPlaylists = await spotify.getUserPlaylists(apiInstance);
-    const listDetails = userPlaylists.body.items.map(({ id, name }) => ({ name, id }));
-    let appPlaylist = listDetails.find((list) => list.name === process.env.PLAYLIST_NAME);
-
-    if (!appPlaylist) {
-      appPlaylist = await spotify.createPlaylist(apiInstance, process.env.PLAYLIST_NAME);
-    }
+    const targetPlaylist = await getTargetPlaylist(apiInstance);
 
     const userTracks = await spotify.getNUserTracks(apiInstance, 500);
     const newTracks = getNewTracks(userTracks, targetDuration);
 
-    await spotify.replaceTracksInPlaylist(apiInstance, appPlaylist.id, newTracks);
+    await spotify.replaceTracksInPlaylist(apiInstance, targetPlaylist, newTracks);
     return res.json(newTracks);
   } catch (error) {
     return next(error);
