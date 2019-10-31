@@ -32,4 +32,7 @@ app.use(bodyParser.urlencoded({ extended: true }));
 
 app.use('/', router);
 
+app.use((req, res) => res.render('notFound'));
+
+
 export default app;

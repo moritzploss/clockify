@@ -18,6 +18,12 @@ h1 {
   margin-bottom: 0px;
 }
 
+nav {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+}
+
 .wrapper {
   display: flex;
   text-align: center;
@@ -74,15 +80,27 @@ h1 {
 .link {
   font-size: 24px;
   font-weight: 300;
+  color: black;
 }
 
 .link:hover {
-  color: black;
+  color: rgb(87, 181, 96);
 }
 
 .login:hover {
   background-color: rgb(87, 181, 96);
 }
+
+.nav {
+  color: black;
+  text-decoration: none;
+}
+
+.nav:hover {
+  color: #444;
+}
+
+
 
 .bold {
   font-weight: 700;
