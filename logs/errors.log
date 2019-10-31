@@ -856,3 +856,2245 @@
     }
   ]
 }
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  error: ReferenceError: userTracks is not defined
+      at Object.<anonymous> (/Users/moritz/js-projects/week09/hackday/dist/spotify/apiTools.js:187:22)
+      at Module._compile (internal/modules/cjs/loader.js:936:30)
+      at Object.Module._extensions..js (internal/modules/cjs/loader.js:947:10)
+      at Module.load (internal/modules/cjs/loader.js:790:32)
+      at Function.Module._load (internal/modules/cjs/loader.js:703:12)
+      at Module.require (internal/modules/cjs/loader.js:830:19)
+      at require (internal/modules/cjs/helpers.js:68:18)
+      at Object.<anonymous> (/Users/moritz/js-projects/week09/hackday/dist/controllers/authentification.js:40:15)
+      at Module._compile (internal/modules/cjs/loader.js:936:30)
+      at Object.Module._extensions..js (internal/modules/cjs/loader.js:947:10),
+  level: '\u001b[31merror\u001b[39m',
+  message: 'uncaughtException: userTracks is not defined\n' +
+    'ReferenceError: userTracks is not defined\n' +
+    '    at Object.<anonymous> (/Users/moritz/js-projects/week09/hackday/dist/spotify/apiTools.js:187:22)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:936:30)\n' +
+    '    at Object.Module._extensions..js (internal/modules/cjs/loader.js:947:10)\n' +
+    '    at Module.load (internal/modules/cjs/loader.js:790:32)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:703:12)\n' +
+    '    at Module.require (internal/modules/cjs/loader.js:830:19)\n' +
+    '    at require (internal/modules/cjs/helpers.js:68:18)\n' +
+    '    at Object.<anonymous> (/Users/moritz/js-projects/week09/hackday/dist/controllers/authentification.js:40:15)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:936:30)\n' +
+    '    at Object.Module._extensions..js (internal/modules/cjs/loader.js:947:10)',
+  stack: 'ReferenceError: userTracks is not defined\n' +
+    '    at Object.<anonymous> (/Users/moritz/js-projects/week09/hackday/dist/spotify/apiTools.js:187:22)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:936:30)\n' +
+    '    at Object.Module._extensions..js (internal/modules/cjs/loader.js:947:10)\n' +
+    '    at Module.load (internal/modules/cjs/loader.js:790:32)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:703:12)\n' +
+    '    at Module.require (internal/modules/cjs/loader.js:830:19)\n' +
+    '    at require (internal/modules/cjs/helpers.js:68:18)\n' +
+    '    at Object.<anonymous> (/Users/moritz/js-projects/week09/hackday/dist/controllers/authentification.js:40:15)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:936:30)\n' +
+    '    at Object.Module._extensions..js (internal/modules/cjs/loader.js:947:10)',
+  exception: true,
+  date: 'Thu Oct 31 2019 15:51:02 GMT+0100 (Central European Standard Time)',
+  process: {
+    pid: 11262,
+    uid: 501,
+    gid: 20,
+    cwd: '/Users/moritz/js-projects/week09/hackday',
+    execPath: '/usr/local/Cellar/node/12.9.1/bin/node',
+    version: 'v12.9.1',
+    argv: [
+      '/usr/local/Cellar/node/12.9.1/bin/node',
+      '/Users/moritz/js-projects/week09/hackday/dist/server.js'
+    ],
+    memoryUsage: {
+      rss: 35074048,
+      heapTotal: 17420288,
+      heapUsed: 10043656,
+      external: 1197395
+    }
+  },
+  os: {
+    loadavg: [ 2.05419921875, 2.14501953125, 2.07373046875 ],
+    uptime: 2773254
+  },
+  trace: [
+    {
+      column: 22,
+      file: '/Users/moritz/js-projects/week09/hackday/dist/spotify/apiTools.js',
+      function: null,
+      line: 187,
+      method: null,
+      native: false
+    },
+    {
+      column: 30,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._compile',
+      line: 936,
+      method: '_compile',
+      native: false
+    },
+    {
+      column: 10,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._extensions..js',
+      line: 947,
+      method: '.js',
+      native: false
+    },
+    {
+      column: 32,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module.load',
+      line: 790,
+      method: 'load',
+      native: false
+    },
+    {
+      column: 12,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._load',
+      line: 703,
+      method: '_load',
+      native: false
+    },
+    {
+      column: 19,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module.require',
+      line: 830,
+      method: 'require',
+      native: false
+    },
+    {
+      column: 18,
+      file: 'internal/modules/cjs/helpers.js',
+      function: 'require',
+      line: 68,
+      method: null,
+      native: false
+    },
+    {
+      column: 15,
+      file: '/Users/moritz/js-projects/week09/hackday/dist/controllers/authentification.js',
+      function: null,
+      line: 40,
+      method: null,
+      native: false
+    },
+    {
+      column: 30,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._compile',
+      line: 936,
+      method: '_compile',
+      native: false
+    },
+    {
+      column: 10,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._extensions..js',
+      line: 947,
+      method: '.js',
+      native: false
+    }
+  ]
+}
+{
+  error: ReferenceError: userTracks is not defined
+      at Object.<anonymous> (/Users/moritz/js-projects/week09/hackday/dist/spotify/apiTools.js:186:22)
+      at Module._compile (internal/modules/cjs/loader.js:936:30)
+      at Object.Module._extensions..js (internal/modules/cjs/loader.js:947:10)
+      at Module.load (internal/modules/cjs/loader.js:790:32)
+      at Function.Module._load (internal/modules/cjs/loader.js:703:12)
+      at Module.require (internal/modules/cjs/loader.js:830:19)
+      at require (internal/modules/cjs/helpers.js:68:18)
+      at Object.<anonymous> (/Users/moritz/js-projects/week09/hackday/dist/controllers/authentification.js:40:15)
+      at Module._compile (internal/modules/cjs/loader.js:936:30)
+      at Object.Module._extensions..js (internal/modules/cjs/loader.js:947:10),
+  level: '\u001b[31merror\u001b[39m',
+  message: 'uncaughtException: userTracks is not defined\n' +
+    'ReferenceError: userTracks is not defined\n' +
+    '    at Object.<anonymous> (/Users/moritz/js-projects/week09/hackday/dist/spotify/apiTools.js:186:22)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:936:30)\n' +
+    '    at Object.Module._extensions..js (internal/modules/cjs/loader.js:947:10)\n' +
+    '    at Module.load (internal/modules/cjs/loader.js:790:32)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:703:12)\n' +
+    '    at Module.require (internal/modules/cjs/loader.js:830:19)\n' +
+    '    at require (internal/modules/cjs/helpers.js:68:18)\n' +
+    '    at Object.<anonymous> (/Users/moritz/js-projects/week09/hackday/dist/controllers/authentification.js:40:15)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:936:30)\n' +
+    '    at Object.Module._extensions..js (internal/modules/cjs/loader.js:947:10)',
+  stack: 'ReferenceError: userTracks is not defined\n' +
+    '    at Object.<anonymous> (/Users/moritz/js-projects/week09/hackday/dist/spotify/apiTools.js:186:22)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:936:30)\n' +
+    '    at Object.Module._extensions..js (internal/modules/cjs/loader.js:947:10)\n' +
+    '    at Module.load (internal/modules/cjs/loader.js:790:32)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:703:12)\n' +
+    '    at Module.require (internal/modules/cjs/loader.js:830:19)\n' +
+    '    at require (internal/modules/cjs/helpers.js:68:18)\n' +
+    '    at Object.<anonymous> (/Users/moritz/js-projects/week09/hackday/dist/controllers/authentification.js:40:15)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:936:30)\n' +
+    '    at Object.Module._extensions..js (internal/modules/cjs/loader.js:947:10)',
+  exception: true,
+  date: 'Thu Oct 31 2019 15:51:15 GMT+0100 (Central European Standard Time)',
+  process: {
+    pid: 11275,
+    uid: 501,
+    gid: 20,
+    cwd: '/Users/moritz/js-projects/week09/hackday',
+    execPath: '/usr/local/Cellar/node/12.9.1/bin/node',
+    version: 'v12.9.1',
+    argv: [
+      '/usr/local/Cellar/node/12.9.1/bin/node',
+      '/Users/moritz/js-projects/week09/hackday/dist/server.js'
+    ],
+    memoryUsage: {
+      rss: 34951168,
+      heapTotal: 17420288,
+      heapUsed: 10027016,
+      external: 1197395
+    }
+  },
+  os: {
+    loadavg: [ 1.74609375, 2.07177734375, 2.048828125 ],
+    uptime: 2773267
+  },
+  trace: [
+    {
+      column: 22,
+      file: '/Users/moritz/js-projects/week09/hackday/dist/spotify/apiTools.js',
+      function: null,
+      line: 186,
+      method: null,
+      native: false
+    },
+    {
+      column: 30,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._compile',
+      line: 936,
+      method: '_compile',
+      native: false
+    },
+    {
+      column: 10,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._extensions..js',
+      line: 947,
+      method: '.js',
+      native: false
+    },
+    {
+      column: 32,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module.load',
+      line: 790,
+      method: 'load',
+      native: false
+    },
+    {
+      column: 12,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._load',
+      line: 703,
+      method: '_load',
+      native: false
+    },
+    {
+      column: 19,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module.require',
+      line: 830,
+      method: 'require',
+      native: false
+    },
+    {
+      column: 18,
+      file: 'internal/modules/cjs/helpers.js',
+      function: 'require',
+      line: 68,
+      method: null,
+      native: false
+    },
+    {
+      column: 15,
+      file: '/Users/moritz/js-projects/week09/hackday/dist/controllers/authentification.js',
+      function: null,
+      line: 40,
+      method: null,
+      native: false
+    },
+    {
+      column: 30,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._compile',
+      line: 936,
+      method: '_compile',
+      native: false
+    },
+    {
+      column: 10,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._extensions..js',
+      line: 947,
+      method: '.js',
+      native: false
+    }
+  ]
+}

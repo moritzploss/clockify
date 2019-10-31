@@ -2004,3 +2004,6357 @@
   message: 'GET /style.css 200 1259 - 1.590 ms\n',
   level: '\u001b[32minfo\u001b[39m'
 }
+{
+  message: 'attempting to set access token',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user playlists',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to getUserPlaylists',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to replace tracks in user playlist',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'POST /create 200 448 - 2265.776 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 200 1259 - 1.318 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET / 304 - - 17.533 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 200 1259 - 1.175 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to set access token',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user playlists',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to getUserPlaylists',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to replace tracks in user playlist',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'POST /create 200 448 - 2304.058 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 304 - - 0.656 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get authoriazation code grant',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'POST /create - - - - ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /login 302 1256 - 8.222 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /callback/?code=AQDhuiTFWnwQw5-HmwZv_9v3LkpyOvTXwhjkfMDsuZh179UIYpYkGY61iBeSkX2mR4L2gQsJYPxX5zbH3zFA5kDiXAD69FqW2eRBt3P4XQljMFm_Hi3cIueHnYmBT75tT9yrmwyNQUTU7hQ3K9jnlkaA2GTErzLHXvot_VXDGLRYYVOYltCwpBwVmO8KBTxZM4GbDgMuLDk4CXLEOc1j52vZyLSzIL_JvWOTPURkeuzbvq3Wm8kR6pcIU1V_BuZK4fYa3mQVyQGkuDVsqrOfjT2l1G3d9PVj8C8jhp7yxuWWjUl8doKhNtnff-0EnwqnWgs7V-3de9NTPMli5FUCovPj5cQfpb8FOu5DpeLxFdOSKiHiM2oL0gdlcXpHKB4JL98kPUTkvNpBK4WI_dzS--uL0v71CdnZJWtZTlsjuQEAJqxCzLCfICJdSX0I958oBokyaer1YpUclZteKcVG5R3Q1vEVlLU1AKhwF8Z31XGF6xp9sagrORySEd8S3wRG61DkjsO4qTdrM_wuvh3iIMYNn6dx3AUBv_2Og1epNanpVKx0i_eD5tQN4jtNXU39nNAA9R55bLjkXr8165ICoYdoJvsVoY4ugpCZ-4UaFXza266kIsgn9_GKqVwiM1j3iMIucVDKDHkPm-kyrCtejM6Jy1svHjcA5LazEJzgLTM6WF9yRyhYKprdz0ZphbzUKGaa7Fapg1-Qdls&state=xTvg6F8Ie7L47xqX 302 46 - 1.868 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET / 200 569 - 492.256 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 200 1259 - 2.593 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /favicon.ico 404 150 - 2.547 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get authoriazation code grant',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to set access token',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user playlists',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to getUserPlaylists',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'POST /create 400 151 - 591.879 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET / 200 309 - 189.272 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 200 1259 - 2.568 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /favicon.ico 404 150 - 3.125 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /login 302 1256 - 5.023 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /callback/?code=AQC7R386S5FtjpLT_C5Yit61ukkrxqZG2lC7x4VNWadiCas3tbWxW0L9I3Dee4wUWkV9jrq200DQF5YTL3EA3y_zYiOVHqo-4-jr6Nb4RhN0qeloVIgii3EN2OwYm3pxEH3HJlKK9qhvBUlWLSPoqMnHAPU4q5Ru6wBEZGQQpurb5fc3g1maQplrI30m14B_VWA3tOSl6jEKTU3n0PzTRYzGAhdRFjQ8cWvmGEtJZfH2lZhnQzeU-vPSsWNYB4zWWJmI_RF4JY0pTMITct5k7uTYXHzel-7ryrrGNx82Bta1TvSlNvkGmsMYZtL0JMZKmUirzfeJgaeTmKAKXkPeRdUp4qBy-o0pzOxGyJ9BaxDQ2vYT7j_G4EdOYhki8NTXBPJPqG9odE10MhthS98cNOQBRFotdjWeOkS5XFraQqEnhnb8lpnpRkiTbVVkYhYIfqNh1qXfIMvDbQlY7P54CIhRBvh3FdxQejDTNPXa4jcAh8trOY4fd7E-pOsNv9MxNxrK123Pezck-mqq1Oet0XoLnWQCwzXzdq_h9BlgnWvR9Fl2sVzA4HG6Gg1Pawu4BMz94InDhwxGvbDXCYdL-nx0_kmkGUvsUXde0fPICcXieKhGllMX0X3k3gRuTKSBiFSUnqS1lvOg5O_fcz87r1K9KcUDBJZGSyNJtpc7fsQU4hOLP6MdlKtoZ2Yy7Q2O68xyok31LBWXGxs&state=QipCnJqCWcjVS2UT 302 46 - 1.132 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET / 200 569 - 17.196 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 304 - - 0.916 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get authoriazation code grant',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to set access token',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user playlists',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to getUserPlaylists',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to replace tracks in user playlist',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'POST /create 200 448 - 909.622 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 304 - - 0.766 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get authoriazation code grant',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'POST /create - - - - ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /login 302 1256 - 7.751 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /callback/?code=AQDOlXwJJw7lTDhykvDTv9-WGNxOyChxDE1OSZiF4SVSSzWu613e-isuOrsu9wufKymwz4FMtgCW4dHto0XuZCNk0ql5SSDVce4-1TfxRY-AA-wml8ebeSows3m6FMTQfZ8ujZwHCPnxZ1T_o0FgNWeLzBiM_oXb8TyNePBpg6HXJhxBjlzwtIksQnZ6sjo00hkgULllo7qIFKLG1HiCEmBXn4uZgZXb0MBZFYbF_l-nYO7BrEwwX0oQhPOX1g6ZgLAd-Hf9W2BzFJkC0ovptUnctDdzKCI_b7EA4FSedw9EcljvOnNtYult918VpQCAh15vcE21C1CZ7Bdysw2SVtEbA1URJ_gzvVw7L5FRcF49-ha06yWypNN5wo140F1C0mdr66QWwkVvS2MUZJA5KWPNCsHvlZOXEr3iF0kktAmq8B1VO2M-1tFcB1kBuWmFCOSvkLe7qdEY8hJDUBVdBmalaMvUhxnDou5TA1BBXIqr0GpYf4qV4_XYJQZGaDSNKucJpzaQwPurYVQMBIorcmt2-N5O0IaDkxtWokPPvBXGSrVCTwCoh0U7de6nqcgX7oWSGkl1C4Fk2_F58Yx1D3LsGWqaZJVmTcMsCjPeVo1edJ5KGm6xuMnPwnpKrO0ltf22kPDTGqW8qeUv1jdSAfaniqQkNjoqTF5hs_7_joHKTKk_MUiQ-GsUzPzK38ov7rxAubHohnD9pgI&state=bOUC3dUSEPCCd05Z 302 46 - 1.462 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET / 200 569 - 486.280 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 200 1259 - 2.199 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /favicon.ico 404 150 - 2.244 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get authoriazation code grant',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to set access token',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user playlists',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to getUserPlaylists',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'POST /create 200 239 - 600.775 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 304 - - 1.297 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to set access token',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user playlists',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to getUserPlaylists',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'POST /create 200 216 - 481.707 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 304 - - 0.686 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get authoriazation code grant',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'POST /create - - - - ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /login 302 1256 - 7.965 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /callback/?code=AQCsv1mTUdCboDoVYU_28Fp_n7P87VUx90wbHUD2YDuC9JDFryeBXxRLwJx9LbbgmkOPfTzvcbxWN13Gya0HJ6nf9MrTCT0MuFdCImz_uNN4EDc6zYGAjOiHV5mTVXtEzNyT832TuSt7Xu5ugiEQNG0mu7ofckclfZT0u7od7IoN96NrjIe2LE0XFmXcrufJBObZeEyTNlc9Yj0m8k3woTGBANXoorDDEyylUjfl_8uaOQMh2BXqW9o9Ej1CynVTEueDihqsAvKTE4JYStD0b3V9pmojjV3KExCS0xo08c55YewfgMeU_Vys08jq6SMiCS7IOUVwCd_6ngVyHmaPp--V8D9O5rG9P-jnYe-7sBOVooHKU4eSF2vdnJXqOH9czd09k62eGeoiWxE_dJT55sdGJ4HjT66QdCgf3DXUM_-nvQwvVOut3bu1CHJTbZk3ASnLVHcnXuD5nufB9RMpMDP8S2jHqb1JHLtyKSVZNm3CxCr-BTrMEv7zWFmz8QPvRy0vxyRwi0-xQnk5xq03hZuwbgoDiEH6HK3FzBoAtXFwtUADr6orLB-UO3s9L321qy0kwG5lfeFoDBxlW9bB5HokcsqOtIILWNR38ZyA91GT2HWW-ThTrKKFNhE4UPqc9E5TdYbjjJ2QWkPgbRvnBSzCrwPCNYG11icEb0QAbuLFvzU49DdHgeGRSUzXMBZ5aoYI1rFybyJL-Js&state=x1rQBBnzm7Bls087 302 46 - 1.554 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET / 304 - - 518.644 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 200 1259 - 2.589 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get authoriazation code grant',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to set access token',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user playlists',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to getUserPlaylists',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'POST /create 200 216 - 873.322 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 304 - - 1.104 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get authoriazation code grant',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'POST /create - - - - ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /login 302 1256 - 9.129 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /callback/?code=AQAKkmC9NY1HpCeoR-kai9eOh3QIyxuGKXz41xqYI1cm0-0HErMlgN-iYhiftllDOgTdUQq8hBBMdkLs_Q4pvS9dUFgVDEBOyeeq2tzxuHBVsFaaIoHgGvPr82Dtw7H7_2CetK8Q68cZ26w65YNFzAqmCZSkvRO1TzcF4oh24WUY9ATo8789c84cS5nNmkJ96DchscX1Qog64YOkyqXTJiaMnzD5zxU4wUTqyy9t0VZvH1JL8usuhgdjN-eCVHoP-gQLmSMZT7QFfOkyT6pBx35e-vMheyMvIzQ6if8BGYEDU2ZYT-ui-wZ16bGicH22Uy_oqFMWCWJkp5t973O9NR_u1yeQmUPtiINxhYTXgM56v9k-8JM6kmg2IG9XBtv5GwgnLLoHMe5NUoPAiEp5Zbf5JALBPJYcp3ykBT4tn-JXQjMHuB7wb-ep8SBmnCvOpr4FNvYlemzmH2DrsPNGjNkNiPbsVuihJxvpneXIaVL4yIFz6JECOv99q-1XdlROPQCQXMVnomlgOQ0RDpoQ8iiffWyeuIfJBXv5HccVHJnpuhZCPOVQzPw_NKxY-iJ2I74Tl_hXlDxjNwqlPBjAv4nZBjzuuxwwlYSWqENbk0DmARQdrMZrvu--1oySSx6rO-jYuBczFsl8LMte5beXnnl6F0NMAevz_Jepn2sOeYvDB6rL-7zx7LfC7CwAexU-jlKEyBT5OsWz3nc&state=ITe34TIkJnPXvfib 302 46 - 2.265 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET / 200 569 - 476.606 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 200 1259 - 2.491 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /favicon.ico 404 150 - 3.609 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get authoriazation code grant',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to set access token',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user playlists',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to getUserPlaylists',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "100"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'POST /create 200 216 - 780.749 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 304 - - 1.433 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get authoriazation code grant',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'POST /create - - - - ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /login 302 1256 - 7.511 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /callback/?code=AQDhjUBFo8iII55-QQl3YJGJDd6h6VD8qWAfFty4gkByHnnUfdyt1b7L4CsYQ3dxgrwIVZ3ezBxFruJyeLJsdNC0HfZnbN1MoUAAcuiD2GQ9Ybc6abtE3ZPjqj1DBch4f_whTaRJIbZDeK-BoTig_xqyLOWEmqDHSWqAValPGXQPmXsYlIi5_14m1ZPlpEO3LAXwcM0qByR_Us5VfkHPFSJqHmxpIzgRn9sdarvkGPAMDAM3XZN5MyE7E09_MCFkwEZipeRgYsKC1RUxIxtwh1HPFYf7PiuwRBwopox7i9wFGTAQV4ur89-L9PQ1_GaZsHHfhSvLrNNliucXB4ng_oQwQoRKIPRcv1PajSpdWRdEj91h1awzkK0TzqkWOtxbkvouOyeuk8r6-3WyEEamZDRVaVVXQHDGa9CIpQghMn6nPgYOwKLjgHaLSbs2ihTPiShVqSIKm44cT1pwwd13sKT5bdPWruE5V3CHaY-3y2HihfqqHB69NeYd2-ooKHOPTXikdRxO6rQYBMIGPkZarrhPRp_0sBmxI-dwp7jrZwU_phQRzue8j3DRtIxQtk51YixZRQBgD68nGI4b_Cp45WUdeOU_FZb9vSEyLG3lVg_6p3tcqwahICOzusDgB1IFoYyUosQnd51RTAFEKV6BASQFce1yvPnokloXBrFluWEDEoWJjgWQP1C2iEayvrsV30e6LvD_q2M82ws&state=9pu0zTlk6XmLcWvI 302 46 - 1.576 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET / 304 - - 477.773 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 304 - - 1.443 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get authoriazation code grant',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to set access token',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user playlists',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to getUserPlaylists',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "100"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "100"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "100"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "100"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "100"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "100"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "100"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "100"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "100"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "100"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "100"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "100"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "100"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "100"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "100"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "100"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "100"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "100"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "100"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "100"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "100"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "100"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "100"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "100"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "100"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "100"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "100"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "100"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "100"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "100"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "100"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "100"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "100"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "100"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "100"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "100"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "100"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "100"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "100"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "100"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "100"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "100"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "100"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "100"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "100"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "100"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "100"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "100"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "100"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "100"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "100"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "100"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "100"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "100"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "100"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "100"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "100"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "100"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "100"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "100"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "100"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "100"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "100"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "100"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "100"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "100"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "100"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "100"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'POST /create - - - - ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "100"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "100"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "100"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "100"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "100"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "100"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "100"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "100"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "100"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "100"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "100"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "100"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "100"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "100"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "100"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "100"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "100"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /login 302 1256 - 9.478 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /callback/?code=AQAALaXNwKG-GncCDeT_6s0FauDASLNDLmElKTdzrw-xCIoP61oX12JHiyDqPuIR2YMs8uf-ruWCuOvOw2aT0OCUyHn_VDx07v5upOCGt_Y3-uQ9vorcv3z4To5VarFqO-cSXCQncqnVCyY-3KdrtMP7nLhZ6jYwez51nQ-oj9vYMizkCgoQGTgR4O9oEgWuYVY3qjVIhhwmNl_Ru_SMQ6wfbc2iKBzXWtgBgsJaUK7hrbQUzvPz9IqmRyBCGhAxwRwgYrQ9nKQIaSgbnlTfbobUGBd_xuezWz4-QUS3Us8r1QcWh0hyerMl_0qB0RM1l4DJuKaFxFszi36BcaOYPckL8u-ibtsksKb3Jhr5_mTlnFaDYUKQyvpAxhfnpcLO3_-iT0utrTKna2c3wt9blF88lEvU6-QI4todGQXOLgL-ouVbz4UPezJQjflyeFNbhI_2WF6xoEb5qg72i6anYTqXpHnbKkd2Da5F0OvLhxz2aUJV-jYtRLjEBPcBTv_Zh25k8cIYQCzNP0Nm1EkWKpzz-S4o3xgs3j0MCRg-5WATGsYh1XRc0yPK5AYW-2HaPMgRVK2ZDdm6BrLdYhImJPulg3UZE7OBdSs8sF6z6U66KoZLgI4R_MrjbmquRueCNy3N7wzCbh3ZjbdUV3NzNmemLZJaqbY5x1pXhgZkM86Yj_oK3XWB4h1ZlM08l0AB2trBeW2T6kWWKoY&state=DffmD9pD17BW9CJU 302 46 - 2.969 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET / 200 569 - 188.874 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 200 1259 - 2.754 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /favicon.ico 404 150 - 1.576 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get authoriazation code grant',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to set access token',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user playlists',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to getUserPlaylists',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET / 200 309 - 195.305 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 200 1259 - 3.109 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /favicon.ico 404 150 - 3.031 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /login 302 1256 - 4.665 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /callback/?code=AQDH4lxAnWNUaCTEg28UBCE6GsoLj2pPbUFpkiPfRSX2lCQHEz7daw8Pd7Id348UGA4ofY-LLsY9QwEyVr_Qh0EVxDOzi8uxIKloBXpSEskxtsaefN7Yj449tJvFd9Od6oonIY1UNYe0fjvRTi9TfwFqAUrb4cAsladupqeRAzInm5WuswXVzQ1WaXFtST5mewV2oDcF1QwfwUg0hc6F7nja1TjtangzZV88wurtXqxCJcYYoMVJ7STw0YpY4Tz6Vc59lCJ4GEPjqvqh-2-orl2gNz6rqM_BAta1TciYJg_7A-wqSRoWqUUHAPm3sHokbnCHiXFoO9nspITExye7LzKzN3a_VtPo3KQqDhWuKalDkwiMhfhuJsl9UsbMSZCu9RXnVwlgm2mbJGEjBWeBL6ZTk_bvjGtmWhphyCet6n50Y1V7wY9J4p-HN_JKdAT_vILZZMzx4nUtEpjrQBV8ajnWD_CVB2d7a1u5_3sf3g4sBYE8WRI6Tv9Qf1pRUVkuNiNZYS7CIqxFlMq_qJsfOaBuQcCLjQgz0L-aF38l9xkb1qJNR-W5ZPKjk9zP2Ae9focRyBBsW4TPAM3oXqJWkXGM5F95qqVhMWQFYAbcEOWB6_tmt89D3B3TF7cjGuKKUnxKqTjljRU7_ov-pitshVcFGK_4CAm-lf_vNxUhsvVcNKBF9Prkc4ZAtd3anKDsfnbom5AghISLsZw&state=qjqY640DEMsXDkzN 302 46 - 1.293 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET / 200 569 - 16.552 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 304 - - 1.399 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get authoriazation code grant',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to set access token',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user playlists',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to getUserPlaylists',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /login 302 1256 - 9.799 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /callback/?code=AQAOZLIiE77gTq8Uooz-9Gv5zM7elqeU6zGVOnc60i1qIUJR5vLQNiGhKHDyS9CTe5S1Si6raEZwq0Mrs9LAAFYk-_c4aA2V9aYKtOy2nhBaUSYGTWMO6mZ3LU67O_gLHEWIjdIKnIC8XElQSax1MjyNdhJUaEaefnM7k2GrLPKg1diMp3kjXXV0gbVIjU4ouojBdxDKYGQfstkEcNkRaelbEV3LbcgbjbmFyVYHanu_4ZwZPIw3oV1aoO9qk3lc0fR84HqkrvSSaxu_iFxGKkTj1uWOuGL8W1G3Ha8Jlqm6Rrn-Z6xd4tRlublkjLzoj1pWyn5_iKcxQVnMC50mOkvM_ZisZOkz2Y0I7r6TbycnK8E0S2D-dxEmGHiR0AhaTVkySqfUeylMcjxqUP31MfUrwb2h1Jgte1e-zOU0c9eZCSBCsnW0gKtror6Udj8BaaEAhGNikzdpXctHIi6xkdyskTuCd2-znp1WXv6gBRTBQXzrTwF2QRsloMlJ2MwHKY_G_ey6vU4sg7o9b0Pa9trIDxEnY1m9u6mAe_byQyPWakRL2S3Q5f5INSr-e42sl7stYs7m72d4JBQsooCUU2UwQvzNGRDThWkN3Eie6I4lKyiv04iFvT-1nBSoJsU2b3uaP9SLXdPrzpeYpkMzmUdaw3_612S0IEmc7SwNt7yOSz9RRe-xHsVR71oLuKcreXpL7iLXtivymQI&state=4qX0Y9VzXUSOMQNV 302 46 - 2.265 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET / 200 569 - 439.676 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 200 1259 - 2.807 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /favicon.ico 404 150 - 2.460 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get authoriazation code grant',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to set access token',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user playlists',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to getUserPlaylists',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /login 302 1256 - 13.191 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /callback/?code=AQCqXaQGEfK0mr0B97PKsFrDN08gs03r6ESHCNT6bgpBFgsJMr-8gnZ6tb9QWuSfeIMKkVTV-3ZxD_SKY7cI5MylvC2c1KahQUC6pGVIYS1GfEDXjGJfkG4UYHRA7U2CBMr4SvGp1UrogdtkvjY5pIY5GuRo1JYWNlFIkq89XW2ta2rZ_Ffzmqb9VWOvCtF6yQrmZ716xz_jrAXQQq2Px70WeR1yIFpIN8ZXOUl3O9LU8BVDRG1_7WVimSEug7KhaGvb_KnnVZ5DXCC0A0IvJxtH-VT7w6hniY309CH6FMtag6apNgEFiNiIOBlXZFegQX_Nwoq0xKtF0ZGi23admb3cpmHb82hcgKigoFG_5JwerqaCi_e_bo94ejqMW9JNldad9EYIelFblfmmPheMqq85dqxmyXzrzivOUwE06AkUfYGADrspUsTbjUSodMZFZ3tdGjxvnHJqgBzpw02fRY21SWlbiP_OkeFK6Ul0VXnV_krQNaOyqAKyepLQGqYHfcs3S8UXaJo-uV19JGMCaxg_io-bnRlIalh8db9l7PQOTP-aYEuFdrfkv9jdMzghY-pV_YtwP_8lpQFbMoR7ZlviuGlOK2dIk2pyJ_R7pgPJHxIj5xlls58cvVrArNHeYKlRD8OBKaazSgGze5srI6ZDwgMkkgCQYwKk6ur2VT6w_fK9oAf6OPVM1xVoA6RFkiKVyi43ncd_d7A&state=4DTzTLMBRWB2blbe 302 46 - 2.857 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET / 200 569 - 456.367 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 200 1259 - 2.758 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /favicon.ico 404 150 - 1.536 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get authoriazation code grant',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to set access token',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user playlists',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to getUserPlaylists',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /login 302 1256 - 10.269 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /callback/?code=AQDMN3geM9plch0s0YPhEWT0lxvoORy-qjBhrd14Yen-hDZUCpFYVzAQo-ZtFPNdvwgveW8zWKZM88BI9N0zRU_Et_y5dpQ4NlEs4bJLyHQ52prF43hneK9Iu6puDfPg9cUAdEyqV5sGauTFDzpPEEIuMrHVbVUxmwJKVkObZPHv1SmDdPGxV91KxXfjm7Bce_wFT2cuioJvQTrwpk9vtGDlfJk9xDuqDYRG1NOVdSfjEQO1UYB2GB1-zfYl3KL4IRaHZuaYW5NUyf435RWWTtwZ4fbo18DG_sCD0EY0lckG1C3ftSuPGdOOthMoyBkD8fOUUIZU2nDGo5puGEr8Kg_0R7og4zkm55GZzvMZdNTQ8v3fcvB1QxHuCQhvjgswfyqwW1G10QyUKLzJ012EZnweWhC3v_I6If9zY2xOMwaAgxiBPjASCHrFhb1UAEmDlJMBzV_vzVFMKKQ4-0B1rViuHhF5PR2wz8tnI2H1io37O40uouvQMghApNIAklSSMbhLEQFTlQR6-nOwOu0R6Lmxttt845jGxqI9zmAQFnhnz9ziOoxySFs_uDAtaVzMcZRqDeNBar2s-unrRVj6tddihOhJhEsWUYDkYvFcmxEwwd7JP9PdfwOlDpKuUS1KFtIMMmsnJTXCKvb-IZUQ0iC2vBBphmcBkRZH71vuzipmOTQ9oQhO3455-uP_UKE4KE5amqa7Eop1aMw&state=De8CgTa9SvgRKwKY 302 46 - 2.235 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET / 200 569 - 187.726 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 200 1259 - 2.994 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /favicon.ico 404 150 - 2.090 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get authoriazation code grant',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to set access token',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user playlists',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to getUserPlaylists',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'POST /create 500 1050 - 7883.846 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /login 302 1256 - 8.722 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /callback/?code=AQAV6AUkZeqS1uOCiRd1p2lNlig-dj3UM5UiJUcor60l6KnmJ_3vvox1HZBgzAmsAh7uSGHyptWh1T6foS8B34tRHDVKQRhvaNdf3JXQ76EvJw0XfEDjRipSQSNjKgoyubXfp6kwLUmJ_HOQ8X3aA65ycmKtXTlom7pDC2QDFkOxoB0VJjTzudvbsyDDxUx-5hfUbaPXbnt548Xyuh5sT9PnzpOeNQERV_gUZI2lLoKPaMun68bOGc37ebfmX5v7HWnVcN0_gFC59fdhed2wM4rBmHsRIcDes8C1I3TJ1NmbQLKs6oqb1yC2RkpAQnJtJpp3KW_rSbOzMTqdnVBuHRxgtLmC2OJjlnyYaH5MtJ6_AM19ercCFRv2zTeUyJsWkU5MnlnGFiHZGeaDQe_fRA7sPp6D1fO03CwHWtCIsX7GMV2e_lJSu1RNQivP0isojFwyASgV_ybuBg8mswcf1mnkbCjejuT55k2qDGfY036XBWLPNFP01LkorE8LJVvnIw-4YopqvkTYbUAJkQ-_ApS4t58-FLv7LJGGnxps1EUgD7kpAkza-95l06LwJERuovtp2f0Wiu9j3Ovk9Tlsv4yR111myHEjgue07wuCp2iQ6MCz8myyVFshbMATKuliJIyKg8jU2oz4_G_38qfRCHRn5scgUms1-ZVjte3xv5XfPw-WEvRldamtGMh6tJnktH6KCWUbgLlnv7k&state=Q9lk5msrxa9dNQar 302 46 - 3.046 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET / 200 569 - 185.394 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 200 1259 - 2.418 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /favicon.ico 404 150 - 2.539 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get authoriazation code grant',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to set access token',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user playlists',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to getUserPlaylists',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to replace tracks in user playlist',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'POST /create 200 448 - 3746.440 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 304 - - 1.183 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get authoriazation code grant',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /login 302 1256 - 10.481 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /callback/?code=AQBynqpPMZ75pkQK4jxnM8Ls7Su-oWM9jU6NsuNPKn8uIz8jTrGFnzHi7oAfvJPjt3TGuLmWxt62EOhYhJPJRcx8DUCUBVUNj9G4UWnTuKqmnKeq8hi3EPxPNENPFO8y61HTNcLTbVn_uWlTFWi18Guv-r6fXCAx82dDRz8IreGJkidhZkZAX0DTNeiMupezH5391w_uBXivsiJWQqT82COf2-rOeuf7XOPBXFzzj8ZoXGhlZNyfSm_D_j-7c1umL40o5UJyrRezyvs6MlHyHL-OwuToiDb0M_2jLJ1Ht_RVK2-ko8A7glx8sT7VYTnO_vykiiP9Np3gYtrtWgxmUiWD_rOZgbRosRGTj5AmDoUsUYrTTUxrG1P8TqPqs1fysTC-MCvWsEKcQNAZezD8qcs-Lr1qAEIdYrFRggf-FnJgq-n6OPkQYIQX-80ibCHPOCKGNaTBV80IfM6psxbYKAdqFkmadKUAzVEQ3swDLOIvnTuubK1t-PZmMzuDUap5FRHgUyIXPQyp_waP3x1BaNBV_-OZBitW9UP6NFV5ftLbEcNNNCTA0hUeLOxmFmks2kwSduhWi-eHwMrgs3wB7F_BVdiGdBM1upoHmSwQ0HJKsW9dlEsvdumbIX_-jEk8Sc9pnTdY6oltn3naRMrbHIZviEOMYweE1R4fXcy4RhGJBnrm-M5vmta3GtUH7zGJ-Uej_P6sZpNy2JE&state=o9bnL3eihsz2BCJu 302 46 - 2.401 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET / 200 569 - 434.309 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 200 1259 - 2.746 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /favicon.ico 404 150 - 3.244 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get authoriazation code grant',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to set access token',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user playlists',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to getUserPlaylists',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /login 302 1256 - 11.178 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /callback/?code=AQBJmr9cIGpXykh8cF5MwVJhZCsIdW35mDZJ-KKCTxlbInbZdXI40OizikouCZQ5RV8hb1ihHPibhjvGdhzxCAR_xb_vHC-mZ_kss9MLyXMzNFQJbzx4ZFCuirC6Hco-J1EwtQ8IWrRWi5AbX3Mu7xzuLcRcTHh91YWOVGwlF6cSNuQFuHnToYrsIfRVp9pGJDmuoxHcEo80n3mk1wiuUJhciSFG4T-dZxLRUrPxNiapD-8XZp8r65Qrz98Nua2fktBrhLl_egmQtH_kqllZcwl731gQGUnl-4ppSYDYmXZHB6NP-3Mi0xFjtV3WH0AKrInJ4fZPOA54Pw5FS-1Gun1x0aRRY_53JVRnvyEN6aQNPEv2_AguiyPIarzvOYuoubLMxymznoW7N6Xi5THf8HOlQSpgszNGAEHpAW1j28EITIFQAj7em1rXzowDWDeSOFl8mxLhpIPycXJe9itJq4agWbEXOI9WlKV8Dqqe3Yn25gtMi7qQ3vi2j4weuYqXREjCm5GWQgFzPNL-UNXssycuMDK_7Gn23B54FHXz4UJyJ-x7Cq4p8KdTMhSohoc12eNI9ypYcb4i2ifCkuiNEZ2GhGFrtXjWGf-N5s-P2ZxQy4WvNbaangzYsvg3Tw2UtVgikUaZcqyOGG04TOQcvdm0ZfSpvNFpNLWyMSYXaUfhHjsnul0_KDRiOj3EjjCdV_97y5LbLa5dLFk&state=bR7EGhC0J3gUCSqd 302 46 - 1.680 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET / 304 - - 493.340 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 304 - - 1.396 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get authoriazation code grant',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to set access token',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user playlists',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to getUserPlaylists',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET / 200 309 - 451.941 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 304 - - 1.757 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /login 302 1256 - 5.091 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /callback/?code=AQDuzRDqxSv-LEhjfQn81Ms8fLns2VK4N01kcDaEBg3ttPGx6TQ7RCFvPz-mykNIwjbR-fxF1T7n7OZbJ6aMV-i37zi8Hw_TQIdYnbY-bNw6O9bLC2QCnzieIXmEgFmPhXF7OsZt_reNwDGMqlCVQ27UuoJG3xvenaJ4HxTxlMjfbrUyNbQnoyDY4EGGOUhQ6XB9-0jm9ItQzhnv3DKqFAcfF6RfPB-rtkd8jO1ZOhD3K-pfdAROCprUm2t_wiOHysd3Z-QL8DM8r3vqdC6YF2KulPIVOvd6frudiAGPyQLIACvNsyPrZzPT_Z9aT69TubqfjcK8u6NG3z3Am79zpGVOKxj0RAB0cZnJ5Ebh9qfYqzGaPcjs5QI1cB3D7bUoy3oXipvm8-FS-OtE0U-yhd5x8H59ZAgJyIGjUDL0Yljf6gX1Hb6mzBjrprwj4b-RtgqPEqqbEU8uOSpcjZGtuU79Ydw6FHa8eI-elR5iXD0U71f0t4R6_AI3wCIdv4PofaCsK7k3qHh5rVlPflfA5nSJ3PN65cOrDWmM_7ne-tA_lOMyAO0aGS5SlYI1KsfbM7YriH4_nv9U4_Q8KotvOtjoDgI8tePUv3HNYepFBG6_4iBntPj4j4W9AMFIjHwFRdfC591vLYdMDbrjnxgQaj08TFOHgu9zdyF7aDxtImXvnxOp72P1dQZvQBJYgu5QNzBBwc0Z7PElbx0&state=5VJIuN2wVHJzS0mS 302 46 - 1.153 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET / 200 569 - 19.000 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 304 - - 0.590 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get authoriazation code grant',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to set access token',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user playlists',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to getUserPlaylists',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /login 302 1256 - 10.250 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /callback/?code=AQD2HCqTwK6KSkrhM_46EHVNYLFrpsH6Xt5lxgzc7PnvUkR9MnfYTn29Tuc_KO6tU6XdOcZJgTi84bCdhro34ROSg-jAZNF41UICZEIVJ9oYWB0T1z_EA_5I1THoh8wy6uCfoLs3mSXbXyy4HehIYa2oMbr3UZwTnlKsJKTshMrvMMwOSGeEM7NaUZRYb9kaOcmyKtW15xHiSJE1NCY9PCB1TrFwkiFY3QVRVfKqpxl5ofsXCa-qrLD2wKldaIskt-V77oWjM1zQiHz0cYo7aBzZEDNIIt4tShOGm5Q2BfZjV6X_lK7ryTVFcvqPDtV0r80R-idNX8C7fOrch1fxthuhvTV1L5oFVIZEeXseYUmFSR_FNxl1d0vvdQS73DUzGIbpraqC1ncLOIm4KQFAMivkRPYr7VmkRtrfNG-hAGkeSGMSZ0cNWOvlR9N8qgGYE902xZG50Pwdw3m8rdMUSjjR_B3kFDqbn2moYIf1cGRnF4Z6D5QARvyQxklokdn0yYFDz4SwYYrs4WXv-emy0sLSRrmnLFxGTLR9mjTk-Joth5AXU-xajmEssruiv1SKUxYLJHYEFib3QCnbda2zNC5bDC4HZUQf9azd8rV9K5dPdyDKvILZHK12au0ZR_KimEvzoSX8-AbWsBSamSTQkzg84MZlbdyoNTkadGknWF0gclsmXk4wbJfUSKzqNZTeXjT_FygCb7zPB0s&state=ogvOcuyPSvlgy3qB 302 46 - 3.144 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET / 200 569 - 492.337 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 200 1259 - 3.002 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /favicon.ico 404 150 - 3.013 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get authoriazation code grant',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to set access token',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user playlists',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to getUserPlaylists',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'POST /create 200 216 - 915.701 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 304 - - 1.223 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get authoriazation code grant',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'POST /create - - - - ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /login 302 1256 - 7.805 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /callback/?code=AQBCHJeXtQeJ9w6dvCgzCdvvl7ZwLN11dC2r-2V1dzC3m5_7_IKzEfsY1UI1cX0I42eGUtMkfmLfxfYOasYRGM9PX0OgjN36WShG5spBwcEfz3x-iR3sloAvP6D0c95ntmm5SxblWb9q_N-DdC2_8x5PyTIjOgURzgkG1rOE6lW7tek4ruh8h7jJuMaRlVdtLxXygOHr1apGcW9UJ3EZGxEGd0FabIadOOMAWws9Usak3xg8PS2XIODKHq-VKWdW2mQHskrQRKzkuapwt6DcJFXzQQW-s-feg-0SkCcYosDL4UkXq7M-s0jmaPJc-Sv9ukT5HofJ4dszga6aIIDwnTbVMsq9TAzTL9sT1Z-ZQwfX5JY1iyRCJnIqTVocCAwEkD8tocihhOp4yKJJMTg4D8C8iXxP4jmUbDF6tgc2ZCgToNXC1xJDsYJ1hXRnCM_j7LheML4KPdtImO1wqzgjpILXjzU7RWNYNi689pIj2U7FIBM1lsHicwMFsEttdeIdfORJohVKh8f9270W99CgdbAY7PVYm58uy4hlC5Zazt4Z6pJusOfcv20S65XHeWD0DJPUJ7Eqtd2VJSHLDTW2Gbi67CxCV3dMvDB456HKI97O0nKr8kxJT2kLYHuI0idXn5-iHXXk0OYPfDZ6-zcn1suqLXOoU-QW2_gSI7soRVUdzkN6sO4MHB-2S62MHFf32dZ33BqgDv93djs&state=WOH9vi1fPsfkxztx 302 46 - 1.573 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET / 304 - - 447.291 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 304 - - 1.458 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get authoriazation code grant',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to set access token',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user playlists',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to getUserPlaylists',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'POST /create 200 216 - 754.597 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 304 - - 0.666 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /login 302 1256 - 10.395 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /callback/?code=AQCR-di6Rvgs-7D9nOmkCrz8LBfgtoFa2xcqyy0tzlfHyCACgXPjnmgsmeFc3EsMPHm0NY3W4McS6P4MyhMY8WKT_WdSuoOLlsehL6hrt3CIFNKtXToGK0J0znoqKfUC8McKcLKCDkf1fvse3X8yfmiDQoomZlqRMaDzoc56luc1kO7j9oiMjJJNW_j04FHBybQZR_HIR5kGVNi6jx3_2og3j8E1MRrDJ5WTafBsHmX7mdRhrDjiASutNsy2c_N-PD-sDfUUoUHecjDknpPg-3siszYVaqk2QnS08AuL3cB5iNU1KwV5iPGNiW9i7AorZq8Jz5gZUH9PUU0Ox-FzkWX6cvqXvuQywU68xd4YEaVUzZCESB74kIBwdgaIwyTzadbhxEBFeJaL-WX9itSBBZgmTzRC0bz0_4wMvvzUY_qCwUyOVhv-IYnwAucnsTtfeQpp0wrLNoOOSxwCFCbms8kDLpxDK6rQ4ERjIJRuun8mOYNQl0KrzaNNNrkwFw3iTz_a62KRccBLmsjb01IRvt0AMg0XxKKQIwppaXyFrwayVov3RILQMnXWxluyw-mbtAZrk5Smm_2FQQcgXgkoE8h6OHdTtcn2HyvqXNC2vBE8s7CzYvNN7tx0gOAIGXJB8m4QGnqxnkkY8YRnjh2orv6itlu6uTtpG8nPWI7Kx8AA_VmiQrJupnP0mfhYmHpWOiIm1OgnNZT8358&state=F8xVjE6RvFEGMpF4 302 46 - 2.760 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET / 200 569 - 435.733 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 200 1259 - 2.940 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /favicon.ico 404 150 - 1.991 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get authoriazation code grant',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to set access token',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user playlists',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to getUserPlaylists',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /login 302 1256 - 11.159 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /callback/?code=AQBdGKrErttCmIYC0vvUk4WrXHQcheiJMdeLMMdjB0NUUi235OX7DD6OrOxpfNbBoRlmxoDQEU85kezI0gyapg0pbywbKgcrfsmStPp92Z_iPgxCqZnrQfYYxFDGm6RR9sjzt6kD9Xx21Tuh-grKstUoA9Sk-C8gIUTDikV50I8UTlG8ohgoRlbMjuEjfAcjaqMDTx6_2wUXkGIr189KzfwarVqskPSTYYuszF3lvcPofODIdUD7gLwhWA6s4tPPS3xanMqILyH2ePefamw_iK8UF6igFw0H_q8t8v8c9kmCBTGpoP_Ur5o1a8PrFKSMUebwHZ2-6UbXEJDpewmKEBisfuHHQHDI5pElBZ0xRFun9eb7am4iq0NmLj-6E2bN_kiO4uvLF_ofchyqPuyWsuAAl2_NKido1zYSCyn-zC-zHutOXsq4qhMOU3Q14B8IzzFx0wjsFm1NSvSu_dl1pwSU1fRsgLOv-HcJ38nRA-jAh3G4aTQmfHjpUsxoLsT7DNFZUSsM5BbDPeoRB9qlZTVQjyzK5x5AjKnPdHV8V3WfVUI2bOW5isDtE_zWElmpFZHcDPCfGTCZ4otKkrwUDMGriarmRxqMQPV6vSCd5O1V_IYc1mz8_aV4G6lB4mK2V6E1sbSiRRpdNLi35YdhES-ixOIH3hD1rUZWKUW4WEgL_ieh1auz7V1RJ0QqQJotz5Qnt0bomp1i5N0&state=8ISJS8Jp316coyPF 302 46 - 2.784 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET / 200 569 - 431.301 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 200 1259 - 2.931 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /favicon.ico 404 150 - 3.109 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get authoriazation code grant',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to set access token',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user playlists',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to getUserPlaylists',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to replace tracks in user playlist',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'POST /create 200 448 - 8284.186 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 304 - - 1.246 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /login 302 1256 - 9.834 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /callback/?code=AQBxQ8BWaqj6gi5lFKPVs1zXdEgVu6Zz333WLXw9m5x0SQ9ZwOcbK0pF9jYfGdey2Kbuva3ZktOIvG7dYgWh0KEoxoxhAZA0gBwdlsEYvRmqCue2pC8DFE2D2ImVlyV-fCl7IL-7zu8hcsPpGDTlehrIawowszU_MJbgyIw-tyNarECSmckERrN7uUJFbYFIc88Y-pQrClRBRESH66FXquqzSDEYI-Z0Zd5m0AXXZcaLrC2LItdbkY_n03RugfLlH3KjHPZ0QhISt9DAbVBbd53lfhaRxIaS21BLExwLeaGSfobeD-is-wmaKNS5LW5-16y1yRMSMWMFYNVa1puFAnXsMRmzAibWsa0TzvrOLnnbIro3Zq4wpZrXlLzysoAnH-CRFVWt25s3S6thAc6JmudWGXRAS-2oV-ak8ovGLz0TBquofiv8--nmoL_YSfXSZdIw7Kb0_jyFf-9W5xQGUAnj7oE_5qMR_AyZG04ltmK9D7EytT3yciVDNROidzkAcJ60O2B-QqhN4Cs2jRfKNRnf0Gh8YWJaL_GxYAlUKrxmuzkiN08La21P2O6miEwzGLCh99r2wxr82_3MuDVLWcfdCQ83vsMQ22arjo1KArU9sokBtuflPsB6NinUn7aawNfvImdBUWPpzF3ww8di0rHwdoOk1mjqLGWXlPOVdO2Lw0rdGeB4iNXu2S2ODwemwewvMIfdgnI5O4c&state=UCiDmTF6jS9G850U 302 46 - 2.374 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET / 200 569 - 430.766 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 200 1259 - 3.390 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /favicon.ico 404 150 - 2.983 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get authoriazation code grant',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to set access token',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user playlists',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to getUserPlaylists',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  name: 'WebapiError',
+  message: 'Bad Request',
+  statusCode: 400,
+  level: '\u001b[31merror\u001b[39m'
+}
+{
+  message: 'attempting to get tracks with theme "Love"',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to replace tracks in user playlist',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'POST /create 200 448 - 3978.668 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 304 - - 1.100 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  error: ReferenceError: userTracks is not defined
+      at Object.<anonymous> (/Users/moritz/js-projects/week09/hackday/dist/spotify/apiTools.js:187:22)
+      at Module._compile (internal/modules/cjs/loader.js:936:30)
+      at Object.Module._extensions..js (internal/modules/cjs/loader.js:947:10)
+      at Module.load (internal/modules/cjs/loader.js:790:32)
+      at Function.Module._load (internal/modules/cjs/loader.js:703:12)
+      at Module.require (internal/modules/cjs/loader.js:830:19)
+      at require (internal/modules/cjs/helpers.js:68:18)
+      at Object.<anonymous> (/Users/moritz/js-projects/week09/hackday/dist/controllers/authentification.js:40:15)
+      at Module._compile (internal/modules/cjs/loader.js:936:30)
+      at Object.Module._extensions..js (internal/modules/cjs/loader.js:947:10),
+  level: '\u001b[31merror\u001b[39m',
+  message: 'uncaughtException: userTracks is not defined\n' +
+    'ReferenceError: userTracks is not defined\n' +
+    '    at Object.<anonymous> (/Users/moritz/js-projects/week09/hackday/dist/spotify/apiTools.js:187:22)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:936:30)\n' +
+    '    at Object.Module._extensions..js (internal/modules/cjs/loader.js:947:10)\n' +
+    '    at Module.load (internal/modules/cjs/loader.js:790:32)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:703:12)\n' +
+    '    at Module.require (internal/modules/cjs/loader.js:830:19)\n' +
+    '    at require (internal/modules/cjs/helpers.js:68:18)\n' +
+    '    at Object.<anonymous> (/Users/moritz/js-projects/week09/hackday/dist/controllers/authentification.js:40:15)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:936:30)\n' +
+    '    at Object.Module._extensions..js (internal/modules/cjs/loader.js:947:10)',
+  stack: 'ReferenceError: userTracks is not defined\n' +
+    '    at Object.<anonymous> (/Users/moritz/js-projects/week09/hackday/dist/spotify/apiTools.js:187:22)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:936:30)\n' +
+    '    at Object.Module._extensions..js (internal/modules/cjs/loader.js:947:10)\n' +
+    '    at Module.load (internal/modules/cjs/loader.js:790:32)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:703:12)\n' +
+    '    at Module.require (internal/modules/cjs/loader.js:830:19)\n' +
+    '    at require (internal/modules/cjs/helpers.js:68:18)\n' +
+    '    at Object.<anonymous> (/Users/moritz/js-projects/week09/hackday/dist/controllers/authentification.js:40:15)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:936:30)\n' +
+    '    at Object.Module._extensions..js (internal/modules/cjs/loader.js:947:10)',
+  exception: true,
+  date: 'Thu Oct 31 2019 15:51:02 GMT+0100 (Central European Standard Time)',
+  process: {
+    pid: 11262,
+    uid: 501,
+    gid: 20,
+    cwd: '/Users/moritz/js-projects/week09/hackday',
+    execPath: '/usr/local/Cellar/node/12.9.1/bin/node',
+    version: 'v12.9.1',
+    argv: [
+      '/usr/local/Cellar/node/12.9.1/bin/node',
+      '/Users/moritz/js-projects/week09/hackday/dist/server.js'
+    ],
+    memoryUsage: {
+      rss: 35074048,
+      heapTotal: 17420288,
+      heapUsed: 10043656,
+      external: 1197395
+    }
+  },
+  os: {
+    loadavg: [ 2.05419921875, 2.14501953125, 2.07373046875 ],
+    uptime: 2773254
+  },
+  trace: [
+    {
+      column: 22,
+      file: '/Users/moritz/js-projects/week09/hackday/dist/spotify/apiTools.js',
+      function: null,
+      line: 187,
+      method: null,
+      native: false
+    },
+    {
+      column: 30,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._compile',
+      line: 936,
+      method: '_compile',
+      native: false
+    },
+    {
+      column: 10,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._extensions..js',
+      line: 947,
+      method: '.js',
+      native: false
+    },
+    {
+      column: 32,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module.load',
+      line: 790,
+      method: 'load',
+      native: false
+    },
+    {
+      column: 12,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._load',
+      line: 703,
+      method: '_load',
+      native: false
+    },
+    {
+      column: 19,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module.require',
+      line: 830,
+      method: 'require',
+      native: false
+    },
+    {
+      column: 18,
+      file: 'internal/modules/cjs/helpers.js',
+      function: 'require',
+      line: 68,
+      method: null,
+      native: false
+    },
+    {
+      column: 15,
+      file: '/Users/moritz/js-projects/week09/hackday/dist/controllers/authentification.js',
+      function: null,
+      line: 40,
+      method: null,
+      native: false
+    },
+    {
+      column: 30,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._compile',
+      line: 936,
+      method: '_compile',
+      native: false
+    },
+    {
+      column: 10,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._extensions..js',
+      line: 947,
+      method: '.js',
+      native: false
+    }
+  ]
+}
+{
+  error: ReferenceError: userTracks is not defined
+      at Object.<anonymous> (/Users/moritz/js-projects/week09/hackday/dist/spotify/apiTools.js:186:22)
+      at Module._compile (internal/modules/cjs/loader.js:936:30)
+      at Object.Module._extensions..js (internal/modules/cjs/loader.js:947:10)
+      at Module.load (internal/modules/cjs/loader.js:790:32)
+      at Function.Module._load (internal/modules/cjs/loader.js:703:12)
+      at Module.require (internal/modules/cjs/loader.js:830:19)
+      at require (internal/modules/cjs/helpers.js:68:18)
+      at Object.<anonymous> (/Users/moritz/js-projects/week09/hackday/dist/controllers/authentification.js:40:15)
+      at Module._compile (internal/modules/cjs/loader.js:936:30)
+      at Object.Module._extensions..js (internal/modules/cjs/loader.js:947:10),
+  level: '\u001b[31merror\u001b[39m',
+  message: 'uncaughtException: userTracks is not defined\n' +
+    'ReferenceError: userTracks is not defined\n' +
+    '    at Object.<anonymous> (/Users/moritz/js-projects/week09/hackday/dist/spotify/apiTools.js:186:22)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:936:30)\n' +
+    '    at Object.Module._extensions..js (internal/modules/cjs/loader.js:947:10)\n' +
+    '    at Module.load (internal/modules/cjs/loader.js:790:32)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:703:12)\n' +
+    '    at Module.require (internal/modules/cjs/loader.js:830:19)\n' +
+    '    at require (internal/modules/cjs/helpers.js:68:18)\n' +
+    '    at Object.<anonymous> (/Users/moritz/js-projects/week09/hackday/dist/controllers/authentification.js:40:15)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:936:30)\n' +
+    '    at Object.Module._extensions..js (internal/modules/cjs/loader.js:947:10)',
+  stack: 'ReferenceError: userTracks is not defined\n' +
+    '    at Object.<anonymous> (/Users/moritz/js-projects/week09/hackday/dist/spotify/apiTools.js:186:22)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:936:30)\n' +
+    '    at Object.Module._extensions..js (internal/modules/cjs/loader.js:947:10)\n' +
+    '    at Module.load (internal/modules/cjs/loader.js:790:32)\n' +
+    '    at Function.Module._load (internal/modules/cjs/loader.js:703:12)\n' +
+    '    at Module.require (internal/modules/cjs/loader.js:830:19)\n' +
+    '    at require (internal/modules/cjs/helpers.js:68:18)\n' +
+    '    at Object.<anonymous> (/Users/moritz/js-projects/week09/hackday/dist/controllers/authentification.js:40:15)\n' +
+    '    at Module._compile (internal/modules/cjs/loader.js:936:30)\n' +
+    '    at Object.Module._extensions..js (internal/modules/cjs/loader.js:947:10)',
+  exception: true,
+  date: 'Thu Oct 31 2019 15:51:15 GMT+0100 (Central European Standard Time)',
+  process: {
+    pid: 11275,
+    uid: 501,
+    gid: 20,
+    cwd: '/Users/moritz/js-projects/week09/hackday',
+    execPath: '/usr/local/Cellar/node/12.9.1/bin/node',
+    version: 'v12.9.1',
+    argv: [
+      '/usr/local/Cellar/node/12.9.1/bin/node',
+      '/Users/moritz/js-projects/week09/hackday/dist/server.js'
+    ],
+    memoryUsage: {
+      rss: 34951168,
+      heapTotal: 17420288,
+      heapUsed: 10027016,
+      external: 1197395
+    }
+  },
+  os: {
+    loadavg: [ 1.74609375, 2.07177734375, 2.048828125 ],
+    uptime: 2773267
+  },
+  trace: [
+    {
+      column: 22,
+      file: '/Users/moritz/js-projects/week09/hackday/dist/spotify/apiTools.js',
+      function: null,
+      line: 186,
+      method: null,
+      native: false
+    },
+    {
+      column: 30,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._compile',
+      line: 936,
+      method: '_compile',
+      native: false
+    },
+    {
+      column: 10,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._extensions..js',
+      line: 947,
+      method: '.js',
+      native: false
+    },
+    {
+      column: 32,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module.load',
+      line: 790,
+      method: 'load',
+      native: false
+    },
+    {
+      column: 12,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._load',
+      line: 703,
+      method: '_load',
+      native: false
+    },
+    {
+      column: 19,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module.require',
+      line: 830,
+      method: 'require',
+      native: false
+    },
+    {
+      column: 18,
+      file: 'internal/modules/cjs/helpers.js',
+      function: 'require',
+      line: 68,
+      method: null,
+      native: false
+    },
+    {
+      column: 15,
+      file: '/Users/moritz/js-projects/week09/hackday/dist/controllers/authentification.js',
+      function: null,
+      line: 40,
+      method: null,
+      native: false
+    },
+    {
+      column: 30,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._compile',
+      line: 936,
+      method: '_compile',
+      native: false
+    },
+    {
+      column: 10,
+      file: 'internal/modules/cjs/loader.js',
+      function: 'Module._extensions..js',
+      line: 947,
+      method: '.js',
+      native: false
+    }
+  ]
+}
+{
+  message: 'GET /login 302 1256 - 10.469 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /callback/?code=AQDfPyfyoJvGutMrUprVcclq6U2gsspH3lbik57m1XdwKtsym1InEuo9vJjOXyZHOlyB_p-FFAZUO25KNZpDVbSukep9fH7tWBoqLdjIOf1iXeB6wJSxkBFarCmv8HqEpaYIHhqDnnqZ3501xUvjjU3vd7vmG9hfQxiypAHS6_SaA-m-2J_x3C9AElGOrJMEqf0jWMZnBuKVJ-BPi2w-8nX5MjqPE_VfoRJrPmp7ye5DpB_Q2Z3fF2qEi1FCVaTsaxqZfguqpa8j_rQ6HVgiQHLaGaqzE-fRrQ6grsF_ja6Qpz-imhG4IgQgBC-dOSLxTDXfUI0ofOE3EZM03LQ01fEU0TgGGXbdzVyCjLXzSicdS9Ifa5IsoI8Z1iLnsOQz9FjG9e8vDAtwotTDhEFFac8SUtoGsBa2k4H2nODVw_LSImegjUIQRoXVpa68ENCmhIQHg5o9bEMehzXe7sUO8_HCKwH9Er9_Zmvc_dXhfyHoXiy_MRZiSotz_Y-g6eD06VsWIBnLyLXVN74sM4oSY50T-HNR_hWP9c7t0vmmiTb-D4OLCzUJ74CgHuNokMSfzBryUTrgj-j_AR-_8LB4zGzWYwyJTUeSVNkmz1PQrC7r57dhdEYIyZtrddNGF1g9BBrQfwvNbu6fArQLXW1T-_fyq49OE5rjon-mbov9MbF7SPKP-xqVXbgwX3xUdJ3FSoPxhzXwELlJSko&state=SMJz8C4XTqkEGV6H 302 46 - 2.773 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET / 200 569 - 429.111 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 200 1259 - 2.768 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /favicon.ico 404 150 - 4.008 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get authoriazation code grant',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to set access token',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user playlists',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to getUserPlaylists',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'POST /create 200 249 - 966.626 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 304 - - 0.914 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /login 302 1256 - 12.373 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /callback/?code=AQAK_sBQ4pAngFZcacW-XFBUSqnQFTH_CZFOuSBaiDzRcMmMuPb52D-WX5KaXD1avAmyYbHddMuP8de0qZpmSfkHd_etHr21XWW0Jjx0Y14SvHzohIUxSCv_FbEn_Mr7MQKNuxazyNzB9teOPEtss_O7IxZe6x6wpZi7UBr4SClNsPdlsIjimSOqyXs70ERKiJpIYnHLgB4sh3kbZ9bmY8DOIdFedCYj3RZCZgtzl-GbwvfzDkE2FvhX9vgdEEB8ThmdRmX2ZgYq3BH19yBLFoSzFwQ_MufQByiQ9wVxdO6wnDhbj3hsY_OkktIpkPLXpF3ZvgUb9jQtO-Tj24y_AiJV73CKtRtdNNNHMgC-RGrbJKOuaHr-grfADPSzjdSgBA8BeLmYJDX8cslpzOYB7My3ZmGkQ0Lli67y-EhCc0BiQU1Mmuk7XZQCjEUnjyWlq8UUAppQyQ0onK1uPT-ImPI2_dHmBybof1rBDt8Ba7vIR-X9UJrj4WgmeKtNUaLLGgkifhqX0eiqgRa_jtzndkRHOXk6XZcxNfqAcwiUpibj1pq1w_G3DDwF0UNZhZnuwr6U0PkYr4aN6rVUoBPhCvS58v-Al4MbihZ56A_BgbnEsHzkuge78ueiKjCdRmTakIEmDRByF2-HLZGR-YYUqlKimzB2l8HhmSEJu7wV1cRaNc5QE-oqfynT8V_GaZfM0XpWdy8rrpKGaTQ&state=qaL8Toomw9RyZbWi 302 46 - 3.063 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET / 200 569 - 442.764 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 200 1259 - 2.638 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /favicon.ico 404 150 - 2.782 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get authoriazation code grant',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to set access token',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user playlists',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to getUserPlaylists',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to replace tracks in user playlist',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'POST /create 200 448 - 1380.243 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 304 - - 1.140 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /login 302 1256 - 10.336 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /callback/?code=AQATgNdQLDkPODjbsZF_dq08XeoiDZf0pvb9PxVDcADNNZVIlkfxd6RO2mr2mg-U_AWOxq-fFtOfalbpT7Biz0jMbloeNJxctREGB6s2b8lQ8WY_UoEc9W10-rSNqpD2RHb85RDKjbtM-IwmyuXoqAYRVBo7jGCHHp8ldjHUBWDileyt6z4C2U0PHexnJ48NzbAcisvbf_YA6AtKfjGuTP1C-SUcnG-oYSQIrsLmulLyFizOFzRbO1wKhzEwrdtLzippygBaNJP9tMFhU-yUzFKcWByQokOREl-iVGKHA3moHziGx7gTfBUaKBFK4fdOSJn23Lr9eHOzJ0xWca_vYl6ZVBqXHlqKDnyMh3ILS5F3TDXGPK4mNFihQsZqgkcq6QbxJALbkHvlus6JxAh_R1CkE88DHqB8gTjF7t33rahPXBEF2VwvwKYPyYPHzySxpeczx37HUoPUWF12hcsHBydQBxWmQBU4eJp8Ksrg2Jg3vhXlp3OR9cleCt367EckuNDs2MZLaf-s7CmtEmrihFrq761pLzJbjaBN9YX5q5WGJjgZUQfYQiwSFwoUipCh8_2qGbCSaUi2KYz0N6ejhuh5Q5Xm-SK-PBq4eJUxIGqngNmHAxQ526u6QdILY4Xm5pSb-fp4ifKHduBSJwC3QO0hIRVZvVBJJ4WEp4cZvKEJm1UTigGLqgpxrCaWBCC9yCrVzMKj9X6SJNo&state=eaIzxzhLrchZXaT5 302 46 - 2.778 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET / 200 569 - 467.169 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 200 1259 - 3.030 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /favicon.ico 404 150 - 3.313 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get authoriazation code grant',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to set access token',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user playlists',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to getUserPlaylists',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'POST /create 200 291 - 622.915 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 304 - - 1.053 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /login 302 1256 - 1.013 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /callback/?code=AQBAy8IG7gFOSi70KRUgzWfqcJSJ1U9j0MPDyefEGAJm4ENP_Br0AMv-yzxxe6t28EHosm0TN7t7b9M-VfHWVlX7W120ASYEJPYPecyPwDqV6fWYqKGS06lN_GR-ytGlKiRXx8FtJJBkRWYU4pO620RMRmoAqBfAGVY6FYgixgEwMFaggBcd9BgG0IbIXJrgBwY9meR7k-U2mMrNOlt_0Smu1H5mo_9HZvlai47PygG4Ma_3nzu5wbhlEWoyy2jdK0pWkJI7TV_tGTS6s61Ld-lrJuexdBrM90jYsrVyjHD9s1KR1MUC7rRa4iM-063z4XsNz7GMlgGJgM1A0wGCCDKXO_KCclx_huIETHqtF0xKpTR9PPI3yD-FXY1_0sRg-Hjaudbg_NujA74aofidsaBM_JhvbAuJViLGvvLe2WVH1k7zrFHnsiU3oqE8IZ8yYd2HbIEZoRsZbqxTaXTYwEnXfYGt34pFV7m9k6g_aaK3yfc7-lQR7ZsDojTZxKQUv-NpIVcckOC_FXEn-drQcB4CNhgdp3l31rgRd9P4I10EKCpxAhTZ8-1Jk5Xlsvessc6KYcql0NPf-5MR3D_XA-4lluPFrRdXo021CVF-v-voPoGiCShOk8JCwiAz_z4K_s4aywKOmeDETW2DXXQblCJjjsIpIm0YWF3CCozdKKMFsYWzMWFlqmJg1Wl3H1yUhCEtpzT4hRgrink&state=XEAzaCY9Qq45DaAI 302 46 - 1.077 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET / 200 569 - 18.428 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 200 1259 - 1.130 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /favicon.ico 404 150 - 1.174 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get authoriazation code grant',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to set access token',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user playlists',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to getUserPlaylists',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'POST /create 200 288 - 574.978 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 304 - - 0.576 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /login 302 1256 - 0.727 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /callback/?code=AQAvzvEPjcWUVnXHikL8Mx72B4usjTWWzUnK162PCvATO6nJVwVEhbsOGst0vrWPGJFxd2uVC0VSz6ZPstLVzjwzQpM5C9X98H9B_hH2c9Rk9_DbYk165a6SpZC71i-CofzXCKBeB8-Kqakx1KP3YxV5Hnebdq9F49h0LEhGSiFzgeox3JGh0lfAV6mlDWO4V-Kx5aYpLCXEZzbj8NAd0EbWfSGzqStV4dB5O2sItCCex0bDx7h_Y6CH-GNROanu5pjcDS5f1D_92KOWfw0XINhb3bDRclipzsYJMQg9z-JVMkK-E5fYzlVuDLx6pZanxePMK2OO2JWZp9gZHhPdyC8ZKcuj0fsMYouefQ6xMo5NY1o10d569kSSDctHsr37mSVIesL392vEhl14DovPkzpkBTeK6vOryl2rtNhluTAhDx3GD3SPgacyiVmShVA8DakS2ow5Av1FxuFBTsJD_OaSfOWPZRm9LQncqFNZ85WVAk7aukFQrk7miHEo2fWjF5ObuFDY2eJmgVIVDTvW_9OzV9ZbHhXa3GShh_cKPZzuWTa4iEt7T_PJLzKAgWg7vqN-lC9SEAQirWuDf4Nu17rgbVReXDsAjhn9z4qIlqQuVDIRj8wHEGOw980VzHYJhk6eIpDI1x6wnPTRdA7ELvh0e9V28NKTT2uhDN9riqiXEGIbysEncS8DR97_Pi68XjAFC03iKn6xJMw&state=F1kai7uLvbNDFoXz 302 46 - 1.061 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET / 200 569 - 18.692 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 200 1259 - 0.983 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /favicon.ico 404 150 - 1.409 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get authoriazation code grant',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to set access token',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user playlists',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to getUserPlaylists',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'POST /create 200 285 - 809.937 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 304 - - 0.600 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to set access token',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user playlists',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get user',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to getUserPlaylists',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'attempting to get saved tracks',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'POST /create 200 271 - 3469.096 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}
+{
+  message: 'GET /style.css 200 1259 - 0.876 ms\n',
+  level: '\u001b[32minfo\u001b[39m'
+}

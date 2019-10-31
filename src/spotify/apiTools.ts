@@ -67,15 +67,19 @@ const getPublicLink = (playlistId) => `https://open.spotify.com/playlist/${playl
 
 
 const getNUserTracks = async (apiInstance, n: number) => {
-  const tracks = [];
+  const userTracks = [];
   let i = 0;
   const step = 50;
-  while (tracks.length < n) {
-    const { body } = await getUserTracks(apiInstance, step, i * step);
-    tracks.push(...body.items);
-    i += 1;
+  while (userTracks.length < n) {
+    try {
+      const { body } = await getUserTracks(apiInstance, step, i * step);
+      userTracks.push(...body.items);
+      i += 1;
+    } catch (error) {
+      return { error };
+    }
   }
-  return tracks;
+  return { userTracks };
 };
 
 export {

@@ -40,28 +40,31 @@ var spotify = require("../spotify/apiTools");
 var tracks = require("../tracks/index");
 var time = require("../time/index");
 var populate = function (req, res, next) { return __awaiter(void 0, void 0, void 0, function () {
-    var apiInstance, targetDuration, targetPlaylist, userTracks, newTracks, error_1;
-    return __generator(this, function (_a) {
-        switch (_a.label) {
+    var apiInstance, targetDuration, targetPlaylist, _a, userTracks, error, newTracks, error_1;
+    return __generator(this, function (_b) {
+        switch (_b.label) {
             case 0:
-                _a.trys.push([0, 5, , 6]);
+                _b.trys.push([0, 5, , 6]);
                 return [4 /*yield*/, spotify.newApiInstance(req.session.accessToken)];
             case 1:
-                apiInstance = _a.sent();
+                apiInstance = _b.sent();
                 targetDuration = time.userInputToMilliseconds(req.body);
                 return [4 /*yield*/, spotify.getTargetPlaylist(apiInstance)];
             case 2:
-                targetPlaylist = _a.sent();
-                return [4 /*yield*/, spotify.getNUserTracks(apiInstance, 500)];
+                targetPlaylist = _b.sent();
+                return [4 /*yield*/, spotify.getNUserTracks(apiInstance, 200)];
             case 3:
-                userTracks = _a.sent();
+                _a = _b.sent(), userTracks = _a.userTracks, error = _a.error;
+                if (error) {
+                    res.render('error');
+                }
                 newTracks = tracks.getNewTracks(userTracks, targetDuration);
                 return [4 /*yield*/, spotify.replaceTracksInPlaylist(apiInstance, targetPlaylist, newTracks)];
             case 4:
-                _a.sent();
+                _b.sent();
                 return [2 /*return*/, res.render('created', { playlistUrl: spotify.getPublicLink(targetPlaylist) })];
             case 5:
-                error_1 = _a.sent();
+                error_1 = _b.sent();
                 return [2 /*return*/, next(error_1)];
             case 6: return [2 /*return*/];
         }

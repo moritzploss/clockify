@@ -144,23 +144,30 @@ exports.getTargetPlaylist = getTargetPlaylist;
 var getPublicLink = function (playlistId) { return "https://open.spotify.com/playlist/" + playlistId; };
 exports.getPublicLink = getPublicLink;
 var getNUserTracks = function (apiInstance, n) { return __awaiter(void 0, void 0, void 0, function () {
-    var tracks, i, step, body;
+    var userTracks, i, step, body, error_1;
     return __generator(this, function (_a) {
         switch (_a.label) {
             case 0:
-                tracks = [];
+                userTracks = [];
                 i = 0;
                 step = 50;
                 _a.label = 1;
             case 1:
-                if (!(tracks.length < n)) return [3 /*break*/, 3];
-                return [4 /*yield*/, getUserTracks(apiInstance, step, i * step)];
+                if (!(userTracks.length < n)) return [3 /*break*/, 6];
+                _a.label = 2;
             case 2:
+                _a.trys.push([2, 4, , 5]);
+                return [4 /*yield*/, getUserTracks(apiInstance, step, i * step)];
+            case 3:
                 body = (_a.sent()).body;
-                tracks.push.apply(tracks, body.items);
+                userTracks.push.apply(userTracks, body.items);
                 i += 1;
-                return [3 /*break*/, 1];
-            case 3: return [2 /*return*/, tracks];
+                return [3 /*break*/, 5];
+            case 4:
+                error_1 = _a.sent();
+                return [2 /*return*/, { error: error_1 }];
+            case 5: return [3 /*break*/, 1];
+            case 6: return [2 /*return*/, { userTracks: userTracks }];
         }
     });
 }); };
