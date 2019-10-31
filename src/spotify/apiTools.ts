@@ -19,6 +19,10 @@ const addSongsToPlaylist = async (apiInstance, playlist: string, songArray: stri
   apiInstance.addTracksToPlaylist(playlist, songArray)
 );
 
+const replaceTracksInPlaylist = async (apiInstance, playlist: string, tracks: string[]) => (
+  apiInstance.replaceTracksInPlaylist(playlist, tracks)
+);
+
 const createPlaylist = async (apiInstance, listName: string) => {
   const { body } = await getUser(apiInstance);
   return apiInstance.createPlaylist(body.id, listName);
@@ -31,6 +35,19 @@ const getUserTracks = async (apiInstance, limit: number, offset: number) => {
   });
 };
 
+
+const getNUserTracks = async (apiInstance, n: number) => {
+  const tracks = [];
+  let i = 0;
+  const step = 50;
+  while (tracks.length < n) {
+    const { body } = await getUserTracks(apiInstance, step, i * step);
+    tracks.push(...body.items);
+    i += 1;
+  }
+  return tracks;
+};
+
 export {
   newApiInstance,
   getUser,
@@ -38,4 +55,6 @@ export {
   createPlaylist,
   getUserPlaylists,
   getUserTracks,
+  replaceTracksInPlaylist,
+  getNUserTracks,
 };

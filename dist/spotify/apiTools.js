@@ -75,6 +75,12 @@ var addSongsToPlaylist = function (apiInstance, playlist, songArray) { return __
     });
 }); };
 exports.addSongsToPlaylist = addSongsToPlaylist;
+var replaceTracksInPlaylist = function (apiInstance, playlist, tracks) { return __awaiter(void 0, void 0, void 0, function () {
+    return __generator(this, function (_a) {
+        return [2 /*return*/, (apiInstance.replaceTracksInPlaylist(playlist, tracks))];
+    });
+}); };
+exports.replaceTracksInPlaylist = replaceTracksInPlaylist;
 var createPlaylist = function (apiInstance, listName) { return __awaiter(void 0, void 0, void 0, function () {
     var body;
     return __generator(this, function (_a) {
@@ -96,3 +102,25 @@ var getUserTracks = function (apiInstance, limit, offset) { return __awaiter(voi
     });
 }); };
 exports.getUserTracks = getUserTracks;
+var getNUserTracks = function (apiInstance, n) { return __awaiter(void 0, void 0, void 0, function () {
+    var tracks, i, step, body;
+    return __generator(this, function (_a) {
+        switch (_a.label) {
+            case 0:
+                tracks = [];
+                i = 0;
+                step = 50;
+                _a.label = 1;
+            case 1:
+                if (!(tracks.length < n)) return [3 /*break*/, 3];
+                return [4 /*yield*/, getUserTracks(apiInstance, step, i * step)];
+            case 2:
+                body = (_a.sent()).body;
+                tracks.push.apply(tracks, body.items);
+                i += 1;
+                return [3 /*break*/, 1];
+            case 3: return [2 /*return*/, tracks];
+        }
+    });
+}); };
+exports.getNUserTracks = getNUserTracks;

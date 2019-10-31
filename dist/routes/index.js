@@ -55,62 +55,57 @@ var makeSomeChanges = function (req, res, next) { return __awaiter(void 0, void 
 router.get('/login', authentification.loginWithSpotify);
 router.get('/callback', authentification.verifySpotifyState, authentification.saveSpotifyCodeToSession);
 router.get('/', authorization.requireLogin, makeSomeChanges);
+var getNewTracks = function (userTracks) {
+    var trackDetails = userTracks.map(function (item) { return ({
+        duration: item.track.duration_ms,
+        id: item.track.id,
+        name: item.track.name,
+    }); });
+    var targetDuration = 60000 * 30;
+    var duration = 0;
+    var i = 0;
+    var tracksToAdd = [];
+    while (duration < targetDuration) {
+        tracksToAdd.push("spotify:track:" + trackDetails[i].id);
+        duration += trackDetails[i].duration;
+        i += 1;
+    }
+    return tracksToAdd;
+};
 router.post('/create', function (req, res, next) { return __awaiter(void 0, void 0, void 0, function () {
-    var targetDuration, instance, user, playlists, playlistDetails, playlist, tracks, trackDetails, duration, i, tracksToAdd, error_1;
+    var apiInstance, userPlaylists, listDetails, appPlaylist, userTracks, newTracks, error_1;
     return __generator(this, function (_a) {
         switch (_a.label) {
             case 0:
-                _a.trys.push([0, 8, , 9]);
-                targetDuration = 60000 * 30;
+                _a.trys.push([0, 7, , 8]);
                 return [4 /*yield*/, spotify.newApiInstance(req.session.spotifyCode)];
             case 1:
-                instance = _a.sent();
-                return [4 /*yield*/, spotify.getUser(instance)];
+                apiInstance = _a.sent();
+                return [4 /*yield*/, spotify.getUserPlaylists(apiInstance)];
             case 2:
-                user = _a.sent();
-                return [4 /*yield*/, spotify.getUserPlaylists(instance)];
-            case 3:
-                playlists = _a.sent();
-                playlistDetails = playlists.body.items.map(function (_a) {
+                userPlaylists = _a.sent();
+                listDetails = userPlaylists.body.items.map(function (_a) {
                     var id = _a.id, name = _a.name;
                     return ({ name: name, id: id });
                 });
-                playlist = playlistDetails.find(function (playlists) { return playlists.name === process.env.PLAYLIST_NAME; });
-                return [4 /*yield*/, spotify.getUserTracks(instance, 50, 2)];
-            case 4:
-                tracks = _a.sent();
-                trackDetails = tracks.body.items.map(function (_a) {
-                    var track = _a.track;
-                    return ({
-                        duration: track.duration_ms,
-                        id: track.id,
-                    });
-                });
-                if (!!playlist) return [3 /*break*/, 6];
-                return [4 /*yield*/, spotify.createPlaylist(instance, process.env.PLAYLIST_NAME)];
+                appPlaylist = listDetails.find(function (list) { return list.name === process.env.PLAYLIST_NAME; });
+                if (!!appPlaylist) return [3 /*break*/, 4];
+                return [4 /*yield*/, spotify.createPlaylist(apiInstance, process.env.PLAYLIST_NAME)];
+            case 3:
+                appPlaylist = _a.sent();
+                _a.label = 4;
+            case 4: return [4 /*yield*/, spotify.getNUserTracks(apiInstance, 1000)];
             case 5:
-                playlist = _a.sent();
-                _a.label = 6;
+                userTracks = _a.sent();
+                newTracks = getNewTracks(userTracks);
+                return [4 /*yield*/, spotify.replaceTracksInPlaylist(apiInstance, appPlaylist.id, newTracks)];
             case 6:
-                duration = 0;
-                i = 0;
-                tracksToAdd = [];
-                while (duration < targetDuration) {
-                    tracksToAdd.push("spotify:track:" + trackDetails[i].id);
-                    duration += trackDetails[i].duration;
-                    i += 1;
-                }
-                console.log(playlist.id);
-                // console.log(playlists.body.items);
-                return [4 /*yield*/, spotify.addSongsToPlaylist(instance, playlist.id, tracksToAdd)];
-            case 7:
-                // console.log(playlists.body.items);
                 _a.sent();
-                return [2 /*return*/, res.json(trackDetails)];
-            case 8:
+                return [2 /*return*/, res.json(newTracks)];
+            case 7:
                 error_1 = _a.sent();
                 return [2 /*return*/, next(error_1)];
-            case 9: return [2 /*return*/];
+            case 8: return [2 /*return*/];
         }
     });
 }); });

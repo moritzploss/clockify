@@ -32,39 +32,43 @@ router.get('/',
   makeSomeChanges);
 
 
+const getNewTracks = (userTracks) => {
+  const trackDetails = userTracks.map((item) => ({
+    duration: item.track.duration_ms,
+    id: item.track.id,
+    name: item.track.name,
+  }));
+
+  const targetDuration = 60000 * 30;
+  let duration = 0;
+  let i = 0;
+  const tracksToAdd = [];
+  while (duration < targetDuration) {
+    tracksToAdd.push(`spotify:track:${trackDetails[i].id}`);
+    duration += trackDetails[i].duration;
+    i += 1;
+  }
+  return tracksToAdd;
+};
+
+
 router.post('/create', async (req, res, next) => {
   try {
-    const targetDuration = 60000 * 30;
+    const apiInstance = await spotify.newApiInstance(req.session.spotifyCode);
 
-    const instance = await spotify.newApiInstance(req.session.spotifyCode);
-    const user = await spotify.getUser(instance);
-    const playlists = await spotify.getUserPlaylists(instance);
+    const userPlaylists = await spotify.getUserPlaylists(apiInstance);
+    const listDetails = userPlaylists.body.items.map(({ id, name }) => ({ name, id }));
+    let appPlaylist = listDetails.find((list) => list.name === process.env.PLAYLIST_NAME);
 
-    const playlistDetails = playlists.body.items.map(({ id, name }) => ({ name, id }));
-    let playlist = playlistDetails.find((playlists) => playlists.name === process.env.PLAYLIST_NAME);
-
-    const tracks = await spotify.getUserTracks(instance, 50, 2);
-    const trackDetails = tracks.body.items.map(({ track }) => ({
-      duration: track.duration_ms,
-      id: track.id,
-    }));
-
-    if (!playlist) {
-      playlist = await spotify.createPlaylist(instance, process.env.PLAYLIST_NAME);
+    if (!appPlaylist) {
+      appPlaylist = await spotify.createPlaylist(apiInstance, process.env.PLAYLIST_NAME);
     }
 
-    let duration = 0;
-    let i = 0;
-    const tracksToAdd = [];
-    while (duration < targetDuration) {
-      tracksToAdd.push(`spotify:track:${trackDetails[i].id}`);
-      duration += trackDetails[i].duration;
-      i += 1;
-    }
-    console.log(playlist.id);
-    // console.log(playlists.body.items);
-    await spotify.addSongsToPlaylist(instance, playlist.id, tracksToAdd);
-    return res.json(trackDetails);
+    const userTracks = await spotify.getNUserTracks(apiInstance, 1000);
+    const newTracks = getNewTracks(userTracks);
+
+    await spotify.replaceTracksInPlaylist(apiInstance, appPlaylist.id, newTracks);
+    return res.json(newTracks);
   } catch (error) {
     return next(error);
   }
