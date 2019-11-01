@@ -35,7 +35,7 @@ if (process.env.NODE_ENV !== 'production') {
 }
 
 const stream = {
-  write(message) {
+  write(message): void {
     logger.info(message);
   },
 };

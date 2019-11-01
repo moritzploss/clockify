@@ -6,7 +6,7 @@ import * as spotify from '../spotify/apiTools';
 import * as tracks from '../tracks/index';
 import * as time from '../time/index';
 
-const makeClockifyPlaylist = async (req: Request, res: Response, next: NextFunction) => {
+const makeClockifyPlaylist = async (req: Request, res: Response, next: NextFunction): Promise<void> => {
   try {
     const apiInstance = await spotify.newApiInstance(req.session.accessToken);
     const targetDuration = time.userInputToMilliseconds(req.body);

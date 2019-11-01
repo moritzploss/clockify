@@ -1,8 +1,8 @@
-const byDuration = (track1, track2) => (
+const byDuration = (track1: Track, track2: Track): number => (
   (track1.duration < track2.duration) ? -1 : 1
 );
 
-const reduceTrackData = (tracks) => (
+const reduceTrackData = (tracks): Track[] => (
   tracks.map((item) => ({
     duration: item.track.duration_ms,
     id: item.track.id,
@@ -10,18 +10,18 @@ const reduceTrackData = (tracks) => (
   }))
 );
 
-const getMeanTrackDuration = (tracks) => (
+const getMeanTrackDuration = (tracks: Track[]): number => (
   Math.round(tracks.reduce((acc, curr) => acc + curr.duration, 0) / tracks.length)
 );
 
-const getTrackByDuration = (tracks, duration: number) => {
+const getTrackByDuration = (tracks: Track[], duration: number): Track => {
   const closest = tracks.reduce((prev, curr) => {
     return (Math.abs(curr.duration - duration) < Math.abs(prev.duration - duration) ? curr : prev);
   });
   return closest;
 };
 
-const getFixedDurationPlaylist = (userTracks, playlistDuration: number) => {
+const getFixedDurationPlaylist = (userTracks, playlistDuration: number): string[] => {
   const trackList = reduceTrackData(userTracks);
   const numberOfTracks = Math.round(playlistDuration / getMeanTrackDuration(trackList));
 

@@ -1,4 +1,4 @@
-const SpotifyWebApi = require('spotify-web-api-node');
+import SpotifyWebApi = require('spotify-web-api-node');
 
 const stateKey = 'spotify_auth_state';
 
