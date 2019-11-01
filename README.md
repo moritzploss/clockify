@@ -2,7 +2,7 @@
 
 ## About
 
-This repo contains the source files for a simple web service (`Clockify`) that generates and saves user-specific **Spotify playlists** with a given total length. In other words, you tell the service how long the playlist should be (in hours, minutes, and seconds), and a playlist with the name `clockify` will automagically appear in your private playlists, containing all your favourite songs.
+This repo contains the source files for a simple web service (`Clockify`) that generates and saves user-specific **Spotify playlists** with a given total duration. In other words, you tell the service how long the playlist should be and a new list with the name `clockify` will automagically appear in your private playlists, containing all your favourite songs.
 
 ## What it looks like
 
