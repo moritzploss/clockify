@@ -5,7 +5,7 @@ const { logger } = require('../logging/logging');
 const spotifyApi = spotifyConfig.apiWithCredentials();
 
 const getAccessToken = async (spotifyCode: string) => {
-  logger.info('attempting to get authoriazation code grant');
+  logger.info('attempting to get authorization code grant');
   try {
     const { body } = await spotifyApi.authorizationCodeGrant(spotifyCode);
     return { accessToken: body.access_token };
@@ -54,8 +54,8 @@ const getUserTracks = async (apiInstance, limit: number, offset: number) => {
 
 const getTargetPlaylist = async (apiInstance) => {
   const userPlaylists = await getUserPlaylists(apiInstance);
-  const playlistDetails = userPlaylists.body.items.map(({ id, name }) => ({ name, id }));
-  let targetPlaylist = playlistDetails.find((list) => list.name === process.env.PLAYLIST_NAME);
+  const playlistDetails = userPlaylists.body.items.map(({ id, name }) => ({ id, name }));
+  let targetPlaylist = playlistDetails.find((list: Playlist) => list.name === process.env.PLAYLIST_NAME);
 
   if (!targetPlaylist) {
     const { body } = await createPlaylist(apiInstance, process.env.PLAYLIST_NAME);

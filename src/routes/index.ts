@@ -1,11 +1,9 @@
-/* eslint-disable import/no-unresolved */
-
 import * as authentification from '../controllers/authentification';
 import * as authorization from '../controllers/authorization';
 import * as playlist from '../controllers/playlists';
 import * as home from '../controllers/home';
 
-const express = require('express');
+import express = require('express');
 
 const router = express.Router();
 
@@ -27,4 +25,4 @@ router.post('/create',
   authentification.getOrSaveAccessToken,
   playlist.makeClockifyPlaylist);
 
-module.exports = router;
+export default router;

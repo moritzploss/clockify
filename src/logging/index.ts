@@ -1,4 +1,4 @@
-const winston = require('winston');
+import winston = require('winston');
 
 const logger = winston.createLogger({
   format: winston.format.combine(
@@ -10,19 +10,15 @@ const logger = winston.createLogger({
       level: 'info',
       filename: './logs/all.log',
       handleExceptions: true,
-      json: true,
       maxsize: 5242880, // 5MB
       maxFiles: 5,
-      colorize: false,
     }),
     new winston.transports.File({
       level: 'error',
       filename: './logs/errors.log',
       handleExceptions: true,
-      json: true,
       maxsize: 5242880, // 5MB
       maxFiles: 5,
-      colorize: false,
     }),
 
   ],
@@ -34,8 +30,6 @@ if (process.env.NODE_ENV !== 'production') {
     new winston.transports.Console({
       level: 'debug',
       handleExceptions: true,
-      json: false,
-      colorize: true,
     }),
   );
 }
@@ -46,7 +40,7 @@ const stream = {
   },
 };
 
-module.exports = {
+export {
   logger,
   stream,
 };

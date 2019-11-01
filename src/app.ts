@@ -1,14 +1,14 @@
-const session = require('express-session');
-const express = require('express');
-const cors = require('cors');
-const cookieParser = require('cookie-parser');
+import router from './routes/index';
 
-const bodyParser = require('body-parser');
-const morgan = require('morgan');
-const helmet = require('helmet');
+import session = require('express-session');
+import express = require('express');
+import cors = require('cors');
+import cookieParser = require('cookie-parser');
+import bodyParser = require('body-parser');
+import morgan = require('morgan');
+import helmet = require('helmet');
 
-const router = require('./routes/index');
-const logging = require('./logging/logging');
+import logging = require('./logging/index');
 
 const app = express();
 
@@ -34,7 +34,7 @@ app.use('/', router);
 
 app.use((req, res) => res.render('notFound'));
 
-// eslint-disable-next-line no-unused-vars
+// eslint-disable-next-line @typescript-eslint/no-unused-vars
 app.use((err, req, res, next) => {
   logging.logger.error(err);
   req.session.spotifyCode = undefined;

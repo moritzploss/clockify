@@ -44,7 +44,7 @@ var getAccessToken = function (spotifyCode) { return __awaiter(void 0, void 0, v
     return __generator(this, function (_a) {
         switch (_a.label) {
             case 0:
-                logger.info('attempting to get authoriazation code grant');
+                logger.info('attempting to get authorization code grant');
                 _a.label = 1;
             case 1:
                 _a.trys.push([1, 3, , 4]);
@@ -131,7 +131,7 @@ var getTargetPlaylist = function (apiInstance) { return __awaiter(void 0, void 0
                 userPlaylists = _a.sent();
                 playlistDetails = userPlaylists.body.items.map(function (_a) {
                     var id = _a.id, name = _a.name;
-                    return ({ name: name, id: id });
+                    return ({ id: id, name: name });
                 });
                 targetPlaylist = playlistDetails.find(function (list) { return list.name === process.env.PLAYLIST_NAME; });
                 if (!!targetPlaylist) return [3 /*break*/, 3];
