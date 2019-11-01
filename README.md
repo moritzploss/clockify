@@ -6,7 +6,7 @@ This repo contains the source files for a simple web service (`Clockify`) that g
 
 ## What it looks like
 
-<img src="./screenshots/screenshot-1.png" alt="screenshot 1" width="33%"/><img src="./screenshots/screenshot-1.png" alt="screenshot 2" width="33%"/><img src="./screenshots/screenshot-1.png" alt="screenshot 3" width="33%"/>
+<img src="./screenshots/screenshot-1.png" alt="screenshot 1" width="33%"/><img src="./screenshots/screenshot-2.png" alt="screenshot 2" width="33%"/><img src="./screenshots/screenshot-3.png" alt="screenshot 3" width="33%"/>
 
 ## Attribution
 
