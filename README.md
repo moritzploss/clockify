@@ -1,14 +1,14 @@
-# hackday
+# Clockify
 
 ## About
 
-This project contains the source files for a simple web service (referred to as `Clockify`) that allows to generate and save user-specific Spotify playlists with a fixed total length. In other words, you tell the service how long the playlist should be (in hours, minutes and seconds), and a playlist with the name `clockify` will automagically appear in your private playlists, containing all your favourite songs.
+This project contains the source files for a simple web service (`Clockify`) that generates and saves user-specific Spotify playlists with a given total length. In other words, you tell the service how long the playlist should be (in hours, minutes, and seconds), and a playlist with the name `clockify` will automagically appear in your private playlists, containing all your favourite songs.
 
 This project is the result of a hackday as part of a fullstack developer course at `</salt>` in Stockholm. The setup for the initial commit was prepared in a private repo prior to the event.
 
 ## Attribution
 
-The `Express` server is inspired by [Spotify's Web Auth Examples](https://github.com/spotify/web-api-auth-examples), although it has been altered heavily over the course of the project. See `LICENSE` for the original license.
+The `express` server is inspired by [Spotify's Web Auth Examples](https://github.com/spotify/web-api-auth-examples), although it has been altered heavily over the course of the project. See `LICENSE` for the original license.
 
 ## Get Started
 

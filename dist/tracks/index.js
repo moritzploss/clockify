@@ -1,7 +1,7 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 var byDuration = function (track1, track2) { return ((track1.duration < track2.duration) ? -1 : 1); };
-var filterTrackData = function (tracks) { return (tracks.map(function (item) { return ({
+var reduceTrackData = function (tracks) { return (tracks.map(function (item) { return ({
     duration: item.track.duration_ms,
     id: item.track.id,
     name: item.track.name,
@@ -14,7 +14,7 @@ var getTrackByDuration = function (tracks, duration) {
     return closest;
 };
 var getFixedDurationPlaylist = function (userTracks, playlistDuration) {
-    var trackList = filterTrackData(userTracks);
+    var trackList = reduceTrackData(userTracks);
     var numberOfTracks = Math.round(playlistDuration / getMeanTrackDuration(trackList));
     var playlist = [];
     var timeLeft = playlistDuration;

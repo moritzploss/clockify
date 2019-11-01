@@ -2,7 +2,7 @@ const byDuration = (track1, track2) => (
   (track1.duration < track2.duration) ? -1 : 1
 );
 
-const filterTrackData = (tracks) => (
+const reduceTrackData = (tracks) => (
   tracks.map((item) => ({
     duration: item.track.duration_ms,
     id: item.track.id,
@@ -22,7 +22,7 @@ const getTrackByDuration = (tracks, duration: number) => {
 };
 
 const getFixedDurationPlaylist = (userTracks, playlistDuration: number) => {
-  const trackList = filterTrackData(userTracks);
+  const trackList = reduceTrackData(userTracks);
   const numberOfTracks = Math.round(playlistDuration / getMeanTrackDuration(trackList));
 
   const playlist = [];
