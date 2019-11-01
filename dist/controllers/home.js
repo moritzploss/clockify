@@ -1,6 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-var showWelcome = function (req, res, next) {
+var showHome = function (req, res, next) {
     try {
         return res.render('afterLogin');
     }
@@ -8,4 +8,4 @@ var showWelcome = function (req, res, next) {
         return next(error);
     }
 };
-exports.showWelcome = showWelcome;
+exports.showHome = showHome;

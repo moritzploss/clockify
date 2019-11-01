@@ -21,7 +21,7 @@ router.get('/callback',
 
 router.get('/',
   authorization.requireLogin,
-  home.showWelcome);
+  home.showHome);
 
 router.post('/create',
   authentification.getOrSaveAccessToken,

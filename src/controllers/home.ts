@@ -4,7 +4,7 @@ import { Request, Response } from 'express-serve-static-core';
 // eslint-disable-next-line no-unused-vars
 import { NextFunction } from 'connect';
 
-const showWelcome = (req: Request, res: Response, next: NextFunction) => {
+const showHome = (req: Request, res: Response, next: NextFunction) => {
   try {
     return res.render('afterLogin');
   } catch (error) {
@@ -13,5 +13,5 @@ const showWelcome = (req: Request, res: Response, next: NextFunction) => {
 };
 
 export {
-  showWelcome,
+  showHome,
 };

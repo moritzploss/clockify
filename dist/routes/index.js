@@ -10,6 +10,6 @@ var router = express.Router();
 router.get('/logout', authentification.logout);
 router.get('/login', authentification.loginWithSpotify);
 router.get('/callback', authentification.verifySpotifyState, authentification.saveSpotifyCodeToSession);
-router.get('/', authorization.requireLogin, home.showWelcome);
+router.get('/', authorization.requireLogin, home.showHome);
 router.post('/create', authentification.getOrSaveAccessToken, playlist.makeClockifyPlaylist);
 module.exports = router;
