@@ -8,9 +8,7 @@ This project is the result of a hackday as part of a fullstack developer course 
 
 ## What it looks like
 
-<img src="./screenshots/screenshot-1.png" alt="screenshot 1" width="33%"/>
-<img src="./screenshots/screenshot-1.png" alt="screenshot 2" width="33%"/>
-<img src="./screenshots/screenshot-1.png" alt="screenshot 3" width="33%"/>
+<img src="./screenshots/screenshot-1.png" alt="screenshot 1" width="33%"/><img src="./screenshots/screenshot-1.png" alt="screenshot 2" width="33%"/><img src="./screenshots/screenshot-1.png" alt="screenshot 3" width="33%"/>
 
 ## Attribution
 
