@@ -21,23 +21,22 @@ const getTrackByDuration = (tracks, duration: number) => {
   return closest;
 };
 
-const getFixedDurationPlaylist = (userTracks, targetDuration: number) => {
-  const sortedTracks = filterTrackData(userTracks).sort(byDuration);
-  let targetLength = getMeanTrackDuration(sortedTracks);
-  const numberOfTracks = Math.round(targetDuration / targetLength);
+const getFixedDurationPlaylist = (userTracks, playlistDuration: number) => {
+  const tracks = filterTrackData(userTracks);
+  const numberOfTracks = Math.round(playlistDuration / getMeanTrackDuration(tracks));
 
-  const tracksToAdd = [];
-  let i = 0;
-  let timeLeft = targetDuration;
-  while (i < numberOfTracks) {
-    targetLength = Math.round(timeLeft / (numberOfTracks - i));
-    const closest = getTrackByDuration(sortedTracks, targetLength);
-    tracksToAdd.push(`spotify:track:${closest.id}`);
-    sortedTracks.splice(sortedTracks.indexOf(closest), 1);
-    timeLeft -= closest.duration;
-    i += 1;
+  const playlist = [];
+  let timeLeft = playlistDuration;
+
+  for (let i = 0; i < numberOfTracks; i += 1) {
+    const targetTrackDuration = Math.round(timeLeft / (numberOfTracks - i));
+    const bestMatch = getTrackByDuration(tracks, targetTrackDuration);
+    playlist.push(`spotify:track:${bestMatch.id}`);
+    tracks.splice(tracks.indexOf(bestMatch), 1);
+    timeLeft -= bestMatch.duration;
   }
-  return tracksToAdd;
+
+  return playlist;
 };
 
 export {

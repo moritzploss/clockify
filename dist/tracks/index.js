@@ -13,21 +13,18 @@ var getTrackByDuration = function (tracks, duration) {
     });
     return closest;
 };
-var getFixedDurationPlaylist = function (userTracks, targetDuration) {
-    var sortedTracks = filterTrackData(userTracks).sort(byDuration);
-    var targetLength = getMeanTrackDuration(sortedTracks);
-    var numberOfTracks = Math.round(targetDuration / targetLength);
-    var tracksToAdd = [];
-    var i = 0;
-    var timeLeft = targetDuration;
-    while (i < numberOfTracks) {
-        targetLength = Math.round(timeLeft / (numberOfTracks - i));
-        var closest = getTrackByDuration(sortedTracks, targetLength);
-        tracksToAdd.push("spotify:track:" + closest.id);
-        sortedTracks.splice(sortedTracks.indexOf(closest), 1);
-        timeLeft -= closest.duration;
-        i += 1;
+var getFixedDurationPlaylist = function (userTracks, playlistDuration) {
+    var tracks = filterTrackData(userTracks);
+    var numberOfTracks = Math.round(playlistDuration / getMeanTrackDuration(tracks));
+    var playlist = [];
+    var timeLeft = playlistDuration;
+    for (var i = 0; i < numberOfTracks; i += 1) {
+        var targetTrackDuration = Math.round(timeLeft / (numberOfTracks - i));
+        var bestMatch = getTrackByDuration(tracks, targetTrackDuration);
+        playlist.push("spotify:track:" + bestMatch.id);
+        tracks.splice(tracks.indexOf(bestMatch), 1);
+        timeLeft -= bestMatch.duration;
     }
-    return tracksToAdd;
+    return playlist;
 };
 exports.getFixedDurationPlaylist = getFixedDurationPlaylist;
