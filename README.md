@@ -6,10 +6,6 @@ This project contains the source files for a simple web service (`Clockify`) tha
 
 This project is the result of a hackday as part of a fullstack developer course at `</salt>` in Stockholm. The setup for the initial commit was prepared in a private repo prior to the event.
 
-## What it looks like
-
-<img src="./screenshots/screenshot-1.png" alt="screenshot 1" width="33%"/><img src="./screenshots/screenshot-2.png" alt="screenshot 2" width="33%"/><img src="./screenshots/screenshot-3.png" alt="screenshot 3" width="33%"/>
-
 ## Attribution
 
 The `express` server is inspired by [Spotify's Web Auth Examples](https://github.com/spotify/web-api-auth-examples), although it has been altered heavily over the course of the project. See `LICENSE` for the original license.
