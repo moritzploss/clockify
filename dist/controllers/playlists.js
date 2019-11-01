@@ -39,8 +39,8 @@ Object.defineProperty(exports, "__esModule", { value: true });
 var spotify = require("../spotify/apiTools");
 var tracks = require("../tracks/index");
 var time = require("../time/index");
-var populate = function (req, res, next) { return __awaiter(void 0, void 0, void 0, function () {
-    var apiInstance, targetDuration, targetPlaylist, _a, userTracks, error, newTracks, error_1;
+var makeClockifyPlaylist = function (req, res, next) { return __awaiter(void 0, void 0, void 0, function () {
+    var apiInstance, targetDuration, targetPlaylistId, _a, userTracks, error, playlist, error_1;
     return __generator(this, function (_b) {
         switch (_b.label) {
             case 0:
@@ -51,18 +51,18 @@ var populate = function (req, res, next) { return __awaiter(void 0, void 0, void
                 targetDuration = time.userInputToMilliseconds(req.body);
                 return [4 /*yield*/, spotify.getTargetPlaylist(apiInstance)];
             case 2:
-                targetPlaylist = _b.sent();
+                targetPlaylistId = _b.sent();
                 return [4 /*yield*/, spotify.getNUserTracks(apiInstance, 500)];
             case 3:
                 _a = _b.sent(), userTracks = _a.userTracks, error = _a.error;
                 if (error) {
                     return [2 /*return*/, res.render('error')];
                 }
-                newTracks = tracks.getNewTracks(userTracks, targetDuration);
-                return [4 /*yield*/, spotify.replaceTracksInPlaylist(apiInstance, targetPlaylist, newTracks)];
+                playlist = tracks.getFixedDurationPlaylist(userTracks, targetDuration);
+                return [4 /*yield*/, spotify.replaceTracksInPlaylist(apiInstance, targetPlaylistId, playlist)];
             case 4:
                 _b.sent();
-                return [2 /*return*/, res.render('created', { playlistUrl: spotify.getPublicLink(targetPlaylist) })];
+                return [2 /*return*/, res.render('created', { playlistUrl: spotify.getPublicLink(targetPlaylistId) })];
             case 5:
                 error_1 = _b.sent();
                 return [2 /*return*/, next(error_1)];
@@ -70,4 +70,4 @@ var populate = function (req, res, next) { return __awaiter(void 0, void 0, void
         }
     });
 }); };
-exports.populate = populate;
+exports.makeClockifyPlaylist = makeClockifyPlaylist;

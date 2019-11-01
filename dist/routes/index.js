@@ -11,5 +11,5 @@ router.get('/logout', authentification.logout);
 router.get('/login', authentification.loginWithSpotify);
 router.get('/callback', authentification.verifySpotifyState, authentification.saveSpotifyCodeToSession);
 router.get('/', authorization.requireLogin, home.showWelcome);
-router.post('/create', authentification.getOrSaveAccessToken, playlist.populate);
+router.post('/create', authentification.getOrSaveAccessToken, playlist.makeClockifyPlaylist);
 module.exports = router;

@@ -25,6 +25,6 @@ router.get('/',
 
 router.post('/create',
   authentification.getOrSaveAccessToken,
-  playlist.populate);
+  playlist.makeClockifyPlaylist);
 
 module.exports = router;

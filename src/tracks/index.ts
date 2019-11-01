@@ -21,7 +21,7 @@ const getTrackByDuration = (tracks, duration: number) => {
   return closest;
 };
 
-const getNewTracks = (userTracks, targetDuration: number) => {
+const getFixedDurationPlaylist = (userTracks, targetDuration: number) => {
   const sortedTracks = filterTrackData(userTracks).sort(byDuration);
   let targetLength = getMeanTrackDuration(sortedTracks);
   const numberOfTracks = Math.round(targetDuration / targetLength);
@@ -41,5 +41,5 @@ const getNewTracks = (userTracks, targetDuration: number) => {
 };
 
 export {
-  getNewTracks
+  getFixedDurationPlaylist
 };

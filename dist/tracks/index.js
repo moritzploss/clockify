@@ -13,7 +13,7 @@ var getTrackByDuration = function (tracks, duration) {
     });
     return closest;
 };
-var getNewTracks = function (userTracks, targetDuration) {
+var getFixedDurationPlaylist = function (userTracks, targetDuration) {
     var sortedTracks = filterTrackData(userTracks).sort(byDuration);
     var targetLength = getMeanTrackDuration(sortedTracks);
     var numberOfTracks = Math.round(targetDuration / targetLength);
@@ -30,4 +30,4 @@ var getNewTracks = function (userTracks, targetDuration) {
     }
     return tracksToAdd;
 };
-exports.getNewTracks = getNewTracks;
+exports.getFixedDurationPlaylist = getFixedDurationPlaylist;
