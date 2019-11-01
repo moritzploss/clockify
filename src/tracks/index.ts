@@ -22,17 +22,17 @@ const getTrackByDuration = (tracks, duration: number) => {
 };
 
 const getFixedDurationPlaylist = (userTracks, playlistDuration: number) => {
-  const tracks = filterTrackData(userTracks);
-  const numberOfTracks = Math.round(playlistDuration / getMeanTrackDuration(tracks));
+  const trackList = filterTrackData(userTracks);
+  const numberOfTracks = Math.round(playlistDuration / getMeanTrackDuration(trackList));
 
   const playlist = [];
   let timeLeft = playlistDuration;
 
   for (let i = 0; i < numberOfTracks; i += 1) {
     const targetTrackDuration = Math.round(timeLeft / (numberOfTracks - i));
-    const bestMatch = getTrackByDuration(tracks, targetTrackDuration);
+    const bestMatch = getTrackByDuration(trackList, targetTrackDuration);
     playlist.push(`spotify:track:${bestMatch.id}`);
-    tracks.splice(tracks.indexOf(bestMatch), 1);
+    trackList.splice(trackList.indexOf(bestMatch), 1);
     timeLeft -= bestMatch.duration;
   }
 

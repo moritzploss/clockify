@@ -14,15 +14,15 @@ var getTrackByDuration = function (tracks, duration) {
     return closest;
 };
 var getFixedDurationPlaylist = function (userTracks, playlistDuration) {
-    var tracks = filterTrackData(userTracks);
-    var numberOfTracks = Math.round(playlistDuration / getMeanTrackDuration(tracks));
+    var trackList = filterTrackData(userTracks);
+    var numberOfTracks = Math.round(playlistDuration / getMeanTrackDuration(trackList));
     var playlist = [];
     var timeLeft = playlistDuration;
     for (var i = 0; i < numberOfTracks; i += 1) {
         var targetTrackDuration = Math.round(timeLeft / (numberOfTracks - i));
-        var bestMatch = getTrackByDuration(tracks, targetTrackDuration);
+        var bestMatch = getTrackByDuration(trackList, targetTrackDuration);
         playlist.push("spotify:track:" + bestMatch.id);
-        tracks.splice(tracks.indexOf(bestMatch), 1);
+        trackList.splice(trackList.indexOf(bestMatch), 1);
         timeLeft -= bestMatch.duration;
     }
     return playlist;
