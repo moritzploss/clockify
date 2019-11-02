@@ -23,7 +23,7 @@ const getTrackByDuration = (tracks: Track[], duration: number): Track => {
 
 const getFixedDurationPlaylist = (userTracks, playlistDuration: number): string[] => {
   const trackList = reduceTrackData(userTracks);
-  const numberOfTracks = Math.round(playlistDuration / getMeanTrackDuration(trackList));
+  const numberOfTracks = Math.round(playlistDuration / getMeanTrackDuration(trackList)) || 1;
 
   const playlist = [];
   let timeLeft = playlistDuration;

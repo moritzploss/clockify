@@ -15,7 +15,7 @@ var getTrackByDuration = function (tracks, duration) {
 };
 var getFixedDurationPlaylist = function (userTracks, playlistDuration) {
     var trackList = reduceTrackData(userTracks);
-    var numberOfTracks = Math.round(playlistDuration / getMeanTrackDuration(trackList));
+    var numberOfTracks = Math.round(playlistDuration / getMeanTrackDuration(trackList)) || 1;
     var playlist = [];
     var timeLeft = playlistDuration;
     for (var i = 0; i < numberOfTracks; i += 1) {
