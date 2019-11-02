@@ -1,4 +1,3 @@
-// eslint-disable-next-line import/no-unresolved
 import app from './app';
 
 // eslint-disable-next-line no-console
