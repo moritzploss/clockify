@@ -12,6 +12,4 @@ const showHome = (req: Request, res: Response, next: NextFunction): void => {
   }
 };
 
-export {
-  showHome,
-};
+export default showHome;

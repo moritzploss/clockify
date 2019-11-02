@@ -1,18 +1,12 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-var byDuration = function (track1, track2) { return ((track1.duration < track2.duration) ? -1 : 1); };
 var reduceTrackData = function (tracks) { return (tracks.map(function (item) { return ({
     duration: item.track.duration_ms,
     id: item.track.id,
     name: item.track.name,
 }); })); };
 var getMeanTrackDuration = function (tracks) { return (Math.round(tracks.reduce(function (acc, curr) { return acc + curr.duration; }, 0) / tracks.length)); };
-var getTrackByDuration = function (tracks, duration) {
-    var closest = tracks.reduce(function (prev, curr) {
-        return (Math.abs(curr.duration - duration) < Math.abs(prev.duration - duration) ? curr : prev);
-    });
-    return closest;
-};
+var getTrackByDuration = function (tracks, duration) { return (tracks.reduce(function (prev, curr) { return ((Math.abs(curr.duration - duration) < Math.abs(prev.duration - duration) ? curr : prev)); })); };
 var getFixedDurationPlaylist = function (userTracks, playlistDuration) {
     var trackList = reduceTrackData(userTracks);
     var numberOfTracks = Math.round(playlistDuration / getMeanTrackDuration(trackList)) || 1;
@@ -27,4 +21,4 @@ var getFixedDurationPlaylist = function (userTracks, playlistDuration) {
     }
     return playlist;
 };
-exports.getFixedDurationPlaylist = getFixedDurationPlaylist;
+exports.default = getFixedDurationPlaylist;

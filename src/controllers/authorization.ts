@@ -10,6 +10,4 @@ const requireLogin = (req: Request, res: Response, next: NextFunction): void => 
     : res.render('beforeLogin')
 );
 
-export {
-  requireLogin,
-};
+export default requireLogin;

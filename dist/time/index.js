@@ -9,4 +9,4 @@ var userInputToMilliseconds = function (_a) {
     var secsFromHrs = minutesToSeconds(hoursToMinutes(Number(hours)));
     return (secsFromSecs + secsFromMins + secsFromHrs) * 1000;
 };
-exports.userInputToMilliseconds = userInputToMilliseconds;
+exports.default = userInputToMilliseconds;

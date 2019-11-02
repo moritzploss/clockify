@@ -9,6 +9,4 @@ const userInputToMilliseconds = ({ hours, minutes, seconds }): number => {
   return (secsFromSecs + secsFromMins + secsFromHrs) * 1000;
 };
 
-export {
-  userInputToMilliseconds,
-};
+export default userInputToMilliseconds;

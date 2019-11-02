@@ -8,4 +8,4 @@ var showHome = function (req, res, next) {
         return next(error);
     }
 };
-exports.showHome = showHome;
+exports.default = showHome;

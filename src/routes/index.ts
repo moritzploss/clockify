@@ -1,7 +1,7 @@
 import * as authentification from '../controllers/authentification';
-import * as authorization from '../controllers/authorization';
-import * as playlist from '../controllers/playlists';
-import * as home from '../controllers/home';
+import makePlaylist from '../controllers/playlists';
+import requireLogin from '../controllers/authorization';
+import showHome from '../controllers/home';
 
 import express = require('express');
 
@@ -18,11 +18,11 @@ router.get('/callback',
   authentification.saveSpotifyCodeToSession);
 
 router.get('/',
-  authorization.requireLogin,
-  home.showHome);
+  requireLogin,
+  showHome);
 
 router.post('/create',
-  authentification.getOrSaveAccessToken,
-  playlist.makeClockifyPlaylist);
+  authentification.saveAccessToken,
+  makePlaylist);
 
 export default router;

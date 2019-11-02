@@ -38,14 +38,14 @@ var __generator = (this && this.__generator) || function (thisArg, body) {
 Object.defineProperty(exports, "__esModule", { value: true });
 var spotifyConfig = require("../spotify/config");
 var spotify = require("../spotify/apiTools");
-var randomstring = require('randomstring');
-var querystring = require('querystring');
+var randomstring = require("randomstring");
+var querystring = require("querystring");
 var logout = function (req, res) {
     req.session.spotifyCode = undefined;
     res.redirect('/');
 };
 exports.logout = logout;
-var getOrSaveAccessToken = function (req, res, next) { return __awaiter(void 0, void 0, void 0, function () {
+var saveAccessToken = function (req, res, next) { return __awaiter(void 0, void 0, void 0, function () {
     var _a, accessToken, error;
     return __generator(this, function (_b) {
         switch (_b.label) {
@@ -62,7 +62,7 @@ var getOrSaveAccessToken = function (req, res, next) { return __awaiter(void 0, 
         }
     });
 }); };
-exports.getOrSaveAccessToken = getOrSaveAccessToken;
+exports.saveAccessToken = saveAccessToken;
 var saveSpotifyCodeToSession = function (req, res) {
     req.session.spotifyCode = req.query.code || null;
     return res.redirect('/');

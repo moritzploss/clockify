@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/camelcase */
 /* eslint-disable import/no-unresolved */
 // eslint-disable-next-line no-unused-vars
 import { Request, Response } from 'express-serve-static-core';
@@ -7,15 +8,15 @@ import { NextFunction } from 'connect';
 import * as spotifyConfig from '../spotify/config';
 import * as spotify from '../spotify/apiTools';
 
-const randomstring = require('randomstring');
-const querystring = require('querystring');
+import randomstring = require('randomstring');
+import querystring = require('querystring');
 
-const logout = (req: Request, res: Response) => {
+const logout = (req: Request, res: Response): void => {
   req.session.spotifyCode = undefined;
   res.redirect('/');
 };
 
-const getOrSaveAccessToken = async (req: Request, res: Response, next: NextFunction): Promise<void> => {
+const saveAccessToken = async (req: Request, res: Response, next: NextFunction): Promise<void> => {
   if (!req.session.accessToken) {
     const { accessToken, error } = await spotify.getAccessToken(req.session.spotifyCode);
     req.session.accessToken = accessToken;
@@ -55,6 +56,6 @@ export {
   loginWithSpotify,
   verifySpotifyState,
   saveSpotifyCodeToSession,
-  getOrSaveAccessToken,
+  saveAccessToken,
   logout,
 };

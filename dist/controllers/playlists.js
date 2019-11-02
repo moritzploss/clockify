@@ -37,10 +37,10 @@ var __generator = (this && this.__generator) || function (thisArg, body) {
 };
 Object.defineProperty(exports, "__esModule", { value: true });
 var spotify = require("../spotify/apiTools");
-var tracks = require("../tracks/index");
-var time = require("../time/index");
-var makeClockifyPlaylist = function (req, res, next) { return __awaiter(void 0, void 0, void 0, function () {
-    var apiInstance, targetDuration, targetPlaylistId, _a, userTracks, error, playlist, error_1;
+var index_1 = require("../tracks/index");
+var index_2 = require("../time/index");
+var makePlaylist = function (req, res, next) { return __awaiter(void 0, void 0, void 0, function () {
+    var apiInstance, targetPlaylistId, _a, userTracks, error, playlist, error_1;
     return __generator(this, function (_b) {
         switch (_b.label) {
             case 0:
@@ -48,17 +48,15 @@ var makeClockifyPlaylist = function (req, res, next) { return __awaiter(void 0, 
                 return [4 /*yield*/, spotify.newApiInstance(req.session.accessToken)];
             case 1:
                 apiInstance = _b.sent();
-                targetDuration = time.userInputToMilliseconds(req.body);
                 return [4 /*yield*/, spotify.getTargetPlaylist(apiInstance)];
             case 2:
                 targetPlaylistId = _b.sent();
                 return [4 /*yield*/, spotify.getNUserTracks(apiInstance, 500)];
             case 3:
                 _a = _b.sent(), userTracks = _a.userTracks, error = _a.error;
-                if (error) {
+                if (error)
                     return [2 /*return*/, res.render('error')];
-                }
-                playlist = tracks.getFixedDurationPlaylist(userTracks, targetDuration);
+                playlist = index_1.default(userTracks, index_2.default(req.body));
                 return [4 /*yield*/, spotify.replaceTracksInPlaylist(apiInstance, targetPlaylistId, playlist)];
             case 4:
                 _b.sent();
@@ -70,4 +68,4 @@ var makeClockifyPlaylist = function (req, res, next) { return __awaiter(void 0, 
         }
     });
 }); };
-exports.makeClockifyPlaylist = makeClockifyPlaylist;
+exports.default = makePlaylist;
