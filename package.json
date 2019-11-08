@@ -10,7 +10,7 @@
     "compile": "tsc -p .",
     "public": "cp -r ./src/public/ ./dist/public/",
     "clearlogs": "rm -r ./logs",
-    "build": "npm run public && npm run clearlogs && npm run compile",
+    "build": "npm run public && npm run compile",
     "start": "node ./dist/server.js"
   },
   "dependencies": {
