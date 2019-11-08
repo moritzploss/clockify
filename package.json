@@ -7,6 +7,7 @@
     "lint": "esw -w --clear './src/**.ts'",
     "dev": "DEBUG=hackday:* nodemon ./dist/server.js --exec \"node --require 'dotenv/config'\"",
     "test": "mocha './tests/**.test.js' --exit",
+    "compile:watch": "tsc -p . --watch",
     "compile": "tsc -p .",
     "public": "cp -r ./src/public/ ./dist/public/",
     "clearlogs": "rm -r ./logs",

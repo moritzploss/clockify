@@ -4,8 +4,7 @@
     "lib": ["dom", "es2018"],
     "rootDir": "src",
     "outDir": "dist",
-    "skipLibCheck": true,
-    "watch": true
+    "skipLibCheck": true
   },
   "exclude": [
     "node_modules",
