@@ -46,7 +46,7 @@ const loginWithSpotify = (req: Request, res: Response): void => {
     response_type: 'code',
     client_id: process.env.SPOTIFY_CLIENT_ID,
     scope: spotifyConfig.scope,
-    redirect_uri: process.env.SPOTIFY_REDIRECT_URI,
+    redirect_uri: spotifyConfig.getRedirectURI(),
     state,
   });
   return res.redirect(`https://accounts.spotify.com/authorize?${reqParams}`);

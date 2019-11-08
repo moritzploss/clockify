@@ -11,7 +11,8 @@ body {
   padding: 0;
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: space-between;
+  flex-direction: column;
   height: 100%;
 }
 
@@ -22,7 +23,7 @@ h1 {
 }
 
 nav {
-  position: absolute;
+  background: transparent;
   top: 0px;
   left: 0px;
 }
@@ -134,5 +135,25 @@ nav {
 
 .bold {
   font-weight: 700;
+}
+
+.footer {
+  color: #bbb;
+  text-align: center;
+  padding: 10px;
+  font-weight: 300;
+}
+
+.github-link {
+  text-decoration: none;
+  color: #bbb;
+}
+
+.github-link:hover {
+  color: rgb(87, 181, 96);
+}
+
+.github-logo {
+  margin-left: 5px;
 }
 

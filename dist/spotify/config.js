@@ -24,9 +24,13 @@ var scope = [
     'app-remote-control',
 ].join(' ');
 exports.scope = scope;
+var getRedirectURI = function () { return ((process.env.NODE_ENV === 'production')
+    ? process.env.SPOTIFY_REDIRECT_URI_PROD
+    : process.env.SPOTIFY_REDIRECT_URI_DEV); };
+exports.getRedirectURI = getRedirectURI;
 var apiWithCredentials = function () { return (new SpotifyWebApi({
     clientId: process.env.SPOTIFY_CLIENT_ID,
     clientSecret: process.env.SPOTIFY_CLIENT_SECRET,
-    redirectUri: process.env.SPOTIFY_REDIRECT_URI,
+    redirectUri: getRedirectURI(),
 })); };
 exports.apiWithCredentials = apiWithCredentials;
