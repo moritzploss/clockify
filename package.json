@@ -11,6 +11,7 @@
     "public": "cp -r ./src/public/ ./dist/public/",
     "clearlogs": "rm -r ./logs",
     "build": "npm run public && npm run clearlogs && npm run compile"
+    "start": "node ./dist/server.js"
   },
   "dependencies": {
     "body-parser": "^1.19.0",
