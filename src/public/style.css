@@ -28,6 +28,11 @@ nav {
   left: 0px;
 }
 
+input, textarea {
+  -webkit-appearance: none;
+  border-radius: 0;
+}
+
 /* hide up/down arrows ("spinners") on input fields marked type="number" */
 .no-spinners {
   -moz-appearance:textfield;
@@ -88,6 +93,8 @@ nav {
   text-align: center; 
   background-color: black;
   border: none;
+  border-radius: 0;
+  -webkit-border-radius: 0;
   font-size: 24px;
   color: white;
   padding: 10px;
