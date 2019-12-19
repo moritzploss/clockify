@@ -37,14 +37,14 @@ var __generator = (this && this.__generator) || function (thisArg, body) {
 };
 Object.defineProperty(exports, "__esModule", { value: true });
 var spotifyConfig = require("./config");
-var logger = require('../logging/logging').logger;
+var logging_1 = require("../logging");
 var spotifyApi = spotifyConfig.apiWithCredentials();
 var getAccessToken = function (spotifyCode) { return __awaiter(void 0, void 0, void 0, function () {
     var body, error_1;
     return __generator(this, function (_a) {
         switch (_a.label) {
             case 0:
-                logger.info('attempting to get authorization code grant');
+                logging_1.logger.info('attempting to get authorization code grant');
                 _a.label = 1;
             case 1:
                 _a.trys.push([1, 3, , 4]);
@@ -62,7 +62,7 @@ var getAccessToken = function (spotifyCode) { return __awaiter(void 0, void 0, v
 exports.getAccessToken = getAccessToken;
 var newApiInstance = function (accessToken) { return __awaiter(void 0, void 0, void 0, function () {
     return __generator(this, function (_a) {
-        logger.info('attempting to set access token');
+        logging_1.logger.info('attempting to set access token');
         spotifyApi.setAccessToken(accessToken);
         return [2 /*return*/, spotifyApi];
     });
@@ -70,7 +70,7 @@ var newApiInstance = function (accessToken) { return __awaiter(void 0, void 0, v
 exports.newApiInstance = newApiInstance;
 var getUser = function (apiInstance) { return __awaiter(void 0, void 0, void 0, function () {
     return __generator(this, function (_a) {
-        logger.info('attempting to get user data');
+        logging_1.logger.info('attempting to get user data');
         return [2 /*return*/, apiInstance.getMe()];
     });
 }); };
@@ -82,7 +82,7 @@ var getUserPlaylists = function (apiInstance) { return __awaiter(void 0, void 0,
             case 0: return [4 /*yield*/, getUser(apiInstance)];
             case 1:
                 body = (_a.sent()).body;
-                logger.info('attempting to get user playlists');
+                logging_1.logger.info('attempting to get user playlists');
                 return [2 /*return*/, apiInstance.getUserPlaylists(body.id)];
         }
     });
@@ -90,14 +90,14 @@ var getUserPlaylists = function (apiInstance) { return __awaiter(void 0, void 0,
 exports.getUserPlaylists = getUserPlaylists;
 var addSongsToPlaylist = function (apiInstance, playlist, songArray) { return __awaiter(void 0, void 0, void 0, function () {
     return __generator(this, function (_a) {
-        logger.info('attempting to add songs to user playlist');
+        logging_1.logger.info('attempting to add songs to user playlist');
         return [2 /*return*/, apiInstance.addTracksToPlaylist(playlist, songArray)];
     });
 }); };
 exports.addSongsToPlaylist = addSongsToPlaylist;
 var replaceTracksInPlaylist = function (apiInstance, playlist, tracks) { return __awaiter(void 0, void 0, void 0, function () {
     return __generator(this, function (_a) {
-        logger.info('attempting to replace tracks in user playlist');
+        logging_1.logger.info('attempting to replace tracks in user playlist');
         return [2 /*return*/, apiInstance.replaceTracksInPlaylist(playlist, tracks)];
     });
 }); };
@@ -109,7 +109,7 @@ var createPlaylist = function (apiInstance, listName) { return __awaiter(void 0,
             case 0: return [4 /*yield*/, getUser(apiInstance)];
             case 1:
                 body = (_a.sent()).body;
-                logger.info('attempting to create new playlist');
+                logging_1.logger.info('attempting to create new playlist');
                 return [2 /*return*/, apiInstance.createPlaylist(body.id, listName)];
         }
     });
@@ -117,7 +117,7 @@ var createPlaylist = function (apiInstance, listName) { return __awaiter(void 0,
 exports.createPlaylist = createPlaylist;
 var getUserTracks = function (apiInstance, limit, offset) { return __awaiter(void 0, void 0, void 0, function () {
     return __generator(this, function (_a) {
-        logger.info('attempting to get saved tracks');
+        logging_1.logger.info('attempting to get saved tracks');
         return [2 /*return*/, apiInstance.getMySavedTracks({ limit: limit, offset: offset })];
     });
 }); };

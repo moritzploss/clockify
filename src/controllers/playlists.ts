@@ -1,6 +1,5 @@
 /* eslint-disable import/no-unresolved */
 import { Request, Response } from 'express-serve-static-core';
-// eslint-disable-next-line no-unused-vars
 import { NextFunction } from 'connect';
 
 import * as spotify from '../spotify/apiTools';

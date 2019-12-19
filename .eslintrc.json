@@ -1,10 +1,8 @@
 {
     "env": {
-        "browser": true,
         "es6": true,
         "node": true,
-        "mocha": true,
-        "commonjs": true
+        "jest": true
     },
     "extends": [
         "airbnb", 
@@ -30,7 +28,17 @@
         }
     },
     "rules": {
-      "indent": ["error", 2]
+        "indent": ["error", 2],
+        "import/extensions": [
+            "error",
+            "ignorePackages",
+            {
+            "js": "never",
+            "jsx": "never",
+            "ts": "never",
+            "tsx": "never"
+            }
+        ],
+        "import/prefer-default-export": "off"
     }
 }
-  

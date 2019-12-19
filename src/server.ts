@@ -1,5 +1,7 @@
 import app from './app';
 
-// eslint-disable-next-line no-console
-console.log(`Server started on port ${process.env.PORT} at ${new Date().toLocaleTimeString()}`);
 app.listen(process.env.PORT);
+
+const time = new Date().toLocaleTimeString();
+const address = `http://localhost:${process.env.PORT}`;
+process.stdout.write(`started at ${time} at ${address}`);

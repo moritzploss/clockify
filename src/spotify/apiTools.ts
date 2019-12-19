@@ -1,6 +1,7 @@
-import * as spotifyConfig from './config';
+import SpotifyWebApi from 'spotify-web-api-node';
 
-const { logger } = require('../logging/logging');
+import * as spotifyConfig from './config';
+import { logger } from '../logging';
 
 const spotifyApi = spotifyConfig.apiWithCredentials();
 
@@ -14,45 +15,45 @@ const getAccessToken = async (spotifyCode: string) => {
   }
 };
 
-const newApiInstance = async (accessToken: string) => {
+const newApiInstance = async (accessToken: string): Promise<SpotifyWebApi> => {
   logger.info('attempting to set access token');
   spotifyApi.setAccessToken(accessToken);
   return spotifyApi;
 };
 
-const getUser = async (apiInstance) => {
+const getUser = async (apiInstance: SpotifyWebApi) => {
   logger.info('attempting to get user data');
   return apiInstance.getMe();
 };
 
-const getUserPlaylists = async (apiInstance) => {
+const getUserPlaylists = async (apiInstance: SpotifyWebApi) => {
   const { body } = await getUser(apiInstance);
   logger.info('attempting to get user playlists');
   return apiInstance.getUserPlaylists(body.id);
 };
 
-const addSongsToPlaylist = async (apiInstance, playlist: string, songArray: string[]) => {
+const addSongsToPlaylist = async (apiInstance: SpotifyWebApi, playlist: string, songArray: string[]) => {
   logger.info('attempting to add songs to user playlist');
   return apiInstance.addTracksToPlaylist(playlist, songArray);
 };
 
-const replaceTracksInPlaylist = async (apiInstance, playlist: string, tracks: string[]) => {
+const replaceTracksInPlaylist = async (apiInstance: SpotifyWebApi, playlist: string, tracks: string[]) => {
   logger.info('attempting to replace tracks in user playlist');
   return apiInstance.replaceTracksInPlaylist(playlist, tracks);
 };
 
-const createPlaylist = async (apiInstance, listName: string) => {
+const createPlaylist = async (apiInstance: SpotifyWebApi, listName: string) => {
   const { body } = await getUser(apiInstance);
   logger.info('attempting to create new playlist');
   return apiInstance.createPlaylist(body.id, listName);
 };
 
-const getUserTracks = async (apiInstance, limit: number, offset: number) => {
+const getUserTracks = async (apiInstance: SpotifyWebApi, limit: number, offset: number) => {
   logger.info('attempting to get saved tracks');
   return apiInstance.getMySavedTracks({ limit, offset });
 };
 
-const getTargetPlaylist = async (apiInstance) => {
+const getTargetPlaylist = async (apiInstance: SpotifyWebApi) => {
   const userPlaylists = await getUserPlaylists(apiInstance);
   const playlistDetails = userPlaylists.body.items.map(({ id, name }) => ({ id, name }));
   let targetPlaylist = playlistDetails.find((list: Playlist) => list.name === process.env.PLAYLIST_NAME);
@@ -65,9 +66,9 @@ const getTargetPlaylist = async (apiInstance) => {
   return targetPlaylist.id;
 };
 
-const getPublicLink = (playlistId) => `https://open.spotify.com/playlist/${playlistId}`;
+const getPublicLink = (playlistId: string) => `https://open.spotify.com/playlist/${playlistId}`;
 
-const getNUserTracks = async (apiInstance, n: number) => {
+const getNUserTracks = async (apiInstance: SpotifyWebApi, n: number) => {
   const userTracks = [];
   let i = 0;
   const step = 50;

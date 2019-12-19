@@ -23,13 +23,13 @@ const scope = [
   'app-remote-control',
 ].join(' ');
 
-const getRedirectURI = () => (
+const getRedirectURI = (): string => (
   (process.env.NODE_ENV === 'production')
     ? process.env.SPOTIFY_REDIRECT_URI_PROD
     : process.env.SPOTIFY_REDIRECT_URI_DEV
 );
 
-const apiWithCredentials = () => (
+const apiWithCredentials = (): SpotifyWebApi => (
   new SpotifyWebApi({
     clientId: process.env.SPOTIFY_CLIENT_ID,
     clientSecret: process.env.SPOTIFY_CLIENT_SECRET,
